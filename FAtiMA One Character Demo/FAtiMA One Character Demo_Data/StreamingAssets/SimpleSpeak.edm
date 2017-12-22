@@ -20,7 +20,7 @@
 					"Type": "-",
 					"Conditions":
 						{
-							"Set": ["DialogueState(Player) = End"]
+							"Set": ["DialogueState(HappyGenebrar) = End"]
 						},
 					"Priority": 0
 				}]

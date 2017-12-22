@@ -4,16 +4,8 @@
 			"classId": 0,
 			"ScenarioName": "HelloWorld",
 			"Description": "Coise ",
-			"CharacterSources": ["Mary.rpc", "Player.rpc"],
+			"CharacterSources": ["HappyGenebra.rpc", "Player.rpc"],
 			"Dialogues": [
-				{
-					"CurrentState": "Player_GotIdea",
-					"NextState": "Genebra_Idea",
-					"Meaning": "Request",
-					"Style": "Neutral",
-					"Utterance": "Diz-me tu se tens alguma ideia.",
-					"UtteranceId": "TTS-1C80BF7D6840396268887A0E242ECCF0"
-				}, 
 				{
 					"CurrentState": "Player_GotIdea",
 					"NextState": "Genebra_ListenIdea",
@@ -127,12 +119,12 @@
 					"UtteranceId": "TTS-5B71BD6BB0F5E1A03E191A7EF16B2709"
 				}, 
 				{
-					"CurrentState": "Player_Argument",
-					"NextState": "Genebra_ANewHope",
-					"Meaning": "Proposal",
-					"Style": "Neutral",
-					"Utterance": "É assim, tenho uma outra ideia ma é algo estranha.",
-					"UtteranceId": "TTS-6C836C887C3EAFAB25CD7D6DFC62FF41"
+					"CurrentState": "Genebra_ANewHope",
+					"NextState": "Player_TheMetaBegins",
+					"Meaning": "Doubt",
+					"Style": "ANGRY",
+					"Utterance": "Se for tão boa como a primeira não sei se quero ouvir.",
+					"UtteranceId": "TTS-F25C41099F6BCFE38C12733963F6F256"
 				}, 
 				{
 					"CurrentState": "Genebra_MakesDecision",
@@ -143,12 +135,12 @@
 					"UtteranceId": "TTS-BAF1A736D95EE5203375359E7FA83D7B"
 				}, 
 				{
-					"CurrentState": "Genebra_ANewHope",
-					"NextState": "Player_TheMetaBegins",
-					"Meaning": "Doubt",
-					"Style": "ANGRY",
-					"Utterance": "Se for tão boa como a primeira ne sei se quero ouvir.",
-					"UtteranceId": "TTS-3B661ACB66B22B67418974F8663DA0D8"
+					"CurrentState": "Genebra_UniverseCollapses",
+					"NextState": "End",
+					"Meaning": "Acceptance",
+					"Style": "DEFEAT",
+					"Utterance": "Bom meme Duarte. Pode ser. *SUCCESS*",
+					"UtteranceId": "TTS-20F3DFA5F3DE920D2F620C59C1370067"
 				}, 
 				{
 					"CurrentState": "Player_TheMetaBegins",
@@ -159,20 +151,28 @@
 					"UtteranceId": "TTS-077169A7E9B8667A6ECD2FD33998396A"
 				}, 
 				{
-					"CurrentState": "Genebra_UniverseCollapses",
-					"NextState": "End",
-					"Meaning": "Acceptance",
-					"Style": "Defeat",
-					"Utterance": "Bom meme Duarte. Pode ser. *SUCCESS*",
-					"UtteranceId": "TTS-20F3DFA5F3DE920D2F620C59C1370067"
-				}, 
-				{
 					"CurrentState": "Genebra_FightsBack",
 					"NextState": "Player_TheMetaBegins",
 					"Meaning": "Doubt",
 					"Style": "ANGRY",
 					"Utterance": "Epá, não estou para aí virado. Vamos mas é despachar isto.",
 					"UtteranceId": "TTS-B492AC1F9FF48C852F9B2F96D59AFCEA"
+				}, 
+				{
+					"CurrentState": "Player_Argument",
+					"NextState": "Genebra_ANewHope",
+					"Meaning": "Proposal",
+					"Style": "Neutral",
+					"Utterance": "É assim, tenho uma outra ideia mas é algo estranha.",
+					"UtteranceId": "TTS-A786F9C8BAA47D6A81CBC00E1BDCEA13"
+				}, 
+				{
+					"CurrentState": "Player_GotIdea",
+					"NextState": "Genebra_Idea",
+					"Meaning": "AllowIdea",
+					"Style": "Neutral",
+					"Utterance": "Diz-me tu se tens alguma ideia.",
+					"UtteranceId": "TTS-1C80BF7D6840396268887A0E242ECCF0"
 				}]
 		},
 	"types": [
