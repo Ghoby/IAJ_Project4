@@ -7,6 +7,7 @@
 				{
 					"Action": "Speak([cs], [ns], [m], [s])",
 					"Target": "[x]",
+					"Type": "[x]",
 					"Conditions":
 						{
 							"Set": ["ValidDialogue([cs], [ns], [m], [s]) = True", "DialogueState([x]) = [cs]"]
@@ -17,6 +18,6 @@
 	"types": [
 		{
 			"TypeId": 0,
-			"ClassName": "EmotionalDecisionMaking.EmotionalDecisionMakingAsset, EmotionalDecisionMaking, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+			"ClassName": "EmotionalDecisionMaking.EmotionalDecisionMakingAsset, EmotionalDecisionMaking, Version=1.2.0.0, Culture=neutral, PublicKeyToken=null"
 		}]
 }
