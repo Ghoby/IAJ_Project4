@@ -33,6 +33,36 @@
 							"Set": ["DialogueState(Player) = End"]
 						},
 					"Priority": 0
+				}, 
+				{
+					"Action": "Speak([cs], [ns], SE([se], Answer), [sty])",
+					"Target": "[x]",
+					"Type": "[x]",
+					"Conditions":
+						{
+							"Set": ["[x] != SELF", "Has(Floor) = SELF", "Volition([se], SELF, [x]) = [sty]", "LastEventId(Action-End, [x], Speak([cs], [ns], SE([se], Initiate), [sty]), SELF) = [id]", "DialogueState([x]) = [cs]"]
+						},
+					"Priority": 2
+				}, 
+				{
+					"Action": "Speak([cs], [ns], SE([se], Finalize), [sty])",
+					"Target": "[x]",
+					"Type": "[x]",
+					"Conditions":
+						{
+							"Set": ["[x] != SELF", "Has(Floor) = SELF", "Volition([se], SELF, [x]) = [sty]", "LastEventId(Action-End, [x], Speak([cs], [ns], SE([se], Answer), [sty]), SELF) = [id]", "DialogueState([x]) = [cs]"]
+						},
+					"Priority": 3
+				}, 
+				{
+					"Action": "Speak([cs], [ns], SE([se], Initiate), [sty])",
+					"Target": "[x]",
+					"Type": "[x]",
+					"Conditions":
+						{
+							"Set": ["DialogueState([x]) = [cs]", "[x] != SELF", "Has(Floor) = SELF", "Volition([se], SELF, [x]) = [sty]", "ValidDialogue([cs], [ns], [m], Neutral) = True"]
+						},
+					"Priority": 1
 				}]
 		},
 	"types": [

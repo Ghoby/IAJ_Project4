@@ -20,7 +20,7 @@
 			"EmotionalAppraisalAssetSource": "HappyGenebra.ea",
 			"EmotionalDecisionMakingSource": "Genebra.edm",
 			"SocialImportanceAssetSource": "GenebraSocialImportance.si",
-			"CommeillFautAssetSource": null,
+			"CommeillFautAssetSource": "GenebraCIF.cif",
 			"EmotionalState":
 				{
 					"Mood": 0,

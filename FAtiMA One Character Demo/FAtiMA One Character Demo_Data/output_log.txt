@@ -53,13 +53,13 @@ Platform assembly: D:\André\IST\Mestrado\1ºAno\1ºSemestre\IAJ\gitProj4\IAJ_Pr
 Loading D:\André\IST\Mestrado\1ºAno\1ºSemestre\IAJ\gitProj4\IAJ_Project4\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\ICSharpCode.SharpZipLib.dll into Unity Child Domain
 Platform assembly: D:\André\IST\Mestrado\1ºAno\1ºSemestre\IAJ\gitProj4\IAJ_Project4\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\System.dll (this message is harmless)
 Platform assembly: D:\André\IST\Mestrado\1ºAno\1ºSemestre\IAJ\gitProj4\IAJ_Project4\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\System.Core.dll (this message is harmless)
-- Completed reload, in  0.091 seconds
+- Completed reload, in  0.529 seconds
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 2.455070 ms
+UnloadTime: 4.986913 ms
 Platform assembly: D:\André\IST\Mestrado\1ºAno\1ºSemestre\IAJ\gitProj4\IAJ_Project4\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\Mono.Security.dll (this message is harmless)
-Registering Asset CommeillFautAsset/CommeillFautAsset as CommeillFautAsset_0
+Registering Asset EmotionalAppraisalAsset/EmotionalAppraisalAsset as EmotionalAppraisalAsset_0
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
@@ -67,11 +67,11 @@ Registered 1 Asset(s)
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-CommeillFautAsset VersionInfo is missing
+EmotionalAppraisalAsset VersionInfo is missing
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-Registering Asset EmotionalAppraisalAsset/EmotionalAppraisalAsset as EmotionalAppraisalAsset_1
+Registering Asset SocialImportanceAsset/SocialImportanceAsset as SocialImportanceAsset_1
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
@@ -79,11 +79,11 @@ Registered 2 Asset(s)
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-EmotionalAppraisalAsset VersionInfo is missing
+SocialImportanceAsset VersionInfo is missing
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-Registering Asset SocialImportanceAsset/SocialImportanceAsset as SocialImportanceAsset_2
+Registering Asset CommeillFautAsset/CommeillFautAsset as CommeillFautAsset_2
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
@@ -91,48 +91,40 @@ Registered 3 Asset(s)
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-SocialImportanceAsset VersionInfo is missing
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Registering Asset CommeillFautAsset/CommeillFautAsset as CommeillFautAsset_3
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Registered 4 Asset(s)
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
 CommeillFautAsset VersionInfo is missing
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
+Calculating Volition for Greeting init: SELF targ: Player result: 1
+Calculating Volition for Greeting init: SELF targ: Start result: 0
+Calculating Volition for Greeting init: SELF targ: True result: 0
+InvalidOperationException: Operation is not valid due to the current state of the object
+  at System.Linq.Enumerable.Last[BaseEvent] (IEnumerable`1 source) [0x00000] in <filename unknown>:0 
+  at AutobiographicMemory.AM+<LastEventIdPropertyCalculator>d__27.MoveNext () [0x00000] in <filename unknown>:0 
+  at System.Linq.Enumerable+<CreateGroupByIterator>c__Iterator6`3[KnowledgeBase.DynamicPropertyResult,WellFormedNames.ComplexValue,WellFormedNames.SubstitutionSet].MoveNext () [0x00000] in <filename unknown>:0 
+  at System.Linq.Enumerable+<CreateSelectIterator>c__Iterator10`2[System.Linq.IGrouping`2[WellFormedNames.ComplexValue,WellFormedNames.SubstitutionSet],Utilities.Pair`2[WellFormedNames.ComplexValue,System.Collections.Generic.IEnumerable`1[WellFormedNames.SubstitutionSet]]].MoveNext () [0x00000] in <filename unknown>:0 
+  at KnowledgeBase.KB+<internal_AskPossibleProperties>d__21.MoveNext () [0x00000] in <filename unknown>:0 
+  at Conditions.Condition+PropertyValueRetriver+<Retrieve>d__2.MoveNext () [0x00000] in <filename unknown>:0 
+  at Conditions.Condition+EqualityDefinitionCondition+<CheckActivation>d__3.MoveNext () [0x00000] in <filename unknown>:0 
+  at System.Linq.Enumerable+<CreateDistinctIterator>c__Iterator3`1[WellFormedNames.SubstitutionSet].MoveNext () [0x00000] in <filename unknown>:0 
+  at System.Collections.Generic.List`1[WellFormedNames.SubstitutionSet].AddEnumerable (IEnumerable`1 enumerable) [0x00000] in <filename unknown>:0 
+  at System.Collections.Generic.List`1[WellFormedNames.SubstitutionSet].AddRange (IEnumerable`1 collection) [0x00000] in <filename unknown>:0 
+  at Conditions.ConditionSet.ExistentialEvaluate (IQueryable db, WellFormedNames.Name perspective, IEnumerable`1 constraints) [0x00000] in <filename unknown>:0 
+  at Conditions.ConditionSet.Unify (IQueryable db, WellFormedNames.Name perspective, IEnumerable`1 constraints) [0x00000] in <filename unknown>:0 
+  at EmotionalDecisionMaking.ActionTendencies.SelectActions (IQueryable kb, WellFormedNames.Name perspective, WellFormedNames.Name actionType) [0x00000] in <filename unknown>:0 
+  at EmotionalDecisionMaking.EmotionalDecisionMakingAsset.Decide (WellFormedNames.Name actionType) [0x00000] in <filename unknown>:0 
+  at RolePlayCharacter.RolePlayCharacterAsset.Decide (WellFormedNames.Name actionType) [0x00000] in <filename unknown>:0 
+  at RolePlayCharacter.RolePlayCharacterAsset.Decide () [0x00000] in <filename unknown>:0 
+  at ScenarioManager+<DetermineAgentDialogue>c__Iterator1.MoveNext () [0x00000] in <filename unknown>:0 
+  at UnityEngine.SetupCoroutine.InvokeMoveNext (IEnumerator enumerator, IntPtr returnValueAddress) [0x00000] in <filename unknown>:0 
+UnityEngine.MonoBehaviour:StartCoroutine_Auto_Internal(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+ScenarioManager:Start()
+ 
+(Filename:  Line: -1)
+
 Setting up 4 worker threads for Enlighten.
-  Thread -> id: 2268 -> priority: 1 
-  Thread -> id: 410 -> priority: 1 
-  Thread -> id: 28b4 -> priority: 1 
-  Thread -> id: 1264 -> priority: 1 
-Unknown Error
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Unknown Error
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Unknown Error
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Unknown Error
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Unknown Error
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Unknown Error
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
+  Thread -> id: 3d7c -> priority: 1 
+  Thread -> id: 3868 -> priority: 1 
+  Thread -> id: 39c8 -> priority: 1 
+  Thread -> id: 41ac -> priority: 1 

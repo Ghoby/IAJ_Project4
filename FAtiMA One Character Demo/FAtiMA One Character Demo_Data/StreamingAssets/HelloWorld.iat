@@ -15,14 +15,6 @@
 					"UtteranceId": "TTS-4296A74F99D1276B31FFC33D0E019DDB"
 				}, 
 				{
-					"CurrentState": "Start",
-					"NextState": "Player_GotIdea",
-					"Meaning": "Desperation",
-					"Style": "NEUTRAL",
-					"Utterance": "Tão, precisamos de um tema para o projecto de IAJ. Alguma ideia?",
-					"UtteranceId": "TTS-C5F54D3900E963C39717B0D6A25FC4C6"
-				}, 
-				{
 					"CurrentState": "Genebra_Idea",
 					"NextState": "Player_DestroyGenebra",
 					"Meaning": "Proposal",
@@ -197,6 +189,62 @@
 					"Style": "NEUTRAL",
 					"Utterance": "Estás a vontade para dizer a ideia. Estamos a ficar sem opções, por isso qualquer coisa é bem-vinda.",
 					"UtteranceId": "TTS-8AA911F037A75068875C56B5870A5953"
+				}, 
+				{
+					"CurrentState": "Player_Greeting",
+					"NextState": "Genebra_Greeting",
+					"Meaning": "Greeting",
+					"Style": "Neutral",
+					"Utterance": "Olá Genebra, tudo bem?",
+					"UtteranceId": "TTS-4999FF70A1C9B4F7A8AEF9A7187EDDF9"
+				}, 
+				{
+					"CurrentState": "Genebra_Greeting",
+					"NextState": "Player_Greeting2",
+					"Meaning": "SE(Greeting, Answer)",
+					"Style": "Neutral",
+					"Utterance": "Está tudo.",
+					"UtteranceId": "TTS-F82CCF7BBCA57C577250A1A347226326"
+				}, 
+				{
+					"CurrentState": "Start",
+					"NextState": "Player_Greeting",
+					"Meaning": "SE(Greeting, Initiate)",
+					"Style": "Neutral",
+					"Utterance": "Olá Duarte.",
+					"UtteranceId": "TTS-D130F598DCBA4288B1F862EB5F3CD27B"
+				}, 
+				{
+					"CurrentState": "Genebra_Greeting",
+					"NextState": "Player_Greeting2",
+					"Meaning": "SE(Greeting, Answer)",
+					"Style": "Positive",
+					"Utterance": "Está tudo fixe. Menos projetos e ficava ainda melhor!",
+					"UtteranceId": "TTS-0B3EA806CFB42E4CF01B215D5297F97F"
+				}, 
+				{
+					"CurrentState": "Start_RealConversation",
+					"NextState": "Player_GotIdea",
+					"Meaning": "Desperation",
+					"Style": "NEUTRAL",
+					"Utterance": "Tão, precisamos de um tema para o projecto de IAJ. Alguma ideia?",
+					"UtteranceId": "TTS-C5F54D3900E963C39717B0D6A25FC4C6"
+				}, 
+				{
+					"CurrentState": "Genebra_GreetingFinalize",
+					"NextState": "Start_RealConversation",
+					"Meaning": "SE(Greeting, Finalize)",
+					"Style": "Neutral",
+					"Utterance": "Tá fixe, Tá fixe.",
+					"UtteranceId": "TTS-E8A80E28942143A81C8644BAA62C95D4"
+				}, 
+				{
+					"CurrentState": "Player_Greeting2",
+					"NextState": "Genebra_GreetingFinalize",
+					"Meaning": "Greeting",
+					"Style": "Neutral",
+					"Utterance": "Isso é que é preciso",
+					"UtteranceId": "TTS-3D289F2339890C7C9250AF530B23503E"
 				}]
 		},
 	"types": [
