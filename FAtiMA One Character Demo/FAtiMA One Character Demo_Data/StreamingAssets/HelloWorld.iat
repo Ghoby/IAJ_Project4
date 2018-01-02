@@ -3,7 +3,7 @@
 		{
 			"classId": 0,
 			"ScenarioName": "HelloWorld",
-			"Description": "Coise ",
+			"Description": "Neste cenário, tu irás tentar persuadir o Genebra (teu colega de grupo a IAJ) a aceitar a ideia absolutamente genial que tiveste para o diálogo do projeto 4 de IAJ.\r\nUsa os teus melhores dotes de dar graxa e lamber-botas para o conseguir. \r\nCaso contrário, o Genebra vai-se chatear contigo e mandar-te dar uma curva.",
 			"CharacterSources": ["HappyGenebra.rpc", "Player.rpc"],
 			"Dialogues": [
 				{

@@ -20,7 +20,7 @@
 			"EmotionalAppraisalAssetSource": "PisedGenebra.ea",
 			"EmotionalDecisionMakingSource": "Genebra.edm",
 			"SocialImportanceAssetSource": "GenebraSocialImportance.si",
-			"CommeillFautAssetSource": "GenebraCIF.cif",
+			"CommeillFautAssetSource": "",
 			"EmotionalState":
 				{
 					"Mood": 0,
