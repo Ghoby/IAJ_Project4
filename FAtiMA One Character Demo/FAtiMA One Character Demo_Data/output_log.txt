@@ -1,121 +1,66 @@
 Initialize engine version: 2017.1.0f3 (472613c02cf7)
 GfxDevice: creating device client; threaded=1
 Direct3D:
-    Version:  Direct3D 11.0 [level 11.1]
-    Renderer: NVIDIA GeForce GTX 970 (ID=0x13c2)
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 820M (ID=0x1140)
     Vendor:   NVIDIA
-    VRAM:     4058 MB
-    Driver:   23.21.13.8871
+    VRAM:     973 MB
+    Driver:   22.21.13.8569
 Begin MonoManager ReloadAssembly
-<<<<<<< Updated upstream
-Platform assembly: D:\André\IST\Mestrado\1ºAno\1ºSemestre\IAJ\gitProj4\IAJ_Project4\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading D:\André\IST\Mestrado\1ºAno\1ºSemestre\IAJ\gitProj4\IAJ_Project4\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: D:\André\IST\Mestrado\1ºAno\1ºSemestre\IAJ\gitProj4\IAJ_Project4\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
-Loading D:\André\IST\Mestrado\1ºAno\1ºSemestre\IAJ\gitProj4\IAJ_Project4\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
-Platform assembly: D:\André\IST\Mestrado\1ºAno\1ºSemestre\IAJ\gitProj4\IAJ_Project4\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading D:\André\IST\Mestrado\1ºAno\1ºSemestre\IAJ\gitProj4\IAJ_Project4\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: D:\André\IST\Mestrado\1ºAno\1ºSemestre\IAJ\gitProj4\IAJ_Project4\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading D:\André\IST\Mestrado\1ºAno\1ºSemestre\IAJ\gitProj4\IAJ_Project4\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-Platform assembly: D:\André\IST\Mestrado\1ºAno\1ºSemestre\IAJ\gitProj4\IAJ_Project4\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
-Loading D:\André\IST\Mestrado\1ºAno\1ºSemestre\IAJ\gitProj4\IAJ_Project4\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-Platform assembly: D:\André\IST\Mestrado\1ºAno\1ºSemestre\IAJ\gitProj4\IAJ_Project4\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
-Loading D:\André\IST\Mestrado\1ºAno\1ºSemestre\IAJ\gitProj4\IAJ_Project4\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
-Platform assembly: D:\André\IST\Mestrado\1ºAno\1ºSemestre\IAJ\gitProj4\IAJ_Project4\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\ActionLibrary.dll (this message is harmless)
-Loading D:\André\IST\Mestrado\1ºAno\1ºSemestre\IAJ\gitProj4\IAJ_Project4\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\ActionLibrary.dll into Unity Child Domain
-Platform assembly: D:\André\IST\Mestrado\1ºAno\1ºSemestre\IAJ\gitProj4\IAJ_Project4\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\AutobiographicMemory.dll (this message is harmless)
-Loading D:\André\IST\Mestrado\1ºAno\1ºSemestre\IAJ\gitProj4\IAJ_Project4\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\AutobiographicMemory.dll into Unity Child Domain
-Platform assembly: D:\André\IST\Mestrado\1ºAno\1ºSemestre\IAJ\gitProj4\IAJ_Project4\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\CommeillFaut.dll (this message is harmless)
-Loading D:\André\IST\Mestrado\1ºAno\1ºSemestre\IAJ\gitProj4\IAJ_Project4\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\CommeillFaut.dll into Unity Child Domain
-Platform assembly: D:\André\IST\Mestrado\1ºAno\1ºSemestre\IAJ\gitProj4\IAJ_Project4\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\Conditions.dll (this message is harmless)
-Loading D:\André\IST\Mestrado\1ºAno\1ºSemestre\IAJ\gitProj4\IAJ_Project4\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\Conditions.dll into Unity Child Domain
-Platform assembly: D:\André\IST\Mestrado\1ºAno\1ºSemestre\IAJ\gitProj4\IAJ_Project4\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\EmotionalAppraisal.dll (this message is harmless)
-Loading D:\André\IST\Mestrado\1ºAno\1ºSemestre\IAJ\gitProj4\IAJ_Project4\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\EmotionalAppraisal.dll into Unity Child Domain
-Platform assembly: D:\André\IST\Mestrado\1ºAno\1ºSemestre\IAJ\gitProj4\IAJ_Project4\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\EmotionalDecisionMaking.dll (this message is harmless)
-Loading D:\André\IST\Mestrado\1ºAno\1ºSemestre\IAJ\gitProj4\IAJ_Project4\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\EmotionalDecisionMaking.dll into Unity Child Domain
-Platform assembly: D:\André\IST\Mestrado\1ºAno\1ºSemestre\IAJ\gitProj4\IAJ_Project4\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\GAIPS.Rage.dll (this message is harmless)
-Loading D:\André\IST\Mestrado\1ºAno\1ºSemestre\IAJ\gitProj4\IAJ_Project4\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\GAIPS.Rage.dll into Unity Child Domain
-Platform assembly: D:\André\IST\Mestrado\1ºAno\1ºSemestre\IAJ\gitProj4\IAJ_Project4\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\GAIPS.Serialization.dll (this message is harmless)
-Loading D:\André\IST\Mestrado\1ºAno\1ºSemestre\IAJ\gitProj4\IAJ_Project4\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\GAIPS.Serialization.dll into Unity Child Domain
-Platform assembly: D:\André\IST\Mestrado\1ºAno\1ºSemestre\IAJ\gitProj4\IAJ_Project4\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\IntegratedAuthoringTool.dll (this message is harmless)
-Loading D:\André\IST\Mestrado\1ºAno\1ºSemestre\IAJ\gitProj4\IAJ_Project4\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\IntegratedAuthoringTool.dll into Unity Child Domain
-Platform assembly: D:\André\IST\Mestrado\1ºAno\1ºSemestre\IAJ\gitProj4\IAJ_Project4\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\KnowledgeBase.dll (this message is harmless)
-Loading D:\André\IST\Mestrado\1ºAno\1ºSemestre\IAJ\gitProj4\IAJ_Project4\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\KnowledgeBase.dll into Unity Child Domain
-Platform assembly: D:\André\IST\Mestrado\1ºAno\1ºSemestre\IAJ\gitProj4\IAJ_Project4\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\RageAssetManager.dll (this message is harmless)
-Loading D:\André\IST\Mestrado\1ºAno\1ºSemestre\IAJ\gitProj4\IAJ_Project4\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\RageAssetManager.dll into Unity Child Domain
-Platform assembly: D:\André\IST\Mestrado\1ºAno\1ºSemestre\IAJ\gitProj4\IAJ_Project4\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\RolePlayCharacter.dll (this message is harmless)
-Loading D:\André\IST\Mestrado\1ºAno\1ºSemestre\IAJ\gitProj4\IAJ_Project4\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\RolePlayCharacter.dll into Unity Child Domain
-Platform assembly: D:\André\IST\Mestrado\1ºAno\1ºSemestre\IAJ\gitProj4\IAJ_Project4\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\SocialImportanceAsset.dll (this message is harmless)
-Loading D:\André\IST\Mestrado\1ºAno\1ºSemestre\IAJ\gitProj4\IAJ_Project4\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\SocialImportanceAsset.dll into Unity Child Domain
-Platform assembly: D:\André\IST\Mestrado\1ºAno\1ºSemestre\IAJ\gitProj4\IAJ_Project4\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\Utilities.dll (this message is harmless)
-Loading D:\André\IST\Mestrado\1ºAno\1ºSemestre\IAJ\gitProj4\IAJ_Project4\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\Utilities.dll into Unity Child Domain
-Platform assembly: D:\André\IST\Mestrado\1ºAno\1ºSemestre\IAJ\gitProj4\IAJ_Project4\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\WellFormedNames.dll (this message is harmless)
-Loading D:\André\IST\Mestrado\1ºAno\1ºSemestre\IAJ\gitProj4\IAJ_Project4\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\WellFormedNames.dll into Unity Child Domain
-Platform assembly: D:\André\IST\Mestrado\1ºAno\1ºSemestre\IAJ\gitProj4\IAJ_Project4\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\ICSharpCode.SharpZipLib.dll (this message is harmless)
-Loading D:\André\IST\Mestrado\1ºAno\1ºSemestre\IAJ\gitProj4\IAJ_Project4\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\ICSharpCode.SharpZipLib.dll into Unity Child Domain
-Platform assembly: D:\André\IST\Mestrado\1ºAno\1ºSemestre\IAJ\gitProj4\IAJ_Project4\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\System.dll (this message is harmless)
-Platform assembly: D:\André\IST\Mestrado\1ºAno\1ºSemestre\IAJ\gitProj4\IAJ_Project4\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\System.Core.dll (this message is harmless)
-- Completed reload, in  0.529 seconds
+Platform assembly: C:\Users\Duarte Ferreira\Desktop\IAJ_Project4-8be7a4a7e68c4cad1068313a36ffa8bca5df6cfe\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Duarte Ferreira\Desktop\IAJ_Project4-8be7a4a7e68c4cad1068313a36ffa8bca5df6cfe\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Duarte Ferreira\Desktop\IAJ_Project4-8be7a4a7e68c4cad1068313a36ffa8bca5df6cfe\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Duarte Ferreira\Desktop\IAJ_Project4-8be7a4a7e68c4cad1068313a36ffa8bca5df6cfe\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Duarte Ferreira\Desktop\IAJ_Project4-8be7a4a7e68c4cad1068313a36ffa8bca5df6cfe\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Duarte Ferreira\Desktop\IAJ_Project4-8be7a4a7e68c4cad1068313a36ffa8bca5df6cfe\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Duarte Ferreira\Desktop\IAJ_Project4-8be7a4a7e68c4cad1068313a36ffa8bca5df6cfe\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Duarte Ferreira\Desktop\IAJ_Project4-8be7a4a7e68c4cad1068313a36ffa8bca5df6cfe\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Duarte Ferreira\Desktop\IAJ_Project4-8be7a4a7e68c4cad1068313a36ffa8bca5df6cfe\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Duarte Ferreira\Desktop\IAJ_Project4-8be7a4a7e68c4cad1068313a36ffa8bca5df6cfe\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Duarte Ferreira\Desktop\IAJ_Project4-8be7a4a7e68c4cad1068313a36ffa8bca5df6cfe\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading C:\Users\Duarte Ferreira\Desktop\IAJ_Project4-8be7a4a7e68c4cad1068313a36ffa8bca5df6cfe\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: C:\Users\Duarte Ferreira\Desktop\IAJ_Project4-8be7a4a7e68c4cad1068313a36ffa8bca5df6cfe\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\ActionLibrary.dll (this message is harmless)
+Loading C:\Users\Duarte Ferreira\Desktop\IAJ_Project4-8be7a4a7e68c4cad1068313a36ffa8bca5df6cfe\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\ActionLibrary.dll into Unity Child Domain
+Platform assembly: C:\Users\Duarte Ferreira\Desktop\IAJ_Project4-8be7a4a7e68c4cad1068313a36ffa8bca5df6cfe\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\AutobiographicMemory.dll (this message is harmless)
+Loading C:\Users\Duarte Ferreira\Desktop\IAJ_Project4-8be7a4a7e68c4cad1068313a36ffa8bca5df6cfe\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\AutobiographicMemory.dll into Unity Child Domain
+Platform assembly: C:\Users\Duarte Ferreira\Desktop\IAJ_Project4-8be7a4a7e68c4cad1068313a36ffa8bca5df6cfe\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\CommeillFaut.dll (this message is harmless)
+Loading C:\Users\Duarte Ferreira\Desktop\IAJ_Project4-8be7a4a7e68c4cad1068313a36ffa8bca5df6cfe\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\CommeillFaut.dll into Unity Child Domain
+Platform assembly: C:\Users\Duarte Ferreira\Desktop\IAJ_Project4-8be7a4a7e68c4cad1068313a36ffa8bca5df6cfe\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\Conditions.dll (this message is harmless)
+Loading C:\Users\Duarte Ferreira\Desktop\IAJ_Project4-8be7a4a7e68c4cad1068313a36ffa8bca5df6cfe\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\Conditions.dll into Unity Child Domain
+Platform assembly: C:\Users\Duarte Ferreira\Desktop\IAJ_Project4-8be7a4a7e68c4cad1068313a36ffa8bca5df6cfe\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\EmotionalAppraisal.dll (this message is harmless)
+Loading C:\Users\Duarte Ferreira\Desktop\IAJ_Project4-8be7a4a7e68c4cad1068313a36ffa8bca5df6cfe\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\EmotionalAppraisal.dll into Unity Child Domain
+Platform assembly: C:\Users\Duarte Ferreira\Desktop\IAJ_Project4-8be7a4a7e68c4cad1068313a36ffa8bca5df6cfe\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\EmotionalDecisionMaking.dll (this message is harmless)
+Loading C:\Users\Duarte Ferreira\Desktop\IAJ_Project4-8be7a4a7e68c4cad1068313a36ffa8bca5df6cfe\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\EmotionalDecisionMaking.dll into Unity Child Domain
+Platform assembly: C:\Users\Duarte Ferreira\Desktop\IAJ_Project4-8be7a4a7e68c4cad1068313a36ffa8bca5df6cfe\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\GAIPS.Rage.dll (this message is harmless)
+Loading C:\Users\Duarte Ferreira\Desktop\IAJ_Project4-8be7a4a7e68c4cad1068313a36ffa8bca5df6cfe\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\GAIPS.Rage.dll into Unity Child Domain
+Platform assembly: C:\Users\Duarte Ferreira\Desktop\IAJ_Project4-8be7a4a7e68c4cad1068313a36ffa8bca5df6cfe\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\GAIPS.Serialization.dll (this message is harmless)
+Loading C:\Users\Duarte Ferreira\Desktop\IAJ_Project4-8be7a4a7e68c4cad1068313a36ffa8bca5df6cfe\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\GAIPS.Serialization.dll into Unity Child Domain
+Platform assembly: C:\Users\Duarte Ferreira\Desktop\IAJ_Project4-8be7a4a7e68c4cad1068313a36ffa8bca5df6cfe\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\IntegratedAuthoringTool.dll (this message is harmless)
+Loading C:\Users\Duarte Ferreira\Desktop\IAJ_Project4-8be7a4a7e68c4cad1068313a36ffa8bca5df6cfe\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\IntegratedAuthoringTool.dll into Unity Child Domain
+Platform assembly: C:\Users\Duarte Ferreira\Desktop\IAJ_Project4-8be7a4a7e68c4cad1068313a36ffa8bca5df6cfe\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\KnowledgeBase.dll (this message is harmless)
+Loading C:\Users\Duarte Ferreira\Desktop\IAJ_Project4-8be7a4a7e68c4cad1068313a36ffa8bca5df6cfe\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\KnowledgeBase.dll into Unity Child Domain
+Platform assembly: C:\Users\Duarte Ferreira\Desktop\IAJ_Project4-8be7a4a7e68c4cad1068313a36ffa8bca5df6cfe\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\RageAssetManager.dll (this message is harmless)
+Loading C:\Users\Duarte Ferreira\Desktop\IAJ_Project4-8be7a4a7e68c4cad1068313a36ffa8bca5df6cfe\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\RageAssetManager.dll into Unity Child Domain
+Platform assembly: C:\Users\Duarte Ferreira\Desktop\IAJ_Project4-8be7a4a7e68c4cad1068313a36ffa8bca5df6cfe\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\RolePlayCharacter.dll (this message is harmless)
+Loading C:\Users\Duarte Ferreira\Desktop\IAJ_Project4-8be7a4a7e68c4cad1068313a36ffa8bca5df6cfe\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\RolePlayCharacter.dll into Unity Child Domain
+Platform assembly: C:\Users\Duarte Ferreira\Desktop\IAJ_Project4-8be7a4a7e68c4cad1068313a36ffa8bca5df6cfe\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\SocialImportanceAsset.dll (this message is harmless)
+Loading C:\Users\Duarte Ferreira\Desktop\IAJ_Project4-8be7a4a7e68c4cad1068313a36ffa8bca5df6cfe\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\SocialImportanceAsset.dll into Unity Child Domain
+Platform assembly: C:\Users\Duarte Ferreira\Desktop\IAJ_Project4-8be7a4a7e68c4cad1068313a36ffa8bca5df6cfe\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\Utilities.dll (this message is harmless)
+Loading C:\Users\Duarte Ferreira\Desktop\IAJ_Project4-8be7a4a7e68c4cad1068313a36ffa8bca5df6cfe\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\Utilities.dll into Unity Child Domain
+Platform assembly: C:\Users\Duarte Ferreira\Desktop\IAJ_Project4-8be7a4a7e68c4cad1068313a36ffa8bca5df6cfe\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\WellFormedNames.dll (this message is harmless)
+Loading C:\Users\Duarte Ferreira\Desktop\IAJ_Project4-8be7a4a7e68c4cad1068313a36ffa8bca5df6cfe\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\WellFormedNames.dll into Unity Child Domain
+Platform assembly: C:\Users\Duarte Ferreira\Desktop\IAJ_Project4-8be7a4a7e68c4cad1068313a36ffa8bca5df6cfe\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\ICSharpCode.SharpZipLib.dll (this message is harmless)
+Loading C:\Users\Duarte Ferreira\Desktop\IAJ_Project4-8be7a4a7e68c4cad1068313a36ffa8bca5df6cfe\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\ICSharpCode.SharpZipLib.dll into Unity Child Domain
+Platform assembly: C:\Users\Duarte Ferreira\Desktop\IAJ_Project4-8be7a4a7e68c4cad1068313a36ffa8bca5df6cfe\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\Duarte Ferreira\Desktop\IAJ_Project4-8be7a4a7e68c4cad1068313a36ffa8bca5df6cfe\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.053 seconds
 <RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 4.986913 ms
-Platform assembly: D:\André\IST\Mestrado\1ºAno\1ºSemestre\IAJ\gitProj4\IAJ_Project4\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\Mono.Security.dll (this message is harmless)
-Registering Asset EmotionalAppraisalAsset/EmotionalAppraisalAsset as EmotionalAppraisalAsset_0
-=======
-Platform assembly: C:\Users\Duarte 2\Dropbox\IST_Geral\1_Mestrado_1_Sem\Inteligência Artificial para Jogos\Memes\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading C:\Users\Duarte 2\Dropbox\IST_Geral\1_Mestrado_1_Sem\Inteligência Artificial para Jogos\Memes\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: C:\Users\Duarte 2\Dropbox\IST_Geral\1_Mestrado_1_Sem\Inteligência Artificial para Jogos\Memes\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
-Loading C:\Users\Duarte 2\Dropbox\IST_Geral\1_Mestrado_1_Sem\Inteligência Artificial para Jogos\Memes\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
-Platform assembly: C:\Users\Duarte 2\Dropbox\IST_Geral\1_Mestrado_1_Sem\Inteligência Artificial para Jogos\Memes\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading C:\Users\Duarte 2\Dropbox\IST_Geral\1_Mestrado_1_Sem\Inteligência Artificial para Jogos\Memes\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: C:\Users\Duarte 2\Dropbox\IST_Geral\1_Mestrado_1_Sem\Inteligência Artificial para Jogos\Memes\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading C:\Users\Duarte 2\Dropbox\IST_Geral\1_Mestrado_1_Sem\Inteligência Artificial para Jogos\Memes\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-Platform assembly: C:\Users\Duarte 2\Dropbox\IST_Geral\1_Mestrado_1_Sem\Inteligência Artificial para Jogos\Memes\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
-Loading C:\Users\Duarte 2\Dropbox\IST_Geral\1_Mestrado_1_Sem\Inteligência Artificial para Jogos\Memes\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-Platform assembly: C:\Users\Duarte 2\Dropbox\IST_Geral\1_Mestrado_1_Sem\Inteligência Artificial para Jogos\Memes\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
-Loading C:\Users\Duarte 2\Dropbox\IST_Geral\1_Mestrado_1_Sem\Inteligência Artificial para Jogos\Memes\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
-Platform assembly: C:\Users\Duarte 2\Dropbox\IST_Geral\1_Mestrado_1_Sem\Inteligência Artificial para Jogos\Memes\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\ActionLibrary.dll (this message is harmless)
-Loading C:\Users\Duarte 2\Dropbox\IST_Geral\1_Mestrado_1_Sem\Inteligência Artificial para Jogos\Memes\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\ActionLibrary.dll into Unity Child Domain
-Platform assembly: C:\Users\Duarte 2\Dropbox\IST_Geral\1_Mestrado_1_Sem\Inteligência Artificial para Jogos\Memes\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\AutobiographicMemory.dll (this message is harmless)
-Loading C:\Users\Duarte 2\Dropbox\IST_Geral\1_Mestrado_1_Sem\Inteligência Artificial para Jogos\Memes\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\AutobiographicMemory.dll into Unity Child Domain
-Platform assembly: C:\Users\Duarte 2\Dropbox\IST_Geral\1_Mestrado_1_Sem\Inteligência Artificial para Jogos\Memes\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\CommeillFaut.dll (this message is harmless)
-Loading C:\Users\Duarte 2\Dropbox\IST_Geral\1_Mestrado_1_Sem\Inteligência Artificial para Jogos\Memes\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\CommeillFaut.dll into Unity Child Domain
-Platform assembly: C:\Users\Duarte 2\Dropbox\IST_Geral\1_Mestrado_1_Sem\Inteligência Artificial para Jogos\Memes\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\Conditions.dll (this message is harmless)
-Loading C:\Users\Duarte 2\Dropbox\IST_Geral\1_Mestrado_1_Sem\Inteligência Artificial para Jogos\Memes\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\Conditions.dll into Unity Child Domain
-Platform assembly: C:\Users\Duarte 2\Dropbox\IST_Geral\1_Mestrado_1_Sem\Inteligência Artificial para Jogos\Memes\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\EmotionalAppraisal.dll (this message is harmless)
-Loading C:\Users\Duarte 2\Dropbox\IST_Geral\1_Mestrado_1_Sem\Inteligência Artificial para Jogos\Memes\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\EmotionalAppraisal.dll into Unity Child Domain
-Platform assembly: C:\Users\Duarte 2\Dropbox\IST_Geral\1_Mestrado_1_Sem\Inteligência Artificial para Jogos\Memes\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\EmotionalDecisionMaking.dll (this message is harmless)
-Loading C:\Users\Duarte 2\Dropbox\IST_Geral\1_Mestrado_1_Sem\Inteligência Artificial para Jogos\Memes\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\EmotionalDecisionMaking.dll into Unity Child Domain
-Platform assembly: C:\Users\Duarte 2\Dropbox\IST_Geral\1_Mestrado_1_Sem\Inteligência Artificial para Jogos\Memes\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\GAIPS.Rage.dll (this message is harmless)
-Loading C:\Users\Duarte 2\Dropbox\IST_Geral\1_Mestrado_1_Sem\Inteligência Artificial para Jogos\Memes\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\GAIPS.Rage.dll into Unity Child Domain
-Platform assembly: C:\Users\Duarte 2\Dropbox\IST_Geral\1_Mestrado_1_Sem\Inteligência Artificial para Jogos\Memes\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\GAIPS.Serialization.dll (this message is harmless)
-Loading C:\Users\Duarte 2\Dropbox\IST_Geral\1_Mestrado_1_Sem\Inteligência Artificial para Jogos\Memes\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\GAIPS.Serialization.dll into Unity Child Domain
-Platform assembly: C:\Users\Duarte 2\Dropbox\IST_Geral\1_Mestrado_1_Sem\Inteligência Artificial para Jogos\Memes\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\IntegratedAuthoringTool.dll (this message is harmless)
-Loading C:\Users\Duarte 2\Dropbox\IST_Geral\1_Mestrado_1_Sem\Inteligência Artificial para Jogos\Memes\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\IntegratedAuthoringTool.dll into Unity Child Domain
-Platform assembly: C:\Users\Duarte 2\Dropbox\IST_Geral\1_Mestrado_1_Sem\Inteligência Artificial para Jogos\Memes\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\KnowledgeBase.dll (this message is harmless)
-Loading C:\Users\Duarte 2\Dropbox\IST_Geral\1_Mestrado_1_Sem\Inteligência Artificial para Jogos\Memes\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\KnowledgeBase.dll into Unity Child Domain
-Platform assembly: C:\Users\Duarte 2\Dropbox\IST_Geral\1_Mestrado_1_Sem\Inteligência Artificial para Jogos\Memes\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\RageAssetManager.dll (this message is harmless)
-Loading C:\Users\Duarte 2\Dropbox\IST_Geral\1_Mestrado_1_Sem\Inteligência Artificial para Jogos\Memes\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\RageAssetManager.dll into Unity Child Domain
-Platform assembly: C:\Users\Duarte 2\Dropbox\IST_Geral\1_Mestrado_1_Sem\Inteligência Artificial para Jogos\Memes\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\RolePlayCharacter.dll (this message is harmless)
-Loading C:\Users\Duarte 2\Dropbox\IST_Geral\1_Mestrado_1_Sem\Inteligência Artificial para Jogos\Memes\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\RolePlayCharacter.dll into Unity Child Domain
-Platform assembly: C:\Users\Duarte 2\Dropbox\IST_Geral\1_Mestrado_1_Sem\Inteligência Artificial para Jogos\Memes\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\SocialImportanceAsset.dll (this message is harmless)
-Loading C:\Users\Duarte 2\Dropbox\IST_Geral\1_Mestrado_1_Sem\Inteligência Artificial para Jogos\Memes\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\SocialImportanceAsset.dll into Unity Child Domain
-Platform assembly: C:\Users\Duarte 2\Dropbox\IST_Geral\1_Mestrado_1_Sem\Inteligência Artificial para Jogos\Memes\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\Utilities.dll (this message is harmless)
-Loading C:\Users\Duarte 2\Dropbox\IST_Geral\1_Mestrado_1_Sem\Inteligência Artificial para Jogos\Memes\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\Utilities.dll into Unity Child Domain
-Platform assembly: C:\Users\Duarte 2\Dropbox\IST_Geral\1_Mestrado_1_Sem\Inteligência Artificial para Jogos\Memes\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\WellFormedNames.dll (this message is harmless)
-Loading C:\Users\Duarte 2\Dropbox\IST_Geral\1_Mestrado_1_Sem\Inteligência Artificial para Jogos\Memes\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\WellFormedNames.dll into Unity Child Domain
-Platform assembly: C:\Users\Duarte 2\Dropbox\IST_Geral\1_Mestrado_1_Sem\Inteligência Artificial para Jogos\Memes\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\ICSharpCode.SharpZipLib.dll (this message is harmless)
-Loading C:\Users\Duarte 2\Dropbox\IST_Geral\1_Mestrado_1_Sem\Inteligência Artificial para Jogos\Memes\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\ICSharpCode.SharpZipLib.dll into Unity Child Domain
-Platform assembly: C:\Users\Duarte 2\Dropbox\IST_Geral\1_Mestrado_1_Sem\Inteligência Artificial para Jogos\Memes\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\System.dll (this message is harmless)
-Platform assembly: C:\Users\Duarte 2\Dropbox\IST_Geral\1_Mestrado_1_Sem\Inteligência Artificial para Jogos\Memes\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\System.Core.dll (this message is harmless)
-- Completed reload, in  0.022 seconds
-<RI> Initializing input.
-<RI> Input initialized.
-<RI> Initialized touch support.
-UnloadTime: 1.043628 ms
-Platform assembly: C:\Users\Duarte 2\Dropbox\IST_Geral\1_Mestrado_1_Sem\Inteligência Artificial para Jogos\Memes\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\Mono.Security.dll (this message is harmless)
+UnloadTime: 1.639172 ms
+Platform assembly: C:\Users\Duarte Ferreira\Desktop\IAJ_Project4-8be7a4a7e68c4cad1068313a36ffa8bca5df6cfe\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\Mono.Security.dll (this message is harmless)
 Registering Asset CommeillFautAsset/CommeillFautAsset as CommeillFautAsset_0
->>>>>>> Stashed changes
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
@@ -123,11 +68,11 @@ Registered 1 Asset(s)
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-EmotionalAppraisalAsset VersionInfo is missing
+CommeillFautAsset VersionInfo is missing
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-Registering Asset SocialImportanceAsset/SocialImportanceAsset as SocialImportanceAsset_1
+Registering Asset EmotionalAppraisalAsset/EmotionalAppraisalAsset as EmotionalAppraisalAsset_1
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
@@ -135,11 +80,11 @@ Registered 2 Asset(s)
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-SocialImportanceAsset VersionInfo is missing
+EmotionalAppraisalAsset VersionInfo is missing
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-Registering Asset CommeillFautAsset/CommeillFautAsset as CommeillFautAsset_2
+Registering Asset SocialImportanceAsset/SocialImportanceAsset as SocialImportanceAsset_2
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
@@ -147,44 +92,25 @@ Registered 3 Asset(s)
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
+SocialImportanceAsset VersionInfo is missing
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Registering Asset CommeillFautAsset/CommeillFautAsset as CommeillFautAsset_3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Registered 4 Asset(s)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
 CommeillFautAsset VersionInfo is missing
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-<<<<<<< Updated upstream
-Calculating Volition for Greeting init: SELF targ: Player result: 1
-Calculating Volition for Greeting init: SELF targ: Start result: 0
-Calculating Volition for Greeting init: SELF targ: True result: 0
-InvalidOperationException: Operation is not valid due to the current state of the object
-  at System.Linq.Enumerable.Last[BaseEvent] (IEnumerable`1 source) [0x00000] in <filename unknown>:0 
-  at AutobiographicMemory.AM+<LastEventIdPropertyCalculator>d__27.MoveNext () [0x00000] in <filename unknown>:0 
-  at System.Linq.Enumerable+<CreateGroupByIterator>c__Iterator6`3[KnowledgeBase.DynamicPropertyResult,WellFormedNames.ComplexValue,WellFormedNames.SubstitutionSet].MoveNext () [0x00000] in <filename unknown>:0 
-  at System.Linq.Enumerable+<CreateSelectIterator>c__Iterator10`2[System.Linq.IGrouping`2[WellFormedNames.ComplexValue,WellFormedNames.SubstitutionSet],Utilities.Pair`2[WellFormedNames.ComplexValue,System.Collections.Generic.IEnumerable`1[WellFormedNames.SubstitutionSet]]].MoveNext () [0x00000] in <filename unknown>:0 
-  at KnowledgeBase.KB+<internal_AskPossibleProperties>d__21.MoveNext () [0x00000] in <filename unknown>:0 
-  at Conditions.Condition+PropertyValueRetriver+<Retrieve>d__2.MoveNext () [0x00000] in <filename unknown>:0 
-  at Conditions.Condition+EqualityDefinitionCondition+<CheckActivation>d__3.MoveNext () [0x00000] in <filename unknown>:0 
-  at System.Linq.Enumerable+<CreateDistinctIterator>c__Iterator3`1[WellFormedNames.SubstitutionSet].MoveNext () [0x00000] in <filename unknown>:0 
-  at System.Collections.Generic.List`1[WellFormedNames.SubstitutionSet].AddEnumerable (IEnumerable`1 enumerable) [0x00000] in <filename unknown>:0 
-  at System.Collections.Generic.List`1[WellFormedNames.SubstitutionSet].AddRange (IEnumerable`1 collection) [0x00000] in <filename unknown>:0 
-  at Conditions.ConditionSet.ExistentialEvaluate (IQueryable db, WellFormedNames.Name perspective, IEnumerable`1 constraints) [0x00000] in <filename unknown>:0 
-  at Conditions.ConditionSet.Unify (IQueryable db, WellFormedNames.Name perspective, IEnumerable`1 constraints) [0x00000] in <filename unknown>:0 
-  at EmotionalDecisionMaking.ActionTendencies.SelectActions (IQueryable kb, WellFormedNames.Name perspective, WellFormedNames.Name actionType) [0x00000] in <filename unknown>:0 
-  at EmotionalDecisionMaking.EmotionalDecisionMakingAsset.Decide (WellFormedNames.Name actionType) [0x00000] in <filename unknown>:0 
-  at RolePlayCharacter.RolePlayCharacterAsset.Decide (WellFormedNames.Name actionType) [0x00000] in <filename unknown>:0 
-  at RolePlayCharacter.RolePlayCharacterAsset.Decide () [0x00000] in <filename unknown>:0 
-  at ScenarioManager+<DetermineAgentDialogue>c__Iterator1.MoveNext () [0x00000] in <filename unknown>:0 
-  at UnityEngine.SetupCoroutine.InvokeMoveNext (IEnumerator enumerator, IntPtr returnValueAddress) [0x00000] in <filename unknown>:0 
-UnityEngine.MonoBehaviour:StartCoroutine_Auto_Internal(IEnumerator)
-UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
-ScenarioManager:Start()
- 
-(Filename:  Line: -1)
-=======
-Setting up 4 worker threads for Enlighten.
-  Thread -> id: 3244 -> priority: 1 
-  Thread -> id: 321c -> priority: 1 
-  Thread -> id: 17f0 -> priority: 1 
-  Thread -> id: 24a8 -> priority: 1 
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1354 -> priority: 1 
+  Thread -> id: 2b90 -> priority: 1 
 Unknown Error
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
@@ -193,17 +119,3 @@ Unknown Error
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-Unknown Error
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Unknown Error
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
->>>>>>> Stashed changes
-
-Setting up 4 worker threads for Enlighten.
-  Thread -> id: 3d7c -> priority: 1 
-  Thread -> id: 3868 -> priority: 1 
-  Thread -> id: 39c8 -> priority: 1 
-  Thread -> id: 41ac -> priority: 1 
