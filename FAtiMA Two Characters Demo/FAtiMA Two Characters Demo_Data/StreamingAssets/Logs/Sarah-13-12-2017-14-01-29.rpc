@@ -1,0 +1,405 @@
+{
+	"root":
+		{
+			"classId": 2,
+			"KnowledgeBase":
+				{
+					"Perspective": "Sarah",
+					"Knowledge":
+						{
+							"SELF":
+								{
+									"DialogueState(John)": "Start, 1",
+									"Has(Floor)": "Sarah, 1",
+									"HasFloor(Sarah)": "False, 1",
+									"IsAttracted(Sarah, John)": "True, 0",
+									"IsFriend(Sarah, John)": "True, 1"
+								}
+						}
+				},
+			"BodyName": "Female",
+			"VoiceName": "Female",
+			"EmotionalAppraisalAssetSource": "CiF-Scenario-EA.ea",
+			"EmotionalDecisionMakingSource": "CiF-Scenario-EDM.edm",
+			"SocialImportanceAssetSource": "CiF-Scenario-SI.si",
+			"CommeillFautAssetSource": "CiF-Scenario-CiF.cif",
+			"EmotionalState":
+				{
+					"Mood": -2.72201,
+					"initialTick": 21,
+					"EmotionalPool": [
+						{
+							"Intensity": 4.987428,
+							"Decay": 1,
+							"Threshold": 1,
+							"CauseId": 13,
+							"Direction": "John",
+							"EventName": "Event(Action-End, John, Speak(-, -, SE(Compliment, Answer), Negative), Sarah)",
+							"EmotionType": "Anger",
+							"Valence": "Negative",
+							"AppraisalVariables": ["DESIRABILITY", "PRAISEWORTHINESS"],
+							"InfluenceMood": true
+						}, 
+						{
+							"Intensity": 4.605058,
+							"Decay": 1,
+							"Threshold": 1,
+							"CauseId": 13,
+							"EventName": "Event(Action-End, John, Speak(-, -, SE(Compliment, Answer), Negative), Sarah)",
+							"EmotionType": "Distress",
+							"Valence": "Negative",
+							"AppraisalVariables": ["DESIRABILITY"],
+							"InfluenceMood": true
+						}, 
+						{
+							"Intensity": 6.681989,
+							"Decay": 1,
+							"Threshold": 1,
+							"CauseId": 13,
+							"Direction": "John",
+							"EventName": "Event(Action-End, John, Speak(-, -, SE(Compliment, Answer), Negative), Sarah)",
+							"EmotionType": "Reproach",
+							"Valence": "Negative",
+							"AppraisalVariables": ["PRAISEWORTHINESS"],
+							"InfluenceMood": true
+						}, 
+						{
+							"Intensity": 1.165338,
+							"Decay": 1,
+							"Threshold": 1,
+							"CauseId": 17,
+							"Direction": "John",
+							"EventName": "Event(Action-End, John, Speak(-, -, SE(Flirt, Initiate), Positive), Sarah)",
+							"EmotionType": "Gratitude",
+							"Valence": "Positive",
+							"AppraisalVariables": ["DESIRABILITY", "PRAISEWORTHINESS"],
+							"InfluenceMood": true
+						}, 
+						{
+							"Intensity": 1.270218,
+							"Decay": 1,
+							"Threshold": 1,
+							"CauseId": 17,
+							"EventName": "Event(Action-End, John, Speak(-, -, SE(Flirt, Initiate), Positive), Sarah)",
+							"EmotionType": "Joy",
+							"Valence": "Positive",
+							"AppraisalVariables": ["DESIRABILITY"],
+							"InfluenceMood": true
+						}, 
+						{
+							"Intensity": 1.384538,
+							"Decay": 1,
+							"Threshold": 1,
+							"CauseId": 17,
+							"Direction": "John",
+							"EventName": "Event(Action-End, John, Speak(-, -, SE(Flirt, Initiate), Positive), Sarah)",
+							"EmotionType": "Admiration",
+							"Valence": "Positive",
+							"AppraisalVariables": ["PRAISEWORTHINESS"],
+							"InfluenceMood": true
+						}, 
+						{
+							"Intensity": 1.685983,
+							"Decay": 1,
+							"Threshold": 1,
+							"CauseId": 21,
+							"Direction": "John",
+							"EventName": "Event(Action-End, John, Speak(-, -, SE(Flirt, Finalize), Positive), Sarah)",
+							"EmotionType": "Gratitude",
+							"Valence": "Positive",
+							"AppraisalVariables": ["DESIRABILITY", "PRAISEWORTHINESS"],
+							"InfluenceMood": true
+						}, 
+						{
+							"Intensity": 1.837722,
+							"Decay": 1,
+							"Threshold": 1,
+							"CauseId": 21,
+							"EventName": "Event(Action-End, John, Speak(-, -, SE(Flirt, Finalize), Positive), Sarah)",
+							"EmotionType": "Joy",
+							"Valence": "Positive",
+							"AppraisalVariables": ["DESIRABILITY"],
+							"InfluenceMood": true
+						}, 
+						{
+							"Intensity": 2.003117,
+							"Decay": 1,
+							"Threshold": 1,
+							"CauseId": 21,
+							"Direction": "John",
+							"EventName": "Event(Action-End, John, Speak(-, -, SE(Flirt, Finalize), Positive), Sarah)",
+							"EmotionType": "Admiration",
+							"Valence": "Positive",
+							"AppraisalVariables": ["PRAISEWORTHINESS"],
+							"InfluenceMood": true
+						}],
+					"AppraisalConfiguration":
+						{
+							"HalfLifeDecayConstant": 0.5,
+							"EmotionInfluenceOnMoodFactor": 0.3,
+							"MoodInfluenceOnEmotionFactor": 0.3,
+							"MinimumMoodValueForInfluencingEmotions": 0.5,
+							"EmotionalHalfLifeDecayTime": 15,
+							"MoodHalfLifeDecayTime": 60
+						}
+				},
+			"AutobiographicMemory":
+				{
+					"Tick": 21,
+					"records": [
+						{
+							"classId": 0,
+							"Id": 1,
+							"Type": "Action-End",
+							"Subject": "John",
+							"Timestamp": 0,
+							"Action": "Enters",
+							"Target": "Room"
+						}, 
+						{
+							"classId": 0,
+							"Id": 2,
+							"Type": "Action-End",
+							"Subject": "Player",
+							"Timestamp": 0,
+							"Action": "Enters",
+							"Target": "Room"
+						}, 
+						{
+							"classId": 1,
+							"Id": 3,
+							"Type": "Property-Change",
+							"Subject": "John",
+							"Timestamp": 1,
+							"Property": "Has(Floor)",
+							"NewValue": "Player"
+						}, 
+						{
+							"classId": 0,
+							"Id": 4,
+							"Type": "Action-End",
+							"Subject": "John",
+							"Timestamp": 1,
+							"Action": "Speak(-, -, SE(Compliment, Initiate), Positive)",
+							"Target": "Player"
+						}, 
+						{
+							"classId": 1,
+							"Id": 5,
+							"Type": "Property-Change",
+							"Subject": "Player",
+							"Timestamp": 14,
+							"Property": "Has(Floor)",
+							"NewValue": "John"
+						}, 
+						{
+							"classId": 0,
+							"Id": 6,
+							"Type": "Action-End",
+							"Subject": "Player",
+							"Timestamp": 14,
+							"Action": "Speak(-, -, SE(Compliment, Answer), Negative)",
+							"Target": "John"
+						}, 
+						{
+							"classId": 1,
+							"Id": 7,
+							"Type": "Property-Change",
+							"Subject": "John",
+							"Timestamp": 15,
+							"Property": "Has(Floor)",
+							"NewValue": "Player"
+						}, 
+						{
+							"classId": 1,
+							"Id": 8,
+							"Type": "Property-Change",
+							"Subject": "John",
+							"Timestamp": 15,
+							"Property": "Has(Floor)",
+							"NewValue": "Sarah"
+						}, 
+						{
+							"classId": 0,
+							"Id": 9,
+							"Type": "Action-End",
+							"Subject": "John",
+							"Timestamp": 15,
+							"Action": "Speak(-, -, SE(Compliment, Finalize), Positive)",
+							"Target": "Player"
+						}, 
+						{
+							"classId": 1,
+							"Id": 10,
+							"Type": "Property-Change",
+							"Subject": "Sarah",
+							"Timestamp": 16,
+							"Property": "Has(Floor)",
+							"NewValue": "John"
+						}, 
+						{
+							"classId": 0,
+							"Id": 11,
+							"Type": "Action-End",
+							"Subject": "Sarah",
+							"Timestamp": 16,
+							"Action": "Speak(-, -, SE(Compliment, Initiate), Positive)",
+							"Target": "John"
+						}, 
+						{
+							"classId": 1,
+							"Id": 12,
+							"Type": "Property-Change",
+							"Subject": "John",
+							"Timestamp": 17,
+							"Property": "Has(Floor)",
+							"NewValue": "Sarah"
+						}, 
+						{
+							"classId": 0,
+							"Id": 13,
+							"Type": "Action-End",
+							"Subject": "John",
+							"Timestamp": 17,
+							"LinkedEmotions": ["Anger", "Distress", "Reproach"],
+							"Action": "Speak(-, -, SE(Compliment, Answer), Negative)",
+							"Target": "Sarah"
+						}, 
+						{
+							"classId": 1,
+							"Id": 14,
+							"Type": "Property-Change",
+							"Subject": "Sarah",
+							"Timestamp": 18,
+							"Property": "Has(Floor)",
+							"NewValue": "John"
+						}, 
+						{
+							"classId": 0,
+							"Id": 15,
+							"Type": "Action-End",
+							"Subject": "Sarah",
+							"Timestamp": 18,
+							"Action": "Speak(-, -, SE(Compliment, Finalize), Positive)",
+							"Target": "John"
+						}, 
+						{
+							"classId": 1,
+							"Id": 16,
+							"Type": "Property-Change",
+							"Subject": "John",
+							"Timestamp": 19,
+							"Property": "Has(Floor)",
+							"NewValue": "Sarah"
+						}, 
+						{
+							"classId": 0,
+							"Id": 17,
+							"Type": "Action-End",
+							"Subject": "John",
+							"Timestamp": 19,
+							"LinkedEmotions": ["Gratitude", "Joy", "Admiration"],
+							"Action": "Speak(-, -, SE(Flirt, Initiate), Positive)",
+							"Target": "Sarah"
+						}, 
+						{
+							"classId": 1,
+							"Id": 18,
+							"Type": "Property-Change",
+							"Subject": "Sarah",
+							"Timestamp": 20,
+							"Property": "Has(Floor)",
+							"NewValue": "John"
+						}, 
+						{
+							"classId": 0,
+							"Id": 19,
+							"Type": "Action-End",
+							"Subject": "Sarah",
+							"Timestamp": 20,
+							"Action": "Speak(-, -, SE(Flirt, Answer), Neutral)",
+							"Target": "John"
+						}, 
+						{
+							"classId": 1,
+							"Id": 20,
+							"Type": "Property-Change",
+							"Subject": "John",
+							"Timestamp": 21,
+							"Property": "Has(Floor)",
+							"NewValue": "Sarah"
+						}, 
+						{
+							"classId": 0,
+							"Id": 21,
+							"Type": "Action-End",
+							"Subject": "John",
+							"Timestamp": 21,
+							"LinkedEmotions": ["Gratitude", "Joy", "Admiration"],
+							"Action": "Speak(-, -, SE(Flirt, Finalize), Positive)",
+							"Target": "Sarah"
+						}]
+				},
+			"OtherAgents":
+				{
+					"dictionary": [
+						{
+							"key": "John",
+							"value":
+								{
+									"Name": "John",
+									"EmotionalState":
+										{
+											"Mood": 0,
+											"initialTick": 0,
+											"EmotionalPool": [],
+											"AppraisalConfiguration":
+												{
+													"HalfLifeDecayConstant": 0.5,
+													"EmotionInfluenceOnMoodFactor": 0.3,
+													"MoodInfluenceOnEmotionFactor": 0.3,
+													"MinimumMoodValueForInfluencingEmotions": 0.5,
+													"EmotionalHalfLifeDecayTime": 15,
+													"MoodHalfLifeDecayTime": 60
+												}
+										}
+								}
+						}, 
+						{
+							"key": "Player",
+							"value":
+								{
+									"Name": "Player",
+									"EmotionalState":
+										{
+											"Mood": 0,
+											"initialTick": 0,
+											"EmotionalPool": [],
+											"AppraisalConfiguration":
+												{
+													"HalfLifeDecayConstant": 0.5,
+													"EmotionInfluenceOnMoodFactor": 0.3,
+													"MoodInfluenceOnEmotionFactor": 0.3,
+													"MinimumMoodValueForInfluencingEmotions": 0.5,
+													"EmotionalHalfLifeDecayTime": 15,
+													"MoodHalfLifeDecayTime": 60
+												}
+										}
+								}
+						}]
+				}
+		},
+	"types": [
+		{
+			"TypeId": 0,
+			"ClassName": "AutobiographicMemory.AM+ActionEvent, AutobiographicMemory, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+		}, 
+		{
+			"TypeId": 1,
+			"ClassName": "AutobiographicMemory.AM+PropertyChangeEvent, AutobiographicMemory, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+		}, 
+		{
+			"TypeId": 2,
+			"ClassName": "RolePlayCharacter.RolePlayCharacterAsset, RolePlayCharacter, Version=1.5.0.0, Culture=neutral, PublicKeyToken=null"
+		}]
+}

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LipSyncVisemes wavFile="TTS-B1CCAE5E24A675DEA2DBE213F7080C76.wav">
+  <viseme type="6" time="0.071" duration="0.088" />
+  <viseme type="4" time="0.159" duration="0.048" />
+  <viseme type="21" time="0.207" duration="0.069" />
+  <viseme type="13" time="0.276" duration="0.057" />
+  <viseme type="6" time="0.333" duration="0.048" />
+  <viseme type="20" time="0.381" duration="0.044" />
+  <viseme type="4" time="0.425" duration="0.089" />
+  <viseme type="18" time="0.514" duration="0.065" />
+  <viseme type="13" time="0.579" duration="0.052" />
+  <viseme type="6" time="0.631" duration="0.052" />
+  <viseme type="7" time="0.683" duration="0.04" />
+  <viseme type="1" time="0.723" duration="0.06" />
+  <viseme type="19" time="0.783" duration="0.036" />
+  <viseme type="1" time="0.819" duration="0.056" />
+  <viseme type="14" time="0.875" duration="0.08" />
+  <viseme type="2" time="0.955" duration="0.088" />
+  <viseme type="19" time="1.043" duration="0.076" />
+  <viseme type="1" time="1.119" duration="0.052" />
+  <viseme type="18" time="1.171" duration="0.056" />
+  <viseme type="19" time="1.227" duration="0.032" />
+  <viseme type="16" time="1.259" duration="0.032" />
+  <viseme type="3" time="1.291" duration="0.079" />
+  <viseme type="6" time="1.37" duration="0.079" />
+  <viseme type="7" time="1.608" duration="0.051" />
+  <viseme type="4" time="1.659" duration="0.039" />
+  <viseme type="19" time="1.698" duration="0.067" />
+  <viseme type="6" time="1.765" duration="0.055" />
+  <viseme type="4" time="1.82" duration="0.055" />
+  <viseme type="14" time="1.875" duration="0.06" />
+  <viseme type="6" time="1.935" duration="0.125" />
+  <viseme type="18" time="2.06" duration="0.06" />
+  <viseme type="17" time="2.12" duration="0.044" />
+  <viseme type="1" time="2.164" duration="0.069" />
+  <viseme type="13" time="2.233" duration="0.064" />
+  <viseme type="4" time="2.297" duration="0.133" />
+  <viseme type="21" time="2.43" duration="0.14" />
+</LipSyncVisemes>
