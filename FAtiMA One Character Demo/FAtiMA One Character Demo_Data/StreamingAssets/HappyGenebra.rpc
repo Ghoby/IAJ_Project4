@@ -11,13 +11,13 @@
 								{
 									"DialogueState(Player)": "Start, 1",
 									"Has(Floor)": "Genebra, 1",
-									"IsFriend(Genebra, Player)": "True, 1"
+									"IsFriend(Genebra, Player)": "False, 1"
 								}
 						}
 				},
 			"BodyName": null,
 			"VoiceName": "Male3D",
-			"EmotionalAppraisalAssetSource": "HappyGenebra.ea",
+			"EmotionalAppraisalAssetSource": "PisedGenebra.ea",
 			"EmotionalDecisionMakingSource": "Genebra.edm",
 			"SocialImportanceAssetSource": "GenebraSocialImportance.si",
 			"CommeillFautAssetSource": null,

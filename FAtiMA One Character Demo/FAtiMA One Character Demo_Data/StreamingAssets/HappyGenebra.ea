@@ -46,8 +46,8 @@
 								{
 									"Set": ["SI(Player) < 10"]
 								},
-							"Desirability": -5,
-							"Praiseworthiness": -5
+							"Desirability": -3,
+							"Praiseworthiness": -3
 						}, 
 						{
 							"EventName": "Event(Action-End, Player, Speak(*, *, *, Rude), SELF)",
