@@ -11,17 +11,8 @@
 							"EventName": "Event(Action-End, Player, Speak(*, *, *, Casual), SELF)",
 							"Conditions":
 								{
-									"Set": ["SI(Player) >= 10"]
-								},
-							"Praiseworthiness": -1
-						}, 
-						{
-							"EventName": "Event(Action-End, Player, Speak(*, *, *, Casual), SELF)",
-							"Conditions":
-								{
 									"Set": ["SI(Player) < 10"]
 								},
-							"Desirability": -1,
 							"Praiseworthiness": -1
 						}, 
 						{
@@ -30,8 +21,7 @@
 								{
 									"Set": ["SI(Player) >= 10"]
 								},
-							"Desirability": -1,
-							"Praiseworthiness": -1
+							"Desirability": -1
 						}, 
 						{
 							"EventName": "Event(Action-End, Player, Speak(*, *, *, Rude), SELF)",

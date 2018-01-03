@@ -25,16 +25,6 @@
 					"Priority": 0
 				}, 
 				{
-					"Action": "Speak([cs], [ns], [m], RAGE)",
-					"Target": "[x]",
-					"Type": "[x]",
-					"Conditions":
-						{
-							"Set": ["ValidDialogue([cs], [ns], [m], RAGE) = True", "DialogueState([x]) = [cs]", "Has(Floor) = SELF", "Mood(SELF) < 8"]
-						},
-					"Priority": 2
-				}, 
-				{
 					"Action": "Speak([cs], [ns], [m], ANGRY)",
 					"Target": "[x]",
 					"Type": "[x]",
@@ -43,6 +33,16 @@
 							"Set": ["ValidDialogue([cs], [ns], [m], ANGRY) = True", "DialogueState([x]) = [cs]", "Has(Floor) = SELF", "Mood(SELF) < -2"]
 						},
 					"Priority": 1
+				}, 
+				{
+					"Action": "Speak([cs], [ns], [m], RAGE)",
+					"Target": "[x]",
+					"Type": "[x]",
+					"Conditions":
+						{
+							"Set": ["ValidDialogue([cs], [ns], [m], RAGE) = True", "DialogueState([x]) = [cs]", "Has(Floor) = SELF", "Mood(SELF) < -6"]
+						},
+					"Priority": 2
 				}]
 		},
 	"types": [

@@ -11,7 +11,7 @@
 								{
 									"DialogueState(Player)": "Start, 1",
 									"Has(Floor)": "Genebra, 1",
-									"IsFriend(Genebra, Player)": "False, 1"
+									"IsFriend(Genebra, Player)": "True, 1"
 								}
 						}
 				},

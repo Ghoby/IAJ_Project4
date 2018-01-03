@@ -53,12 +53,12 @@ Platform assembly: C:\Users\Duarte Ferreira\Dropbox\IST_Geral\1_Mestrado_1_Sem\I
 Loading C:\Users\Duarte Ferreira\Dropbox\IST_Geral\1_Mestrado_1_Sem\Inteligência Artificial para Jogos\Memes\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\ICSharpCode.SharpZipLib.dll into Unity Child Domain
 Platform assembly: C:\Users\Duarte Ferreira\Dropbox\IST_Geral\1_Mestrado_1_Sem\Inteligência Artificial para Jogos\Memes\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\System.dll (this message is harmless)
 Platform assembly: C:\Users\Duarte Ferreira\Dropbox\IST_Geral\1_Mestrado_1_Sem\Inteligência Artificial para Jogos\Memes\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\System.Core.dll (this message is harmless)
-- Completed reload, in  0.053 seconds
+- Completed reload, in  0.039 seconds
 <RI> Initializing input.
 XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 1.950101 ms
+UnloadTime: 1.819692 ms
 Platform assembly: C:\Users\Duarte Ferreira\Dropbox\IST_Geral\1_Mestrado_1_Sem\Inteligência Artificial para Jogos\Memes\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\Mono.Security.dll (this message is harmless)
 Registering Asset CommeillFautAsset/CommeillFautAsset as CommeillFautAsset_0
  
@@ -109,8 +109,40 @@ CommeillFautAsset VersionInfo is missing
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
 Setting up 2 worker threads for Enlighten.
-  Thread -> id: 1a70 -> priority: 1 
-  Thread -> id: 24bc -> priority: 1 
+  Thread -> id: e18 -> priority: 1 
+  Thread -> id: f54 -> priority: 1 
+Unknown Error
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown Error
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown Error
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown Error
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown Error
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown Error
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown Error
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown Error
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
 Unknown Error
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
@@ -136,10 +168,10 @@ Unknown Error
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
 Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 3.477580 ms
+UnloadTime: 3.480599 ms
 
 Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 425.
-Total: 1.482801 ms (FindLiveObjects: 0.047092 ms CreateObjectMapping: 0.025357 ms MarkObjects: 1.395862 ms  DeleteObjects: 0.012678 ms)
+Total: 2.167450 ms (FindLiveObjects: 0.051318 ms CreateObjectMapping: 0.042866 ms MarkObjects: 2.060587 ms  DeleteObjects: 0.012074 ms)
 
 Registering Asset CommeillFautAsset/CommeillFautAsset as CommeillFautAsset_4
  
@@ -182,6 +214,116 @@ Registering Asset CommeillFautAsset/CommeillFautAsset as CommeillFautAsset_7
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
 Registered 8 Asset(s)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CommeillFautAsset VersionInfo is missing
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown Error
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown Error
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown Error
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown Error
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown Error
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown Error
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown Error
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown Error
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown Error
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown Error
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown Error
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown Error
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown Error
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown Error
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.791919 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 425.
+Total: 3.141897 ms (FindLiveObjects: 0.048299 ms CreateObjectMapping: 0.026564 ms MarkObjects: 3.053146 ms  DeleteObjects: 0.012678 ms)
+
+Registering Asset CommeillFautAsset/CommeillFautAsset as CommeillFautAsset_8
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Registered 9 Asset(s)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CommeillFautAsset VersionInfo is missing
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Registering Asset EmotionalAppraisalAsset/EmotionalAppraisalAsset as EmotionalAppraisalAsset_9
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Registered 10 Asset(s)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+EmotionalAppraisalAsset VersionInfo is missing
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Registering Asset SocialImportanceAsset/SocialImportanceAsset as SocialImportanceAsset_10
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Registered 11 Asset(s)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SocialImportanceAsset VersionInfo is missing
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Registering Asset CommeillFautAsset/CommeillFautAsset as CommeillFautAsset_11
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Registered 12 Asset(s)
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 

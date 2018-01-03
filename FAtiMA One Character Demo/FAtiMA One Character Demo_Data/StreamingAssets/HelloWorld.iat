@@ -71,28 +71,28 @@
 					"UtteranceId": "TTS-913BB24D540942C0C5CBF487509B06D3"
 				}, 
 				{
-					"CurrentState": "Player_Argument",
-					"NextState": "Genebra_FightsBack",
-					"Meaning": "Insult",
-					"Style": "Rude",
-					"Utterance": "Melhor de que qualquer ideia que possas ter!",
-					"UtteranceId": "TTS-7B9C822BBEDC3122622B7AD1B0EE5E7E"
+					"CurrentState": "Genebra_FightsBack",
+					"NextState": "End",
+					"Meaning": "RageQuit",
+					"Style": "ANGRY",
+					"Utterance": "Mas tu queres levar ou quê? Só por causa dessa fazemos o projeto com uma ideia minha! *FAILURE*",
+					"UtteranceId": "TTS-7D2B15B62915FC05AA6B0AF49BA9B2D0"
 				}, 
 				{
 					"CurrentState": "Player_IdeaProposal",
-					"NextState": "Genebra_IdeaResponse",
-					"Meaning": "Proposal",
-					"Style": "Neutral",
-					"Utterance": "O que achas de criar um cenário de diálogo de uma situação de venda de droga?",
-					"UtteranceId": "TTS-A498768E246165BDDD8F089AB25A349A"
-				}, 
-				{
-					"CurrentState": "Player_IdeaProposal",
-					"NextState": "Genebra_IdeaResponse",
+					"NextState": "Genebra_IdeaPreResponse",
 					"Meaning": "Proposal",
 					"Style": "Casual",
 					"Utterance": "Basicamente temos dois gajos a falar e um deles quer comprar droga ao outro. Bué fixe, não achas?",
 					"UtteranceId": "TTS-DB308CE87EC60788016CCEFDFB08B684"
+				}, 
+				{
+					"CurrentState": "Genebra_IdeaPreResponse",
+					"NextState": "Player_IdeaExplanation",
+					"Meaning": "Question",
+					"Style": "NEUTRAL",
+					"Utterance": "Explica isso melhor, se faz favor.",
+					"UtteranceId": "TTS-CD3D653048C4CE11F14323EE6807CF49"
 				}, 
 				{
 					"CurrentState": "Genebra_IdeaResponse",
@@ -103,36 +103,28 @@
 					"UtteranceId": "TTS-E51409BCF73A83A7B1A315B3A467DCBB"
 				}, 
 				{
-					"CurrentState": "Genebra_IdeaResponse",
-					"NextState": "Player_Argument",
-					"Meaning": "Reject",
-					"Style": "ANGRY",
-					"Utterance": "Mas estás parvo?! Isso é muito arriscado! Estás mesmo a pedir para o stor nos dar zero!",
-					"UtteranceId": "TTS-C1F0ECC35DBE2A434014F9C8775CFAA1"
-				}, 
-				{
 					"CurrentState": "Player_Argument",
 					"NextState": "Genebra_MakesDecision",
 					"Meaning": "Persuade",
 					"Style": "Polite",
-					"Utterance": "A sério, é uma ideia muito original e não me parece que alguém se lembre de a fazer.",
-					"UtteranceId": "TTS-5B71BD6BB0F5E1A03E191A7EF16B2709"
+					"Utterance": "Genebra, por favor confia em mim. É uma ideia original e não me parece que alguém se lembre de a fazer.",
+					"UtteranceId": "TTS-30FDE2FA3A2DE186C7797748CF3B3B97"
 				}, 
 				{
-					"CurrentState": "Player_TheMetaBegins",
-					"NextState": "Genebra_UniverseCollapses",
-					"Meaning": "Proposal",
-					"Style": "Neutral",
-					"Utterance": "E que tal fazermos sobre a conversa que tivemos agora mesmo? Uma conversa do tipo \"meta\"?",
-					"UtteranceId": "TTS-CE752471452171FEB18EE11376C6D4F2"
+					"CurrentState": "Player_Argument",
+					"NextState": "Genebra_FightsBack",
+					"Meaning": "Insult",
+					"Style": "Rude",
+					"Utterance": "Melhor do que qualquer ideia que possas ter!",
+					"UtteranceId": "TTS-BCEE28182AFB4E5C7F16E586086989D0"
 				}, 
 				{
 					"CurrentState": "Genebra_MakesDecision",
 					"NextState": "End",
 					"Meaning": "Acceptance",
 					"Style": "NEUTRAL",
-					"Utterance": "Não gosto muito da ideia, mas está bem. *SUCCESS*",
-					"UtteranceId": "TTS-BAF1A736D95EE5203375359E7FA83D7B"
+					"Utterance": "Hmm... okay, sendo assim fazemos com a tua ideia. Bora lá! *SUCCESS*",
+					"UtteranceId": "TTS-C7B8F973D85D99335137257DBA984080"
 				}, 
 				{
 					"CurrentState": "Genebra_ANewHope",
@@ -143,20 +135,20 @@
 					"UtteranceId": "TTS-F25C41099F6BCFE38C12733963F6F256"
 				}, 
 				{
-					"CurrentState": "Genebra_FightsBack",
-					"NextState": "Player_TheMetaBegins",
-					"Meaning": "Doubt",
-					"Style": "ANGRY",
-					"Utterance": "Epá, não estou para aí virado. Vamos mas é despachar isto.",
-					"UtteranceId": "TTS-B492AC1F9FF48C852F9B2F96D59AFCEA"
-				}, 
-				{
 					"CurrentState": "Player_Argument",
 					"NextState": "Genebra_ANewHope",
 					"Meaning": "Proposal",
 					"Style": "Neutral",
-					"Utterance": "É assim, tenho uma outra ideia mas é algo estranha.",
-					"UtteranceId": "TTS-A786F9C8BAA47D6A81CBC00E1BDCEA13"
+					"Utterance": "É assim, se não gostas desta ideia, eu tenho uma outra. Mas deixa-me avisar-te que é algo estranha.",
+					"UtteranceId": "TTS-F73E30D8ECA04A55F955A1B8D49AD8A1"
+				}, 
+				{
+					"CurrentState": "Player_TheMetaBegins",
+					"NextState": "Genebra_UniverseCollapses",
+					"Meaning": "Proposal",
+					"Style": "Neutral",
+					"Utterance": "E que tal fazermos sobre a conversa que tivemos agora mesmo? Uma conversa do tipo \"meta\"?",
+					"UtteranceId": "TTS-CE752471452171FEB18EE11376C6D4F2"
 				}, 
 				{
 					"CurrentState": "Player_GotIdea",
@@ -221,6 +213,118 @@
 					"Style": "RAGE",
 					"Utterance": "Ai é?! Vai-te lixar! Eu arranjo outro membro para o grupo. Não precisamos de ti! *FAILURE*",
 					"UtteranceId": "TTS-B9EAAC2C4925B3F0E4E74C3CC6E55A79"
+				}, 
+				{
+					"CurrentState": "Genebra_PlayerGivesUp",
+					"NextState": "End",
+					"Meaning": "Victory",
+					"Style": "ANGRY",
+					"Utterance": "Claro que a tua ideia é horrível. A minha é que é! Fazemos a minha e mais não se discute! *FAILURE*",
+					"UtteranceId": "TTS-E32B01E89E67316246A55E49C98E2487"
+				}, 
+				{
+					"CurrentState": "Player_IdeaProposal",
+					"NextState": "Genebra_PlayerGivesUp",
+					"Meaning": "GiveUp",
+					"Style": "Neutral",
+					"Utterance": "Hmmm... pensando bem, a minha ideia não é assim grande coisa. ",
+					"UtteranceId": "TTS-24B75AAA064F4B8F85E2319F82C406B6"
+				}, 
+				{
+					"CurrentState": "Genebra_PlayerGivesUp",
+					"NextState": "End",
+					"Meaning": "Confort",
+					"Style": "NEUTRAL",
+					"Utterance": "Não te preocupes. Sendo assim, fazemos com a minha ideia. *FAILURE*",
+					"UtteranceId": "TTS-40C6774E04E8972C493F7917E23D3FB1"
+				}, 
+				{
+					"CurrentState": "Player_IdeaProposal",
+					"NextState": "Genebra_IdeaPreResponse",
+					"Meaning": "Proposal",
+					"Style": "Neutral",
+					"Utterance": "O que achas de criar um cenário de diálogo de uma situação de venda de droga?",
+					"UtteranceId": "TTS-A498768E246165BDDD8F089AB25A349A"
+				}, 
+				{
+					"CurrentState": "Genebra_IdeaPreResponse",
+					"NextState": "Player_IdeaExplanation",
+					"Meaning": "Question",
+					"Style": "ANGRY",
+					"Utterance": "Espera lá! Diz lá isso novamente!",
+					"UtteranceId": "TTS-0FD9B8F4D4A0F18E19F3046CF7DDBEBC"
+				}, 
+				{
+					"CurrentState": "Player_IdeaExplanation",
+					"NextState": "Genebra_IdeaResponse",
+					"Meaning": "Insult",
+					"Style": "Rude",
+					"Utterance": "Mas és burro ou quê?! A ideia é tão simples e não a percebes?!",
+					"UtteranceId": "TTS-8E6DB8B7D1221447C4139BA7E7D41212"
+				}, 
+				{
+					"CurrentState": "Genebra_IdeaResponse",
+					"NextState": "Player_Argument",
+					"Meaning": "Doubt",
+					"Style": "ANGRY",
+					"Utterance": "Mas estás parvo?! Isso é muito arriscado! Estás mesmo a pedir para o stor nos dar zero!",
+					"UtteranceId": "TTS-C1F0ECC35DBE2A434014F9C8775CFAA1"
+				}, 
+				{
+					"CurrentState": "Player_IdeaExplanation",
+					"NextState": "Genebra_IdeaResponse",
+					"Meaning": "Explanation",
+					"Style": "Neutral",
+					"Utterance": "Basicamente, tu queres comprar a um homem e tens de ter cuidado com as tuas opções de diálogo para ele não desconfiar que és um policia disfarçado.",
+					"UtteranceId": "TTS-19569D3D721268C899EB7ED928A87F6D"
+				}, 
+				{
+					"CurrentState": "Player_IdeaExplanation",
+					"NextState": "Genebra_IdeaResponse",
+					"Meaning": "Explanation",
+					"Style": "Casual",
+					"Utterance": "Tipo, tens um drug dealer e queres comprar-lhe alguma droga. Nada muito complicado, né?",
+					"UtteranceId": "TTS-1815A2C88A84BE3D9185FBDC0ADD368E"
+				}, 
+				{
+					"CurrentState": "Genebra_IdeaResponse",
+					"NextState": "End",
+					"Meaning": "Rebutal",
+					"Style": "RAGE",
+					"Utterance": "Ai é?! Vai-te lixar! Eu arranjo outro membro para o grupo. Não precisamos de ti! *FAILURE*",
+					"UtteranceId": "TTS-B9EAAC2C4925B3F0E4E74C3CC6E55A79"
+				}, 
+				{
+					"CurrentState": "Player_Argument",
+					"NextState": "Genebra_MakesDecision",
+					"Meaning": "Persuade",
+					"Style": "Casual",
+					"Utterance": "Meu, a sério, a ideia é brutal e tu sabes disso! Os stores não se vão importar de certeza.",
+					"UtteranceId": "TTS-8FC983669EBEB2FC3E743F51820CFA29"
+				}, 
+				{
+					"CurrentState": "Genebra_MakesDecision",
+					"NextState": "End",
+					"Meaning": "Acceptance",
+					"Style": "ANGRY",
+					"Utterance": "Uhhh, não! Isso parece-me uma ideia absolutamente terrível. Deixa-te de coisas. Fazemos com uma ideia minha que é mais segura. *FAILURE*",
+					"UtteranceId": "TTS-D39773F4B68EB48DD3FEFFE21C8593D2"
+				}, 
+				{
+					"CurrentState": "Player_TheMetaBegins",
+					"NextState": "Genebra_UniverseCollapses",
+					"Meaning": "Proposal",
+					"Style": "Casual",
+					"Utterance": "Imagina uma conversa em que eu te tento convencer a usar a ideia que eu acabei de te dar no projeto de IAJ? Uma cena super meta, tipo Deadpool. Brutal, né?",
+					"UtteranceId": "TTS-D24187ED32CF1F04C1A44F6339B4DFA7"
+				}, 
+				{
+					"CurrentState": "Genebra_UniverseCollapses",
+					"NextState": "End",
+					"Meaning": "Acceptance",
+					"Style": "ANGRY",
+					"Utterance": "Hmmm... põe mais tabaco Duarte. *FAILURE*",
+					"UtteranceId": "TTS-B18AF0AC5073BFF483A75D54E621C104"
 				}]
 		},
 	"types": [
