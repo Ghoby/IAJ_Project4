@@ -4,23 +4,21 @@
 			"classId": 0,
 			"KnowledgeBase":
 				{
-					"Perspective": "Sarah",
+					"Perspective": "Genebra",
 					"Knowledge":
 						{
 							"SELF":
 								{
-									"Has(Floor)": "John, 1",
-									"IsAttracted(Sarah, John)": "True, 0",
-									"IsFriend(Sarah, John)": "True, 1"
+									"Has(Floor)": "Genebra, 1"
 								}
 						}
 				},
-			"BodyName": "Female",
-			"VoiceName": "Female",
-			"EmotionalAppraisalAssetSource": "CiF-Scenario-EA.ea",
-			"EmotionalDecisionMakingSource": "CiF-Scenario-EDM.edm",
-			"SocialImportanceAssetSource": "CiF-Scenario-SI.si",
-			"CommeillFautAssetSource": "CiF-Scenario-CiF.cif",
+			"BodyName": "Male",
+			"VoiceName": "Male",
+			"EmotionalAppraisalAssetSource": "",
+			"EmotionalDecisionMakingSource": "TwoCharConversationEDM.edm",
+			"SocialImportanceAssetSource": "",
+			"CommeillFautAssetSource": "",
 			"EmotionalState":
 				{
 					"Mood": 0,

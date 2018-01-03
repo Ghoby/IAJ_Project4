@@ -4,23 +4,21 @@
 			"classId": 0,
 			"KnowledgeBase":
 				{
-					"Perspective": "John",
+					"Perspective": "Soares",
 					"Knowledge":
 						{
 							"SELF":
 								{
-									"Has(Floor)": "John, 1",
-									"IsAttracted(John, Sarah)": "True, 1",
-									"IsFriend(John, Player)": "True, 1"
+									"Has(Floor)": "Genebra, 1"
 								}
 						}
 				},
 			"BodyName": "Male",
 			"VoiceName": "Male",
-			"EmotionalAppraisalAssetSource": "CiF-Scenario-EA.ea",
-			"EmotionalDecisionMakingSource": "CiF-Scenario-EDM.edm",
-			"SocialImportanceAssetSource": "CiF-Scenario-SI.si",
-			"CommeillFautAssetSource": "CiF-Scenario-CiF.cif",
+			"EmotionalAppraisalAssetSource": "",
+			"EmotionalDecisionMakingSource": "TwoCharConversationEDM.edm",
+			"SocialImportanceAssetSource": "",
+			"CommeillFautAssetSource": "",
 			"EmotionalState":
 				{
 					"Mood": 0,

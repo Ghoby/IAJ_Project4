@@ -11,8 +11,8 @@
 					"NextState": "Genebra_Idea",
 					"Meaning": "AllowIdea",
 					"Style": "Neutral",
-					"Utterance": "Genebra, tens alguma ideia?",
-					"UtteranceId": "TTS-144915A2B6509D9F6C74E16372B8B3A9"
+					"Utterance": "Diz-me tu se tens alguma ideia.",
+					"UtteranceId": "TTS-1C80BF7D6840396268887A0E242ECCF0"
 				}, 
 				{
 					"CurrentState": "Player_Argument",
@@ -128,11 +128,19 @@
 				}, 
 				{
 					"CurrentState": "Player_DestroyGenebra",
-					"NextState": "Soares_DestroyGenebraAftermath",
+					"NextState": "Genebra_DestroyAftermath",
 					"Meaning": "Reject",
 					"Style": "Polite",
 					"Utterance": "Provavelmente já alguém teve essa ideia. Gostava de fazer algo único.",
 					"UtteranceId": "TTS-7FC9AA5602DF8070F0C2DF18261D6ADE"
+				}, 
+				{
+					"CurrentState": "Player_DestroyGenebra",
+					"NextState": "Genebra_DestroyAftermath",
+					"Meaning": "Reject",
+					"Style": "Rude",
+					"Utterance": "Isso é capaz de ser a coisa mais genérica que já ouvi na minha vida!!",
+					"UtteranceId": "TTS-156A3EFF101E2E841416793017322CB1"
 				}, 
 				{
 					"CurrentState": "Genebra_DestroyAftermath",
@@ -143,20 +151,20 @@
 					"UtteranceId": "TTS-296A11A1ACFD67F831C1A9F64E337644"
 				}, 
 				{
-					"CurrentState": "Soares_Comment_Genebra_Idea",
+					"CurrentState": "Genebra_Idea",
 					"NextState": "Player_DestroyGenebra",
-					"Meaning": "Acceptance",
+					"Meaning": "Proposal",
 					"Style": "NEUTRAL",
-					"Utterance": "A mim parece-me bem.",
-					"UtteranceId": "TTS-DD33132D92B4203DD2812D845484E201"
+					"Utterance": "A minha ideia era tentar persuadir um mercador a fazer-nos um preço bom.",
+					"UtteranceId": "TTS-7D08926B642C728E3333714159A24774"
 				}, 
 				{
-					"CurrentState": "Soares_Start",
+					"CurrentState": "Start",
 					"NextState": "Player_GotIdea",
 					"Meaning": "Desperation",
 					"Style": "NEUTRAL",
-					"Utterance": "Ya, o tempo está escasso. Precisamos de uma ideia urgentemente!",
-					"UtteranceId": "TTS-AA39E901647E0C8348114C686E82A381"
+					"Utterance": "Tão, precisamos de um tema para o projecto de IAJ. Alguma ideia?",
+					"UtteranceId": "TTS-C5F54D3900E963C39717B0D6A25FC4C6"
 				}, 
 				{
 					"CurrentState": "Player_GotIdea",
@@ -189,38 +197,6 @@
 					"Style": "NEUTRAL",
 					"Utterance": "Estás a vontade para dizer a ideia. Estamos a ficar sem opções, por isso qualquer coisa é bem-vinda.",
 					"UtteranceId": "TTS-8AA911F037A75068875C56B5870A5953"
-				}, 
-				{
-					"CurrentState": "Start",
-					"NextState": "Soares_Start",
-					"Meaning": "Desperation",
-					"Style": "NEUTRAL",
-					"Utterance": "Tão, precisamos de um tema para o projecto de IAJ. Alguma ideia?",
-					"UtteranceId": "TTS-C5F54D3900E963C39717B0D6A25FC4C6"
-				}, 
-				{
-					"CurrentState": "Player_GotIdea",
-					"NextState": "Soares_Idea",
-					"Meaning": "AllowIdea",
-					"Style": "Neutral",
-					"Utterance": "Soares, pensaste em alguma coisa?",
-					"UtteranceId": "TTS-8D4C518F9160A1861EE4BFC25194E5D3"
-				}, 
-				{
-					"CurrentState": "Genebra_Idea",
-					"NextState": "Soares_Comment_Genebra_Idea",
-					"Meaning": "Proposal",
-					"Style": "NEUTRAL",
-					"Utterance": "A minha ideia era tentar persuadir um mercador a fazer-nos um preço bom.",
-					"UtteranceId": "TTS-7D08926B642C728E3333714159A24774"
-				}, 
-				{
-					"CurrentState": "Player_DestroyGenebra",
-					"NextState": "Soares_DestroyGenebraAftermath",
-					"Meaning": "Reject",
-					"Style": "Rude",
-					"Utterance": "Isso é capaz de ser a coisa mais genérica que já ouvi na minha vida!!",
-					"UtteranceId": "TTS-156A3EFF101E2E841416793017322CB1"
 				}]
 		},
 	"types": [
