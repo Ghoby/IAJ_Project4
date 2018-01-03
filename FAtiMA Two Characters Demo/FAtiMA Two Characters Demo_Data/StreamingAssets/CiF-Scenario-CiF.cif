@@ -4,7 +4,7 @@
 			"classId": 0,
 			"SocialExchanges": [
 				{
-					"Action": "Flirt",
+					"Action": "Greeting",
 					"Target": "-",
 					"Type": "-",
 					"Conditions":
@@ -12,54 +12,14 @@
 							"Set": []
 						},
 					"Priority": 2,
-					"Description": "When 2 people are attracted to each other...",
+					"Description": "When 2 people encounter each other",
 					"InfluenceRule":
 						{
 							"RuleName": "",
 							"Target": "[x]",
 							"RuleConditions":
 								{
-									"Set": ["SI([x]) >= 20", "IsAttracted(SELF, [x]) = True"]
-								}
-						}
-				}, 
-				{
-					"Action": "Compliment",
-					"Target": "-",
-					"Type": "-",
-					"Conditions":
-						{
-							"Set": []
-						},
-					"Priority": 1,
-					"Description": "Praising someone you like",
-					"InfluenceRule":
-						{
-							"RuleName": "",
-							"Target": "[x]",
-							"RuleConditions":
-								{
-									"Set": ["SI([x]) >= 5", "IsFriend(SELF, [x]) = True"]
-								}
-						}
-				}, 
-				{
-					"Action": "Insult",
-					"Target": "-",
-					"Type": "-",
-					"Conditions":
-						{
-							"Set": []
-						},
-					"Priority": 1,
-					"Description": "When you hate others",
-					"InfluenceRule":
-						{
-							"RuleName": "",
-							"Target": "[x]",
-							"RuleConditions":
-								{
-									"Set": ["SI([x]) <= 0", "IsFriend(SELF, [x]) = False"]
+									"Set": ["SI([x]) >= 20", "Likes(SELF, [x]) = True"]
 								}
 						}
 				}],

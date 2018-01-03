@@ -1,0 +1,41 @@
+{
+	"root":
+		{
+			"classId": 0,
+			"DefaultActionPriority": 2,
+			"ActionTendencies": [
+				{
+					"Action": "Speak(Start, [ns], Greeting([x]), [s])",
+					"Target": "[x]",
+					"Type": "[x]",
+					"Conditions":
+						{
+							"Set": ["Has(Floor) = SELF", "DialogueState([x]) = Start", "ValidDialogue(Start, [ns], Greeting([x]), [s]) = True"]
+						}
+				}, 
+				{
+					"Action": "Speak([cs], [ns], -, [s])",
+					"Target": "[x]",
+					"Type": "[x]",
+					"Conditions":
+						{
+							"Set": ["Has(Floor) = SELF", "ValidDialogue([cs], [ns], -, [s]) = True", "DialogueState([x]) = [cs]"]
+						},
+					"Priority": 1
+				}, 
+				{
+					"Action": "Speak([cs], [ns], Likes([topic]), [s])",
+					"Target": "[x]",
+					"Type": "[x]",
+					"Conditions":
+						{
+							"Set": ["Has(Floor) = SELF", "DialogueState([x]) = [cs]", "ValidDialogue([cs], [ns], Likes([topic]), [s]) = True", "Likes([topic]) = True"]
+						}
+				}]
+		},
+	"types": [
+		{
+			"TypeId": 0,
+			"ClassName": "EmotionalDecisionMaking.EmotionalDecisionMakingAsset, EmotionalDecisionMaking, Version=1.2.0.0, Culture=neutral, PublicKeyToken=null"
+		}]
+}

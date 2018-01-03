@@ -1,0 +1,331 @@
+{
+	"root":
+		{
+			"classId": 2,
+			"KnowledgeBase":
+				{
+					"Perspective": "John",
+					"Knowledge":
+						{
+							"SELF":
+								{
+									"DialogueState(Player)": "S5, 1",
+									"Has(Floor)": "Player, 1",
+									"Likes(John, Sarah)": "True, 1"
+								}
+						}
+				},
+			"BodyName": "Male",
+			"VoiceName": "Male",
+			"EmotionalAppraisalAssetSource": "MultiParty-EA.ea",
+			"EmotionalDecisionMakingSource": "MultiParty-EDM.edm",
+			"SocialImportanceAssetSource": "MultiParty-SI.si",
+			"CommeillFautAssetSource": null,
+			"EmotionalState":
+				{
+					"Mood": -5.113249,
+					"initialTick": 30,
+					"EmotionalPool": [
+						{
+							"Intensity": 3.446095,
+							"Decay": 1,
+							"Threshold": 1,
+							"CauseId": 15,
+							"Direction": "Player",
+							"EventName": "Event(Action-End, Player, Speak(Movies, S5, -, Negative), John)",
+							"EmotionType": "Anger",
+							"Valence": "Negative",
+							"AppraisalVariables": ["DESIRABILITY", "PRAISEWORTHINESS"],
+							"InfluenceMood": true
+						}, 
+						{
+							"Intensity": 3.181894,
+							"Decay": 1,
+							"Threshold": 1,
+							"CauseId": 15,
+							"EventName": "Event(Action-End, Player, Speak(Movies, S5, -, Negative), John)",
+							"EmotionType": "Distress",
+							"Valence": "Negative",
+							"AppraisalVariables": ["DESIRABILITY"],
+							"InfluenceMood": true
+						}, 
+						{
+							"Intensity": 4.616963,
+							"Decay": 1,
+							"Threshold": 1,
+							"CauseId": 15,
+							"Direction": "Player",
+							"EventName": "Event(Action-End, Player, Speak(Movies, S5, -, Negative), John)",
+							"EmotionType": "Reproach",
+							"Valence": "Negative",
+							"AppraisalVariables": ["PRAISEWORTHINESS"],
+							"InfluenceMood": true
+						}],
+					"AppraisalConfiguration":
+						{
+							"HalfLifeDecayConstant": 0.5,
+							"EmotionInfluenceOnMoodFactor": 0.3,
+							"MoodInfluenceOnEmotionFactor": 0.3,
+							"MinimumMoodValueForInfluencingEmotions": 0.5,
+							"EmotionalHalfLifeDecayTime": 15,
+							"MoodHalfLifeDecayTime": 60
+						}
+				},
+			"AutobiographicMemory":
+				{
+					"Tick": 42,
+					"records": [
+						{
+							"classId": 0,
+							"Id": 1,
+							"Type": "Action-End",
+							"Subject": "Sarah",
+							"Timestamp": 0,
+							"Action": "Enters",
+							"Target": "Room"
+						}, 
+						{
+							"classId": 0,
+							"Id": 2,
+							"Type": "Action-End",
+							"Subject": "Player",
+							"Timestamp": 0,
+							"Action": "Enters",
+							"Target": "Room"
+						}, 
+						{
+							"classId": 1,
+							"Id": 3,
+							"Type": "Property-Change",
+							"Subject": "Player",
+							"Timestamp": 7,
+							"Property": "Has(Floor)",
+							"NewValue": "John"
+						}, 
+						{
+							"classId": 1,
+							"Id": 4,
+							"Type": "Property-Change",
+							"Subject": "John",
+							"Timestamp": 7,
+							"Property": "DialogueState(Player)",
+							"NewValue": "S2"
+						}, 
+						{
+							"classId": 0,
+							"Id": 5,
+							"Type": "Action-End",
+							"Subject": "Player",
+							"Timestamp": 7,
+							"Action": "Speak(Start, S2, Greeting(John), Neutral)",
+							"Target": "John"
+						}, 
+						{
+							"classId": 1,
+							"Id": 6,
+							"Type": "Property-Change",
+							"Subject": "John",
+							"Timestamp": 9,
+							"Property": "Has(Floor)",
+							"NewValue": "Player"
+						}, 
+						{
+							"classId": 0,
+							"Id": 7,
+							"Type": "Action-End",
+							"Subject": "John",
+							"Timestamp": 9,
+							"Action": "Speak(S2, S3, -, -)",
+							"Target": "Player"
+						}, 
+						{
+							"classId": 1,
+							"Id": 8,
+							"Type": "Property-Change",
+							"Subject": "Player",
+							"Timestamp": 14,
+							"Property": "Has(Floor)",
+							"NewValue": "John"
+						}, 
+						{
+							"classId": 1,
+							"Id": 9,
+							"Type": "Property-Change",
+							"Subject": "John",
+							"Timestamp": 14,
+							"Property": "DialogueState(Player)",
+							"NewValue": "SportsQuestion"
+						}, 
+						{
+							"classId": 0,
+							"Id": 10,
+							"Type": "Action-End",
+							"Subject": "Player",
+							"Timestamp": 14,
+							"Action": "Speak(S3, SportsQuestion, -, -)",
+							"Target": "John"
+						}, 
+						{
+							"classId": 1,
+							"Id": 11,
+							"Type": "Property-Change",
+							"Subject": "John",
+							"Timestamp": 17,
+							"Property": "Has(Floor)",
+							"NewValue": "Player"
+						}, 
+						{
+							"classId": 0,
+							"Id": 12,
+							"Type": "Action-End",
+							"Subject": "John",
+							"Timestamp": 17,
+							"Action": "Speak(SportsQuestion, Movies, -, -)",
+							"Target": "Player"
+						}, 
+						{
+							"classId": 1,
+							"Id": 13,
+							"Type": "Property-Change",
+							"Subject": "Player",
+							"Timestamp": 30,
+							"Property": "Has(Floor)",
+							"NewValue": "John"
+						}, 
+						{
+							"classId": 1,
+							"Id": 14,
+							"Type": "Property-Change",
+							"Subject": "John",
+							"Timestamp": 30,
+							"Property": "DialogueState(Player)",
+							"NewValue": "S5"
+						}, 
+						{
+							"classId": 0,
+							"Id": 15,
+							"Type": "Action-End",
+							"Subject": "Player",
+							"Timestamp": 30,
+							"LinkedEmotions": ["Anger", "Distress", "Reproach"],
+							"Action": "Speak(Movies, S5, -, Negative)",
+							"Target": "John"
+						}, 
+						{
+							"classId": 1,
+							"Id": 16,
+							"Type": "Property-Change",
+							"Subject": "John",
+							"Timestamp": 33,
+							"Property": "Has(Floor)",
+							"NewValue": "Player"
+						}, 
+						{
+							"classId": 0,
+							"Id": 17,
+							"Type": "Action-End",
+							"Subject": "John",
+							"Timestamp": 33,
+							"Action": "Speak(S5, S6, -, Neutral)",
+							"Target": "Player"
+						}, 
+						{
+							"classId": 1,
+							"Id": 18,
+							"Type": "Property-Change",
+							"Subject": "Player",
+							"Timestamp": 40,
+							"Property": "Has(Floor)",
+							"NewValue": "Sarah"
+						}, 
+						{
+							"classId": 0,
+							"Id": 19,
+							"Type": "Action-End",
+							"Subject": "Player",
+							"Timestamp": 40,
+							"Action": "Speak(Start, S2, Greeting(Sarah), Neutral)",
+							"Target": "Sarah"
+						}, 
+						{
+							"classId": 1,
+							"Id": 20,
+							"Type": "Property-Change",
+							"Subject": "Sarah",
+							"Timestamp": 42,
+							"Property": "Has(Floor)",
+							"NewValue": "Player"
+						}, 
+						{
+							"classId": 0,
+							"Id": 21,
+							"Type": "Action-End",
+							"Subject": "Sarah",
+							"Timestamp": 42,
+							"Action": "Speak(S2, S3, -, -)",
+							"Target": "Player"
+						}]
+				},
+			"OtherAgents":
+				{
+					"dictionary": [
+						{
+							"key": "Sarah",
+							"value":
+								{
+									"Name": "Sarah",
+									"EmotionalState":
+										{
+											"Mood": 0,
+											"initialTick": 0,
+											"EmotionalPool": [],
+											"AppraisalConfiguration":
+												{
+													"HalfLifeDecayConstant": 0.5,
+													"EmotionInfluenceOnMoodFactor": 0.3,
+													"MoodInfluenceOnEmotionFactor": 0.3,
+													"MinimumMoodValueForInfluencingEmotions": 0.5,
+													"EmotionalHalfLifeDecayTime": 15,
+													"MoodHalfLifeDecayTime": 60
+												}
+										}
+								}
+						}, 
+						{
+							"key": "Player",
+							"value":
+								{
+									"Name": "Player",
+									"EmotionalState":
+										{
+											"Mood": 0,
+											"initialTick": 0,
+											"EmotionalPool": [],
+											"AppraisalConfiguration":
+												{
+													"HalfLifeDecayConstant": 0.5,
+													"EmotionInfluenceOnMoodFactor": 0.3,
+													"MoodInfluenceOnEmotionFactor": 0.3,
+													"MinimumMoodValueForInfluencingEmotions": 0.5,
+													"EmotionalHalfLifeDecayTime": 15,
+													"MoodHalfLifeDecayTime": 60
+												}
+										}
+								}
+						}]
+				}
+		},
+	"types": [
+		{
+			"TypeId": 0,
+			"ClassName": "AutobiographicMemory.AM+ActionEvent, AutobiographicMemory, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+		}, 
+		{
+			"TypeId": 1,
+			"ClassName": "AutobiographicMemory.AM+PropertyChangeEvent, AutobiographicMemory, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+		}, 
+		{
+			"TypeId": 2,
+			"ClassName": "RolePlayCharacter.RolePlayCharacterAsset, RolePlayCharacter, Version=1.5.0.0, Culture=neutral, PublicKeyToken=null"
+		}]
+}

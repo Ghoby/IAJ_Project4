@@ -1,0 +1,189 @@
+{
+	"root":
+		{
+			"classId": 2,
+			"KnowledgeBase":
+				{
+					"Perspective": "Player",
+					"Knowledge":
+						{
+							"SELF":
+								{
+									"DialogueState(John)": "S3, 1",
+									"DialogueState(Sarah)": "Start, 1",
+									"Has(Floor)": "John, 1",
+									"Is(Player)": "True, 1",
+									"Likes(Sports)": "True, 1"
+								}
+						}
+				},
+			"BodyName": "Player",
+			"VoiceName": "Female",
+			"EmotionalAppraisalAssetSource": "MultiParty-EA.ea",
+			"EmotionalDecisionMakingSource": "MultiParty-EDM.edm",
+			"SocialImportanceAssetSource": "MultiParty-SI.si",
+			"CommeillFautAssetSource": null,
+			"EmotionalState":
+				{
+					"Mood": 0,
+					"initialTick": 0,
+					"EmotionalPool": [],
+					"AppraisalConfiguration":
+						{
+							"HalfLifeDecayConstant": 0.5,
+							"EmotionInfluenceOnMoodFactor": 0.3,
+							"MoodInfluenceOnEmotionFactor": 0.3,
+							"MinimumMoodValueForInfluencingEmotions": 0.5,
+							"EmotionalHalfLifeDecayTime": 15,
+							"MoodHalfLifeDecayTime": 60
+						}
+				},
+			"AutobiographicMemory":
+				{
+					"Tick": 0,
+					"records": [
+						{
+							"classId": 0,
+							"Id": 1,
+							"Type": "Action-End",
+							"Subject": "Sarah",
+							"Timestamp": 0,
+							"Action": "Enters",
+							"Target": "Room"
+						}, 
+						{
+							"classId": 0,
+							"Id": 2,
+							"Type": "Action-End",
+							"Subject": "John",
+							"Timestamp": 0,
+							"Action": "Enters",
+							"Target": "Room"
+						}, 
+						{
+							"classId": 1,
+							"Id": 3,
+							"Type": "Property-Change",
+							"Subject": "Player",
+							"Timestamp": 0,
+							"Property": "Has(Floor)",
+							"NewValue": "John"
+						}, 
+						{
+							"classId": 0,
+							"Id": 4,
+							"Type": "Action-End",
+							"Subject": "Player",
+							"Timestamp": 0,
+							"Action": "Speak(Start, S2, Greeting(John), Neutral)",
+							"Target": "John"
+						}, 
+						{
+							"classId": 1,
+							"Id": 5,
+							"Type": "Property-Change",
+							"Subject": "John",
+							"Timestamp": 0,
+							"Property": "Has(Floor)",
+							"NewValue": "Player"
+						}, 
+						{
+							"classId": 1,
+							"Id": 6,
+							"Type": "Property-Change",
+							"Subject": "Player",
+							"Timestamp": 0,
+							"Property": "DialogueState(John)",
+							"NewValue": "S3"
+						}, 
+						{
+							"classId": 0,
+							"Id": 7,
+							"Type": "Action-End",
+							"Subject": "John",
+							"Timestamp": 0,
+							"Action": "Speak(S2, S3, -, -)",
+							"Target": "Player"
+						}, 
+						{
+							"classId": 1,
+							"Id": 8,
+							"Type": "Property-Change",
+							"Subject": "Player",
+							"Timestamp": 0,
+							"Property": "Has(Floor)",
+							"NewValue": "John"
+						}, 
+						{
+							"classId": 0,
+							"Id": 9,
+							"Type": "Action-End",
+							"Subject": "Player",
+							"Timestamp": 0,
+							"Action": "Speak(S3, SportsQuestion, -, -)",
+							"Target": "John"
+						}]
+				},
+			"OtherAgents":
+				{
+					"dictionary": [
+						{
+							"key": "Sarah",
+							"value":
+								{
+									"Name": "Sarah",
+									"EmotionalState":
+										{
+											"Mood": 0,
+											"initialTick": 0,
+											"EmotionalPool": [],
+											"AppraisalConfiguration":
+												{
+													"HalfLifeDecayConstant": 0.5,
+													"EmotionInfluenceOnMoodFactor": 0.3,
+													"MoodInfluenceOnEmotionFactor": 0.3,
+													"MinimumMoodValueForInfluencingEmotions": 0.5,
+													"EmotionalHalfLifeDecayTime": 15,
+													"MoodHalfLifeDecayTime": 60
+												}
+										}
+								}
+						}, 
+						{
+							"key": "John",
+							"value":
+								{
+									"Name": "John",
+									"EmotionalState":
+										{
+											"Mood": 0,
+											"initialTick": 0,
+											"EmotionalPool": [],
+											"AppraisalConfiguration":
+												{
+													"HalfLifeDecayConstant": 0.5,
+													"EmotionInfluenceOnMoodFactor": 0.3,
+													"MoodInfluenceOnEmotionFactor": 0.3,
+													"MinimumMoodValueForInfluencingEmotions": 0.5,
+													"EmotionalHalfLifeDecayTime": 15,
+													"MoodHalfLifeDecayTime": 60
+												}
+										}
+								}
+						}]
+				}
+		},
+	"types": [
+		{
+			"TypeId": 0,
+			"ClassName": "AutobiographicMemory.AM+ActionEvent, AutobiographicMemory, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+		}, 
+		{
+			"TypeId": 1,
+			"ClassName": "AutobiographicMemory.AM+PropertyChangeEvent, AutobiographicMemory, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+		}, 
+		{
+			"TypeId": 2,
+			"ClassName": "RolePlayCharacter.RolePlayCharacterAsset, RolePlayCharacter, Version=1.5.0.0, Culture=neutral, PublicKeyToken=null"
+		}]
+}
