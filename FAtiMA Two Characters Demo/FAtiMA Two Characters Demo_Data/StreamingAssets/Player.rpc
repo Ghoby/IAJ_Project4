@@ -9,16 +9,16 @@
 						{
 							"SELF":
 								{
-									"Has(Floor)": "John, 1"
+									"Has(Floor)": "Genebra, 1"
 								}
 						}
 				},
 			"BodyName": "Player",
-			"VoiceName": "Female",
-			"EmotionalAppraisalAssetSource": "CiF-Scenario-EA.ea",
-			"EmotionalDecisionMakingSource": "CiF-Scenario-EDM.edm",
-			"SocialImportanceAssetSource": "CiF-Scenario-SI.si",
-			"CommeillFautAssetSource": "CiF-Scenario-CiF.cif",
+			"VoiceName": "Male",
+			"EmotionalAppraisalAssetSource": "",
+			"EmotionalDecisionMakingSource": "PlayerEDM.edm",
+			"SocialImportanceAssetSource": "",
+			"CommeillFautAssetSource": "",
 			"EmotionalState":
 				{
 					"Mood": 0,

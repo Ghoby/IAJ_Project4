@@ -1,6 +1,7 @@
 Initialize engine version: 2017.1.0f3 (472613c02cf7)
 GfxDevice: creating device client; threaded=1
 Direct3D:
+<<<<<<< Updated upstream
     Version:  Direct3D 11.0 [level 11.0]
     Renderer: NVIDIA GeForce 820M (ID=0x1140)
     Vendor:   NVIDIA
@@ -54,19 +55,86 @@ Loading C:\Users\Duarte Ferreira\Dropbox\IST_Geral\1_Mestrado_1_Sem\Inteligênci
 Platform assembly: C:\Users\Duarte Ferreira\Dropbox\IST_Geral\1_Mestrado_1_Sem\Inteligência Artificial para Jogos\Memes\FAtiMA Two Characters Demo\FAtiMA Two Characters Demo_Data\Managed\System.dll (this message is harmless)
 Platform assembly: C:\Users\Duarte Ferreira\Dropbox\IST_Geral\1_Mestrado_1_Sem\Inteligência Artificial para Jogos\Memes\FAtiMA Two Characters Demo\FAtiMA Two Characters Demo_Data\Managed\System.Core.dll (this message is harmless)
 - Completed reload, in  3.004 seconds
+=======
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon R9 M265X (ID=0x6823)
+    Vendor:   ATI
+    VRAM:     2026 MB
+    Driver:   15.200.1055.0
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Genebra\Documents\__Tecnico\Ano4\IAJ\Projects\Project4\IAJ_Project4\IAJ_Project4\FAtiMA Two Characters Demo\FAtiMA Two Characters Demo_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Genebra\Documents\__Tecnico\Ano4\IAJ\Projects\Project4\IAJ_Project4\IAJ_Project4\FAtiMA Two Characters Demo\FAtiMA Two Characters Demo_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Genebra\Documents\__Tecnico\Ano4\IAJ\Projects\Project4\IAJ_Project4\IAJ_Project4\FAtiMA Two Characters Demo\FAtiMA Two Characters Demo_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Genebra\Documents\__Tecnico\Ano4\IAJ\Projects\Project4\IAJ_Project4\IAJ_Project4\FAtiMA Two Characters Demo\FAtiMA Two Characters Demo_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Genebra\Documents\__Tecnico\Ano4\IAJ\Projects\Project4\IAJ_Project4\IAJ_Project4\FAtiMA Two Characters Demo\FAtiMA Two Characters Demo_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Genebra\Documents\__Tecnico\Ano4\IAJ\Projects\Project4\IAJ_Project4\IAJ_Project4\FAtiMA Two Characters Demo\FAtiMA Two Characters Demo_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Genebra\Documents\__Tecnico\Ano4\IAJ\Projects\Project4\IAJ_Project4\IAJ_Project4\FAtiMA Two Characters Demo\FAtiMA Two Characters Demo_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Genebra\Documents\__Tecnico\Ano4\IAJ\Projects\Project4\IAJ_Project4\IAJ_Project4\FAtiMA Two Characters Demo\FAtiMA Two Characters Demo_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Genebra\Documents\__Tecnico\Ano4\IAJ\Projects\Project4\IAJ_Project4\IAJ_Project4\FAtiMA Two Characters Demo\FAtiMA Two Characters Demo_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Genebra\Documents\__Tecnico\Ano4\IAJ\Projects\Project4\IAJ_Project4\IAJ_Project4\FAtiMA Two Characters Demo\FAtiMA Two Characters Demo_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Genebra\Documents\__Tecnico\Ano4\IAJ\Projects\Project4\IAJ_Project4\IAJ_Project4\FAtiMA Two Characters Demo\FAtiMA Two Characters Demo_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading C:\Users\Genebra\Documents\__Tecnico\Ano4\IAJ\Projects\Project4\IAJ_Project4\IAJ_Project4\FAtiMA Two Characters Demo\FAtiMA Two Characters Demo_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: C:\Users\Genebra\Documents\__Tecnico\Ano4\IAJ\Projects\Project4\IAJ_Project4\IAJ_Project4\FAtiMA Two Characters Demo\FAtiMA Two Characters Demo_Data\Managed\ActionLibrary.dll (this message is harmless)
+Loading C:\Users\Genebra\Documents\__Tecnico\Ano4\IAJ\Projects\Project4\IAJ_Project4\IAJ_Project4\FAtiMA Two Characters Demo\FAtiMA Two Characters Demo_Data\Managed\ActionLibrary.dll into Unity Child Domain
+Platform assembly: C:\Users\Genebra\Documents\__Tecnico\Ano4\IAJ\Projects\Project4\IAJ_Project4\IAJ_Project4\FAtiMA Two Characters Demo\FAtiMA Two Characters Demo_Data\Managed\AutobiographicMemory.dll (this message is harmless)
+Loading C:\Users\Genebra\Documents\__Tecnico\Ano4\IAJ\Projects\Project4\IAJ_Project4\IAJ_Project4\FAtiMA Two Characters Demo\FAtiMA Two Characters Demo_Data\Managed\AutobiographicMemory.dll into Unity Child Domain
+Platform assembly: C:\Users\Genebra\Documents\__Tecnico\Ano4\IAJ\Projects\Project4\IAJ_Project4\IAJ_Project4\FAtiMA Two Characters Demo\FAtiMA Two Characters Demo_Data\Managed\CommeillFaut.dll (this message is harmless)
+Loading C:\Users\Genebra\Documents\__Tecnico\Ano4\IAJ\Projects\Project4\IAJ_Project4\IAJ_Project4\FAtiMA Two Characters Demo\FAtiMA Two Characters Demo_Data\Managed\CommeillFaut.dll into Unity Child Domain
+Platform assembly: C:\Users\Genebra\Documents\__Tecnico\Ano4\IAJ\Projects\Project4\IAJ_Project4\IAJ_Project4\FAtiMA Two Characters Demo\FAtiMA Two Characters Demo_Data\Managed\Conditions.dll (this message is harmless)
+Loading C:\Users\Genebra\Documents\__Tecnico\Ano4\IAJ\Projects\Project4\IAJ_Project4\IAJ_Project4\FAtiMA Two Characters Demo\FAtiMA Two Characters Demo_Data\Managed\Conditions.dll into Unity Child Domain
+Platform assembly: C:\Users\Genebra\Documents\__Tecnico\Ano4\IAJ\Projects\Project4\IAJ_Project4\IAJ_Project4\FAtiMA Two Characters Demo\FAtiMA Two Characters Demo_Data\Managed\EmotionalAppraisal.dll (this message is harmless)
+Loading C:\Users\Genebra\Documents\__Tecnico\Ano4\IAJ\Projects\Project4\IAJ_Project4\IAJ_Project4\FAtiMA Two Characters Demo\FAtiMA Two Characters Demo_Data\Managed\EmotionalAppraisal.dll into Unity Child Domain
+Platform assembly: C:\Users\Genebra\Documents\__Tecnico\Ano4\IAJ\Projects\Project4\IAJ_Project4\IAJ_Project4\FAtiMA Two Characters Demo\FAtiMA Two Characters Demo_Data\Managed\EmotionalDecisionMaking.dll (this message is harmless)
+Loading C:\Users\Genebra\Documents\__Tecnico\Ano4\IAJ\Projects\Project4\IAJ_Project4\IAJ_Project4\FAtiMA Two Characters Demo\FAtiMA Two Characters Demo_Data\Managed\EmotionalDecisionMaking.dll into Unity Child Domain
+Platform assembly: C:\Users\Genebra\Documents\__Tecnico\Ano4\IAJ\Projects\Project4\IAJ_Project4\IAJ_Project4\FAtiMA Two Characters Demo\FAtiMA Two Characters Demo_Data\Managed\GAIPS.Rage.dll (this message is harmless)
+Loading C:\Users\Genebra\Documents\__Tecnico\Ano4\IAJ\Projects\Project4\IAJ_Project4\IAJ_Project4\FAtiMA Two Characters Demo\FAtiMA Two Characters Demo_Data\Managed\GAIPS.Rage.dll into Unity Child Domain
+Platform assembly: C:\Users\Genebra\Documents\__Tecnico\Ano4\IAJ\Projects\Project4\IAJ_Project4\IAJ_Project4\FAtiMA Two Characters Demo\FAtiMA Two Characters Demo_Data\Managed\GAIPS.Serialization.dll (this message is harmless)
+Loading C:\Users\Genebra\Documents\__Tecnico\Ano4\IAJ\Projects\Project4\IAJ_Project4\IAJ_Project4\FAtiMA Two Characters Demo\FAtiMA Two Characters Demo_Data\Managed\GAIPS.Serialization.dll into Unity Child Domain
+Platform assembly: C:\Users\Genebra\Documents\__Tecnico\Ano4\IAJ\Projects\Project4\IAJ_Project4\IAJ_Project4\FAtiMA Two Characters Demo\FAtiMA Two Characters Demo_Data\Managed\IntegratedAuthoringTool.dll (this message is harmless)
+Loading C:\Users\Genebra\Documents\__Tecnico\Ano4\IAJ\Projects\Project4\IAJ_Project4\IAJ_Project4\FAtiMA Two Characters Demo\FAtiMA Two Characters Demo_Data\Managed\IntegratedAuthoringTool.dll into Unity Child Domain
+Platform assembly: C:\Users\Genebra\Documents\__Tecnico\Ano4\IAJ\Projects\Project4\IAJ_Project4\IAJ_Project4\FAtiMA Two Characters Demo\FAtiMA Two Characters Demo_Data\Managed\KnowledgeBase.dll (this message is harmless)
+Loading C:\Users\Genebra\Documents\__Tecnico\Ano4\IAJ\Projects\Project4\IAJ_Project4\IAJ_Project4\FAtiMA Two Characters Demo\FAtiMA Two Characters Demo_Data\Managed\KnowledgeBase.dll into Unity Child Domain
+Platform assembly: C:\Users\Genebra\Documents\__Tecnico\Ano4\IAJ\Projects\Project4\IAJ_Project4\IAJ_Project4\FAtiMA Two Characters Demo\FAtiMA Two Characters Demo_Data\Managed\RageAssetManager.dll (this message is harmless)
+Loading C:\Users\Genebra\Documents\__Tecnico\Ano4\IAJ\Projects\Project4\IAJ_Project4\IAJ_Project4\FAtiMA Two Characters Demo\FAtiMA Two Characters Demo_Data\Managed\RageAssetManager.dll into Unity Child Domain
+Platform assembly: C:\Users\Genebra\Documents\__Tecnico\Ano4\IAJ\Projects\Project4\IAJ_Project4\IAJ_Project4\FAtiMA Two Characters Demo\FAtiMA Two Characters Demo_Data\Managed\RolePlayCharacter.dll (this message is harmless)
+Loading C:\Users\Genebra\Documents\__Tecnico\Ano4\IAJ\Projects\Project4\IAJ_Project4\IAJ_Project4\FAtiMA Two Characters Demo\FAtiMA Two Characters Demo_Data\Managed\RolePlayCharacter.dll into Unity Child Domain
+Platform assembly: C:\Users\Genebra\Documents\__Tecnico\Ano4\IAJ\Projects\Project4\IAJ_Project4\IAJ_Project4\FAtiMA Two Characters Demo\FAtiMA Two Characters Demo_Data\Managed\SocialImportanceAsset.dll (this message is harmless)
+Loading C:\Users\Genebra\Documents\__Tecnico\Ano4\IAJ\Projects\Project4\IAJ_Project4\IAJ_Project4\FAtiMA Two Characters Demo\FAtiMA Two Characters Demo_Data\Managed\SocialImportanceAsset.dll into Unity Child Domain
+Platform assembly: C:\Users\Genebra\Documents\__Tecnico\Ano4\IAJ\Projects\Project4\IAJ_Project4\IAJ_Project4\FAtiMA Two Characters Demo\FAtiMA Two Characters Demo_Data\Managed\Utilities.dll (this message is harmless)
+Loading C:\Users\Genebra\Documents\__Tecnico\Ano4\IAJ\Projects\Project4\IAJ_Project4\IAJ_Project4\FAtiMA Two Characters Demo\FAtiMA Two Characters Demo_Data\Managed\Utilities.dll into Unity Child Domain
+Platform assembly: C:\Users\Genebra\Documents\__Tecnico\Ano4\IAJ\Projects\Project4\IAJ_Project4\IAJ_Project4\FAtiMA Two Characters Demo\FAtiMA Two Characters Demo_Data\Managed\WellFormedNames.dll (this message is harmless)
+Loading C:\Users\Genebra\Documents\__Tecnico\Ano4\IAJ\Projects\Project4\IAJ_Project4\IAJ_Project4\FAtiMA Two Characters Demo\FAtiMA Two Characters Demo_Data\Managed\WellFormedNames.dll into Unity Child Domain
+Platform assembly: C:\Users\Genebra\Documents\__Tecnico\Ano4\IAJ\Projects\Project4\IAJ_Project4\IAJ_Project4\FAtiMA Two Characters Demo\FAtiMA Two Characters Demo_Data\Managed\ICSharpCode.SharpZipLib.dll (this message is harmless)
+Loading C:\Users\Genebra\Documents\__Tecnico\Ano4\IAJ\Projects\Project4\IAJ_Project4\IAJ_Project4\FAtiMA Two Characters Demo\FAtiMA Two Characters Demo_Data\Managed\ICSharpCode.SharpZipLib.dll into Unity Child Domain
+Platform assembly: C:\Users\Genebra\Documents\__Tecnico\Ano4\IAJ\Projects\Project4\IAJ_Project4\IAJ_Project4\FAtiMA Two Characters Demo\FAtiMA Two Characters Demo_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\Genebra\Documents\__Tecnico\Ano4\IAJ\Projects\Project4\IAJ_Project4\IAJ_Project4\FAtiMA Two Characters Demo\FAtiMA Two Characters Demo_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.032 seconds
+>>>>>>> Stashed changes
 <RI> Initializing input.
-XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
 <RI> Input initialized.
 <RI> Initialized touch support.
+<<<<<<< Updated upstream
 UnloadTime: 2.208505 ms
 Platform assembly: C:\Users\Duarte Ferreira\Dropbox\IST_Geral\1_Mestrado_1_Sem\Inteligência Artificial para Jogos\Memes\FAtiMA Two Characters Demo\FAtiMA Two Characters Demo_Data\Managed\Mono.Security.dll (this message is harmless)
+=======
+UnloadTime: 1.657586 ms
+Platform assembly: C:\Users\Genebra\Documents\__Tecnico\Ano4\IAJ\Projects\Project4\IAJ_Project4\IAJ_Project4\FAtiMA Two Characters Demo\FAtiMA Two Characters Demo_Data\Managed\Mono.Security.dll (this message is harmless)
+>>>>>>> Stashed changes
 RPC: Sarah is going to decide
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
+<<<<<<< Updated upstream
 Setting up 2 worker threads for Enlighten.
   Thread -> id: 1e48 -> priority: 1 
   Thread -> id: 1da4 -> priority: 1 
+=======
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 450 -> priority: 1 
+  Thread -> id: 1ce4 -> priority: 1 
+  Thread -> id: 868 -> priority: 1 
+  Thread -> id: 8b8 -> priority: 1 
+>>>>>>> Stashed changes
 RPC: John is going to decide
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
@@ -81,7 +149,11 @@ RPC: John wants to Speak(-, -, SE(Compliment, Initiate), Positive)
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
+<<<<<<< Updated upstream
 Platform assembly: C:\Users\Duarte Ferreira\Dropbox\IST_Geral\1_Mestrado_1_Sem\Inteligência Artificial para Jogos\Memes\FAtiMA Two Characters Demo\FAtiMA Two Characters Demo_Data\Managed\System.Xml.dll (this message is harmless)
+=======
+Platform assembly: C:\Users\Genebra\Documents\__Tecnico\Ano4\IAJ\Projects\Project4\IAJ_Project4\IAJ_Project4\FAtiMA Two Characters Demo\FAtiMA Two Characters Demo_Data\Managed\System.Xml.dll (this message is harmless)
+>>>>>>> Stashed changes
 Calculating Volition for Flirt init: SELF targ: Sarah result: 0
 Calculating Volition for Flirt init: SELF targ: John result: 0
 Calculating Volition for Compliment init: SELF targ: Sarah result: 0
@@ -134,190 +206,8 @@ RPC: John is going to decide
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
 RPC: Sarah is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: John is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: Sarah is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: John is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: Sarah is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: John is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: Sarah is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: John is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: Sarah is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: John is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: Sarah is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: John is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: Sarah is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: John is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: Sarah is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: John is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: Sarah is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: John is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: Sarah is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: John is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: Sarah is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: John is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: Sarah is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: John is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: Sarah is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: John is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: Sarah is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: John is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: Sarah is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: John is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: Sarah is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: John is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: Sarah is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: John is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: Sarah is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: John is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: Sarah is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: John is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: Sarah is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: John is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: Sarah is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: John is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: Sarah is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: John is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: Sarah is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: John is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: Sarah is going to decide
+<<<<<<< Updated upstream
+=======
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
@@ -497,6 +387,446 @@ RPC: Sarah wants to Speak(-, -, SE(Compliment, Initiate), Positive)
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
+RPC: John is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Calculating Volition for Flirt init: SELF targ: Sarah result: 1
+Calculating Volition for Flirt init: SELF targ: Player result: 0
+Calculating Volition for Compliment init: SELF targ: Sarah result: 0
+Calculating Volition for Compliment init: SELF targ: Player result: 1
+Calculating Volition for Insult init: SELF targ: Sarah result: 0
+Calculating Volition for Insult init: SELF targ: Player result: 0
+Calculating Volition for Compliment init: SELF targ: Sarah result: 0
+RPC: John wants to Speak(-, -, SE(Compliment, Answer), Negative)
+>>>>>>> Stashed changes
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: Sarah is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Calculating Volition for Flirt init: SELF targ: John result: 0.5
+Calculating Volition for Flirt init: SELF targ: Player result: 0
+Calculating Volition for Compliment init: SELF targ: John result: 1
+Calculating Volition for Compliment init: SELF targ: Player result: 0
+Calculating Volition for Insult init: SELF targ: John result: 0
+Calculating Volition for Insult init: SELF targ: Player result: 0
+Calculating Volition for Compliment init: SELF targ: John result: 1
+RPC: Sarah wants to Speak(-, -, SE(Compliment, Finalize), Positive)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+I'm the initiator
+RPC: John is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Calculating Volition for Flirt init: SELF targ: Sarah result: 1
+Calculating Volition for Flirt init: SELF targ: Player result: 0
+Calculating Volition for Compliment init: SELF targ: Sarah result: 0
+Calculating Volition for Compliment init: SELF targ: Player result: 1
+Calculating Volition for Insult init: SELF targ: Sarah result: 0
+Calculating Volition for Insult init: SELF targ: Player result: 0
+RPC: John wants to Speak(-, -, SE(Compliment, Initiate), Positive)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Calculating Volition for Flirt init: SELF targ: Sarah result: 0
+Calculating Volition for Flirt init: SELF targ: John result: 0
+Calculating Volition for Compliment init: SELF targ: Sarah result: 0
+Calculating Volition for Compliment init: SELF targ: John result: 0
+Calculating Volition for Insult init: SELF targ: Sarah result: 0
+Calculating Volition for Insult init: SELF targ: John result: 0
+Calculating Volition for Compliment init: SELF targ: John result: 0
+Player DecidedSpeak(-, -, SE(Compliment, Answer), Negative)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: Sarah is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: John is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: Sarah is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: John is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: Sarah is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: John is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: Sarah is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: John is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: Sarah is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: John is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: Sarah is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: John is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: Sarah is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: John is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: Sarah is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: John is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: Sarah is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: John is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: Sarah is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: John is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: Sarah is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: John is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Calculating Volition for Flirt init: SELF targ: Sarah result: 1
+Calculating Volition for Flirt init: SELF targ: Player result: 0
+Calculating Volition for Compliment init: SELF targ: Sarah result: 0
+Calculating Volition for Compliment init: SELF targ: Player result: 1
+Calculating Volition for Insult init: SELF targ: Sarah result: 0
+Calculating Volition for Insult init: SELF targ: Player result: 0
+Calculating Volition for Compliment init: SELF targ: Player result: 1
+RPC: John wants to Speak(-, -, SE(Compliment, Finalize), Positive)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+I'm the initiator
+RPC: Sarah is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Calculating Volition for Flirt init: SELF targ: John result: 0.5
+Calculating Volition for Flirt init: SELF targ: Player result: 0
+Calculating Volition for Compliment init: SELF targ: John result: 1
+Calculating Volition for Compliment init: SELF targ: Player result: 0
+Calculating Volition for Insult init: SELF targ: John result: 0
+Calculating Volition for Insult init: SELF targ: Player result: 0
+RPC: Sarah wants to Speak(-, -, SE(Compliment, Initiate), Positive)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: John is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Calculating Volition for Flirt init: SELF targ: Sarah result: 1
+Calculating Volition for Flirt init: SELF targ: Player result: 0
+Calculating Volition for Compliment init: SELF targ: Sarah result: 0
+Calculating Volition for Compliment init: SELF targ: Player result: 1
+Calculating Volition for Insult init: SELF targ: Sarah result: 0
+Calculating Volition for Insult init: SELF targ: Player result: 0
+Calculating Volition for Compliment init: SELF targ: Sarah result: 0
+RPC: John wants to Speak(-, -, SE(Compliment, Answer), Negative)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: Sarah is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Calculating Volition for Flirt init: SELF targ: John result: 0.5
+Calculating Volition for Flirt init: SELF targ: Player result: 0
+Calculating Volition for Compliment init: SELF targ: John result: 1
+Calculating Volition for Compliment init: SELF targ: Player result: 0
+Calculating Volition for Insult init: SELF targ: John result: 0
+Calculating Volition for Insult init: SELF targ: Player result: 0
+Calculating Volition for Compliment init: SELF targ: John result: 1
+RPC: Sarah wants to Speak(-, -, SE(Compliment, Finalize), Positive)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+I'm the initiator
+RPC: John is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Calculating Volition for Flirt init: SELF targ: Sarah result: 1
+Calculating Volition for Flirt init: SELF targ: Player result: 0
+Calculating Volition for Compliment init: SELF targ: Sarah result: 0
+Calculating Volition for Compliment init: SELF targ: Player result: 1
+Calculating Volition for Insult init: SELF targ: Sarah result: 0
+Calculating Volition for Insult init: SELF targ: Player result: 0
+RPC: John wants to Speak(-, -, SE(Compliment, Initiate), Positive)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Calculating Volition for Flirt init: SELF targ: Sarah result: 0
+Calculating Volition for Flirt init: SELF targ: John result: 0
+Calculating Volition for Compliment init: SELF targ: Sarah result: 0
+Calculating Volition for Compliment init: SELF targ: John result: 0
+Calculating Volition for Insult init: SELF targ: Sarah result: 0
+Calculating Volition for Insult init: SELF targ: John result: 0
+Calculating Volition for Compliment init: SELF targ: John result: 0
+Player DecidedSpeak(-, -, SE(Compliment, Answer), Negative)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: Sarah is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: John is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: Sarah is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: John is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: Sarah is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: John is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: Sarah is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: John is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: Sarah is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: John is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: Sarah is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: John is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: Sarah is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: John is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: Sarah is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: John is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: Sarah is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: John is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: Sarah is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: John is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: Sarah is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: John is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Calculating Volition for Flirt init: SELF targ: Sarah result: 1
+Calculating Volition for Flirt init: SELF targ: Player result: 0
+Calculating Volition for Compliment init: SELF targ: Sarah result: 0
+Calculating Volition for Compliment init: SELF targ: Player result: 1
+Calculating Volition for Insult init: SELF targ: Sarah result: 0
+Calculating Volition for Insult init: SELF targ: Player result: 0
+Calculating Volition for Compliment init: SELF targ: Player result: 1
+RPC: John wants to Speak(-, -, SE(Compliment, Finalize), Positive)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+I'm the initiator
+RPC: Sarah is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Calculating Volition for Flirt init: SELF targ: John result: 0.5
+Calculating Volition for Flirt init: SELF targ: Player result: 0
+Calculating Volition for Compliment init: SELF targ: John result: 1
+Calculating Volition for Compliment init: SELF targ: Player result: 0
+Calculating Volition for Insult init: SELF targ: John result: 0
+Calculating Volition for Insult init: SELF targ: Player result: 0
+RPC: Sarah wants to Speak(-, -, SE(Compliment, Initiate), Positive)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: John is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Calculating Volition for Flirt init: SELF targ: Sarah result: 1
+Calculating Volition for Flirt init: SELF targ: Player result: 0
+Calculating Volition for Compliment init: SELF targ: Sarah result: 0
+Calculating Volition for Compliment init: SELF targ: Player result: 1
+Calculating Volition for Insult init: SELF targ: Sarah result: 0
+Calculating Volition for Insult init: SELF targ: Player result: 0
+Calculating Volition for Compliment init: SELF targ: Sarah result: 0
+RPC: John wants to Speak(-, -, SE(Compliment, Answer), Negative)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: Sarah is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Calculating Volition for Flirt init: SELF targ: John result: 0.5
+Calculating Volition for Flirt init: SELF targ: Player result: 0
+Calculating Volition for Compliment init: SELF targ: John result: 1
+Calculating Volition for Compliment init: SELF targ: Player result: 0
+Calculating Volition for Insult init: SELF targ: John result: 0
+Calculating Volition for Insult init: SELF targ: Player result: 0
+Calculating Volition for Compliment init: SELF targ: John result: 1
+RPC: Sarah wants to Speak(-, -, SE(Compliment, Finalize), Positive)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+I'm the initiator
+RPC: John is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Calculating Volition for Flirt init: SELF targ: Sarah result: 1
+Calculating Volition for Flirt init: SELF targ: Player result: 0
+Calculating Volition for Compliment init: SELF targ: Sarah result: 0
+Calculating Volition for Compliment init: SELF targ: Player result: 1
+Calculating Volition for Insult init: SELF targ: Sarah result: 0
+Calculating Volition for Insult init: SELF targ: Player result: 0
+RPC: John wants to Speak(-, -, SE(Flirt, Initiate), Positive)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+<<<<<<< Updated upstream
+RPC: Sarah is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Calculating Volition for Flirt init: SELF targ: John result: 0.5
+Calculating Volition for Flirt init: SELF targ: Player result: 0
+Calculating Volition for Compliment init: SELF targ: John result: 1
+Calculating Volition for Compliment init: SELF targ: Player result: 0
+Calculating Volition for Insult init: SELF targ: John result: 0
+Calculating Volition for Insult init: SELF targ: Player result: 0
+Calculating Volition for Flirt init: SELF targ: John result: 0.5
+RPC: Sarah wants to Speak(-, -, SE(Flirt, Answer), Neutral)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown Error
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown Error
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: John is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Calculating Volition for Flirt init: SELF targ: Sarah result: 1
+Calculating Volition for Flirt init: SELF targ: Player result: 0
+Calculating Volition for Compliment init: SELF targ: Sarah result: 0
+Calculating Volition for Compliment init: SELF targ: Player result: 1
+Calculating Volition for Insult init: SELF targ: Sarah result: 0
+Calculating Volition for Insult init: SELF targ: Player result: 0
+Calculating Volition for Flirt init: SELF targ: Sarah result: 1
+RPC: John wants to Speak(-, -, SE(Flirt, Finalize), Positive)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+I'm the initiator
+RPC: Sarah is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Calculating Volition for Flirt init: SELF targ: John result: 0.5
+Calculating Volition for Flirt init: SELF targ: Player result: 0
+Calculating Volition for Compliment init: SELF targ: John result: 1
+Calculating Volition for Compliment init: SELF targ: Player result: 0
+Calculating Volition for Insult init: SELF targ: John result: 0
+Calculating Volition for Insult init: SELF targ: Player result: 0
+RPC: Sarah wants to Speak(-, -, SE(Compliment, Initiate), Positive)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
 Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
 UnloadTime: 10.011326 ms
 
@@ -521,3 +851,5 @@ RPC: John wants to Speak(-, -, SE(Compliment, Initiate), Positive)
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
+=======
+>>>>>>> Stashed changes
