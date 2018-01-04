@@ -1,65 +1,66 @@
 Initialize engine version: 2017.1.0f3 (472613c02cf7)
 GfxDevice: creating device client; threaded=1
 Direct3D:
-    Version:  Direct3D 11.0 [level 11.1]
-    Renderer: NVIDIA GeForce GTX 970 (ID=0x13c2)
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 820M (ID=0x1140)
     Vendor:   NVIDIA
-    VRAM:     3072 MB
-    Driver:   23.21.13.8813
+    VRAM:     973 MB
+    Driver:   22.21.13.8569
 Begin MonoManager ReloadAssembly
-Platform assembly: D:\Desktop\FAtiMA Two Characters Demo (Win)\FAtiMA Two Characters Demo_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading D:\Desktop\FAtiMA Two Characters Demo (Win)\FAtiMA Two Characters Demo_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: D:\Desktop\FAtiMA Two Characters Demo (Win)\FAtiMA Two Characters Demo_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
-Loading D:\Desktop\FAtiMA Two Characters Demo (Win)\FAtiMA Two Characters Demo_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
-Platform assembly: D:\Desktop\FAtiMA Two Characters Demo (Win)\FAtiMA Two Characters Demo_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading D:\Desktop\FAtiMA Two Characters Demo (Win)\FAtiMA Two Characters Demo_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: D:\Desktop\FAtiMA Two Characters Demo (Win)\FAtiMA Two Characters Demo_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading D:\Desktop\FAtiMA Two Characters Demo (Win)\FAtiMA Two Characters Demo_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-Platform assembly: D:\Desktop\FAtiMA Two Characters Demo (Win)\FAtiMA Two Characters Demo_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
-Loading D:\Desktop\FAtiMA Two Characters Demo (Win)\FAtiMA Two Characters Demo_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-Platform assembly: D:\Desktop\FAtiMA Two Characters Demo (Win)\FAtiMA Two Characters Demo_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
-Loading D:\Desktop\FAtiMA Two Characters Demo (Win)\FAtiMA Two Characters Demo_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
-Platform assembly: D:\Desktop\FAtiMA Two Characters Demo (Win)\FAtiMA Two Characters Demo_Data\Managed\ActionLibrary.dll (this message is harmless)
-Loading D:\Desktop\FAtiMA Two Characters Demo (Win)\FAtiMA Two Characters Demo_Data\Managed\ActionLibrary.dll into Unity Child Domain
-Platform assembly: D:\Desktop\FAtiMA Two Characters Demo (Win)\FAtiMA Two Characters Demo_Data\Managed\AutobiographicMemory.dll (this message is harmless)
-Loading D:\Desktop\FAtiMA Two Characters Demo (Win)\FAtiMA Two Characters Demo_Data\Managed\AutobiographicMemory.dll into Unity Child Domain
-Platform assembly: D:\Desktop\FAtiMA Two Characters Demo (Win)\FAtiMA Two Characters Demo_Data\Managed\CommeillFaut.dll (this message is harmless)
-Loading D:\Desktop\FAtiMA Two Characters Demo (Win)\FAtiMA Two Characters Demo_Data\Managed\CommeillFaut.dll into Unity Child Domain
-Platform assembly: D:\Desktop\FAtiMA Two Characters Demo (Win)\FAtiMA Two Characters Demo_Data\Managed\Conditions.dll (this message is harmless)
-Loading D:\Desktop\FAtiMA Two Characters Demo (Win)\FAtiMA Two Characters Demo_Data\Managed\Conditions.dll into Unity Child Domain
-Platform assembly: D:\Desktop\FAtiMA Two Characters Demo (Win)\FAtiMA Two Characters Demo_Data\Managed\EmotionalAppraisal.dll (this message is harmless)
-Loading D:\Desktop\FAtiMA Two Characters Demo (Win)\FAtiMA Two Characters Demo_Data\Managed\EmotionalAppraisal.dll into Unity Child Domain
-Platform assembly: D:\Desktop\FAtiMA Two Characters Demo (Win)\FAtiMA Two Characters Demo_Data\Managed\EmotionalDecisionMaking.dll (this message is harmless)
-Loading D:\Desktop\FAtiMA Two Characters Demo (Win)\FAtiMA Two Characters Demo_Data\Managed\EmotionalDecisionMaking.dll into Unity Child Domain
-Platform assembly: D:\Desktop\FAtiMA Two Characters Demo (Win)\FAtiMA Two Characters Demo_Data\Managed\GAIPS.Rage.dll (this message is harmless)
-Loading D:\Desktop\FAtiMA Two Characters Demo (Win)\FAtiMA Two Characters Demo_Data\Managed\GAIPS.Rage.dll into Unity Child Domain
-Platform assembly: D:\Desktop\FAtiMA Two Characters Demo (Win)\FAtiMA Two Characters Demo_Data\Managed\GAIPS.Serialization.dll (this message is harmless)
-Loading D:\Desktop\FAtiMA Two Characters Demo (Win)\FAtiMA Two Characters Demo_Data\Managed\GAIPS.Serialization.dll into Unity Child Domain
-Platform assembly: D:\Desktop\FAtiMA Two Characters Demo (Win)\FAtiMA Two Characters Demo_Data\Managed\IntegratedAuthoringTool.dll (this message is harmless)
-Loading D:\Desktop\FAtiMA Two Characters Demo (Win)\FAtiMA Two Characters Demo_Data\Managed\IntegratedAuthoringTool.dll into Unity Child Domain
-Platform assembly: D:\Desktop\FAtiMA Two Characters Demo (Win)\FAtiMA Two Characters Demo_Data\Managed\KnowledgeBase.dll (this message is harmless)
-Loading D:\Desktop\FAtiMA Two Characters Demo (Win)\FAtiMA Two Characters Demo_Data\Managed\KnowledgeBase.dll into Unity Child Domain
-Platform assembly: D:\Desktop\FAtiMA Two Characters Demo (Win)\FAtiMA Two Characters Demo_Data\Managed\RageAssetManager.dll (this message is harmless)
-Loading D:\Desktop\FAtiMA Two Characters Demo (Win)\FAtiMA Two Characters Demo_Data\Managed\RageAssetManager.dll into Unity Child Domain
-Platform assembly: D:\Desktop\FAtiMA Two Characters Demo (Win)\FAtiMA Two Characters Demo_Data\Managed\RolePlayCharacter.dll (this message is harmless)
-Loading D:\Desktop\FAtiMA Two Characters Demo (Win)\FAtiMA Two Characters Demo_Data\Managed\RolePlayCharacter.dll into Unity Child Domain
-Platform assembly: D:\Desktop\FAtiMA Two Characters Demo (Win)\FAtiMA Two Characters Demo_Data\Managed\SocialImportanceAsset.dll (this message is harmless)
-Loading D:\Desktop\FAtiMA Two Characters Demo (Win)\FAtiMA Two Characters Demo_Data\Managed\SocialImportanceAsset.dll into Unity Child Domain
-Platform assembly: D:\Desktop\FAtiMA Two Characters Demo (Win)\FAtiMA Two Characters Demo_Data\Managed\Utilities.dll (this message is harmless)
-Loading D:\Desktop\FAtiMA Two Characters Demo (Win)\FAtiMA Two Characters Demo_Data\Managed\Utilities.dll into Unity Child Domain
-Platform assembly: D:\Desktop\FAtiMA Two Characters Demo (Win)\FAtiMA Two Characters Demo_Data\Managed\WellFormedNames.dll (this message is harmless)
-Loading D:\Desktop\FAtiMA Two Characters Demo (Win)\FAtiMA Two Characters Demo_Data\Managed\WellFormedNames.dll into Unity Child Domain
-Platform assembly: D:\Desktop\FAtiMA Two Characters Demo (Win)\FAtiMA Two Characters Demo_Data\Managed\ICSharpCode.SharpZipLib.dll (this message is harmless)
-Loading D:\Desktop\FAtiMA Two Characters Demo (Win)\FAtiMA Two Characters Demo_Data\Managed\ICSharpCode.SharpZipLib.dll into Unity Child Domain
-Platform assembly: D:\Desktop\FAtiMA Two Characters Demo (Win)\FAtiMA Two Characters Demo_Data\Managed\System.dll (this message is harmless)
-Platform assembly: D:\Desktop\FAtiMA Two Characters Demo (Win)\FAtiMA Two Characters Demo_Data\Managed\System.Core.dll (this message is harmless)
-- Completed reload, in  0.573 seconds
+Platform assembly: C:\Users\Duarte Ferreira\Dropbox\IST_Geral\1_Mestrado_1_Sem\Inteligência Artificial para Jogos\Memes\FAtiMA Two Characters Demo\FAtiMA Two Characters Demo_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Duarte Ferreira\Dropbox\IST_Geral\1_Mestrado_1_Sem\Inteligência Artificial para Jogos\Memes\FAtiMA Two Characters Demo\FAtiMA Two Characters Demo_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Duarte Ferreira\Dropbox\IST_Geral\1_Mestrado_1_Sem\Inteligência Artificial para Jogos\Memes\FAtiMA Two Characters Demo\FAtiMA Two Characters Demo_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Duarte Ferreira\Dropbox\IST_Geral\1_Mestrado_1_Sem\Inteligência Artificial para Jogos\Memes\FAtiMA Two Characters Demo\FAtiMA Two Characters Demo_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Duarte Ferreira\Dropbox\IST_Geral\1_Mestrado_1_Sem\Inteligência Artificial para Jogos\Memes\FAtiMA Two Characters Demo\FAtiMA Two Characters Demo_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Duarte Ferreira\Dropbox\IST_Geral\1_Mestrado_1_Sem\Inteligência Artificial para Jogos\Memes\FAtiMA Two Characters Demo\FAtiMA Two Characters Demo_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Duarte Ferreira\Dropbox\IST_Geral\1_Mestrado_1_Sem\Inteligência Artificial para Jogos\Memes\FAtiMA Two Characters Demo\FAtiMA Two Characters Demo_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Duarte Ferreira\Dropbox\IST_Geral\1_Mestrado_1_Sem\Inteligência Artificial para Jogos\Memes\FAtiMA Two Characters Demo\FAtiMA Two Characters Demo_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Duarte Ferreira\Dropbox\IST_Geral\1_Mestrado_1_Sem\Inteligência Artificial para Jogos\Memes\FAtiMA Two Characters Demo\FAtiMA Two Characters Demo_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Duarte Ferreira\Dropbox\IST_Geral\1_Mestrado_1_Sem\Inteligência Artificial para Jogos\Memes\FAtiMA Two Characters Demo\FAtiMA Two Characters Demo_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Duarte Ferreira\Dropbox\IST_Geral\1_Mestrado_1_Sem\Inteligência Artificial para Jogos\Memes\FAtiMA Two Characters Demo\FAtiMA Two Characters Demo_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading C:\Users\Duarte Ferreira\Dropbox\IST_Geral\1_Mestrado_1_Sem\Inteligência Artificial para Jogos\Memes\FAtiMA Two Characters Demo\FAtiMA Two Characters Demo_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: C:\Users\Duarte Ferreira\Dropbox\IST_Geral\1_Mestrado_1_Sem\Inteligência Artificial para Jogos\Memes\FAtiMA Two Characters Demo\FAtiMA Two Characters Demo_Data\Managed\ActionLibrary.dll (this message is harmless)
+Loading C:\Users\Duarte Ferreira\Dropbox\IST_Geral\1_Mestrado_1_Sem\Inteligência Artificial para Jogos\Memes\FAtiMA Two Characters Demo\FAtiMA Two Characters Demo_Data\Managed\ActionLibrary.dll into Unity Child Domain
+Platform assembly: C:\Users\Duarte Ferreira\Dropbox\IST_Geral\1_Mestrado_1_Sem\Inteligência Artificial para Jogos\Memes\FAtiMA Two Characters Demo\FAtiMA Two Characters Demo_Data\Managed\AutobiographicMemory.dll (this message is harmless)
+Loading C:\Users\Duarte Ferreira\Dropbox\IST_Geral\1_Mestrado_1_Sem\Inteligência Artificial para Jogos\Memes\FAtiMA Two Characters Demo\FAtiMA Two Characters Demo_Data\Managed\AutobiographicMemory.dll into Unity Child Domain
+Platform assembly: C:\Users\Duarte Ferreira\Dropbox\IST_Geral\1_Mestrado_1_Sem\Inteligência Artificial para Jogos\Memes\FAtiMA Two Characters Demo\FAtiMA Two Characters Demo_Data\Managed\CommeillFaut.dll (this message is harmless)
+Loading C:\Users\Duarte Ferreira\Dropbox\IST_Geral\1_Mestrado_1_Sem\Inteligência Artificial para Jogos\Memes\FAtiMA Two Characters Demo\FAtiMA Two Characters Demo_Data\Managed\CommeillFaut.dll into Unity Child Domain
+Platform assembly: C:\Users\Duarte Ferreira\Dropbox\IST_Geral\1_Mestrado_1_Sem\Inteligência Artificial para Jogos\Memes\FAtiMA Two Characters Demo\FAtiMA Two Characters Demo_Data\Managed\Conditions.dll (this message is harmless)
+Loading C:\Users\Duarte Ferreira\Dropbox\IST_Geral\1_Mestrado_1_Sem\Inteligência Artificial para Jogos\Memes\FAtiMA Two Characters Demo\FAtiMA Two Characters Demo_Data\Managed\Conditions.dll into Unity Child Domain
+Platform assembly: C:\Users\Duarte Ferreira\Dropbox\IST_Geral\1_Mestrado_1_Sem\Inteligência Artificial para Jogos\Memes\FAtiMA Two Characters Demo\FAtiMA Two Characters Demo_Data\Managed\EmotionalAppraisal.dll (this message is harmless)
+Loading C:\Users\Duarte Ferreira\Dropbox\IST_Geral\1_Mestrado_1_Sem\Inteligência Artificial para Jogos\Memes\FAtiMA Two Characters Demo\FAtiMA Two Characters Demo_Data\Managed\EmotionalAppraisal.dll into Unity Child Domain
+Platform assembly: C:\Users\Duarte Ferreira\Dropbox\IST_Geral\1_Mestrado_1_Sem\Inteligência Artificial para Jogos\Memes\FAtiMA Two Characters Demo\FAtiMA Two Characters Demo_Data\Managed\EmotionalDecisionMaking.dll (this message is harmless)
+Loading C:\Users\Duarte Ferreira\Dropbox\IST_Geral\1_Mestrado_1_Sem\Inteligência Artificial para Jogos\Memes\FAtiMA Two Characters Demo\FAtiMA Two Characters Demo_Data\Managed\EmotionalDecisionMaking.dll into Unity Child Domain
+Platform assembly: C:\Users\Duarte Ferreira\Dropbox\IST_Geral\1_Mestrado_1_Sem\Inteligência Artificial para Jogos\Memes\FAtiMA Two Characters Demo\FAtiMA Two Characters Demo_Data\Managed\GAIPS.Rage.dll (this message is harmless)
+Loading C:\Users\Duarte Ferreira\Dropbox\IST_Geral\1_Mestrado_1_Sem\Inteligência Artificial para Jogos\Memes\FAtiMA Two Characters Demo\FAtiMA Two Characters Demo_Data\Managed\GAIPS.Rage.dll into Unity Child Domain
+Platform assembly: C:\Users\Duarte Ferreira\Dropbox\IST_Geral\1_Mestrado_1_Sem\Inteligência Artificial para Jogos\Memes\FAtiMA Two Characters Demo\FAtiMA Two Characters Demo_Data\Managed\GAIPS.Serialization.dll (this message is harmless)
+Loading C:\Users\Duarte Ferreira\Dropbox\IST_Geral\1_Mestrado_1_Sem\Inteligência Artificial para Jogos\Memes\FAtiMA Two Characters Demo\FAtiMA Two Characters Demo_Data\Managed\GAIPS.Serialization.dll into Unity Child Domain
+Platform assembly: C:\Users\Duarte Ferreira\Dropbox\IST_Geral\1_Mestrado_1_Sem\Inteligência Artificial para Jogos\Memes\FAtiMA Two Characters Demo\FAtiMA Two Characters Demo_Data\Managed\IntegratedAuthoringTool.dll (this message is harmless)
+Loading C:\Users\Duarte Ferreira\Dropbox\IST_Geral\1_Mestrado_1_Sem\Inteligência Artificial para Jogos\Memes\FAtiMA Two Characters Demo\FAtiMA Two Characters Demo_Data\Managed\IntegratedAuthoringTool.dll into Unity Child Domain
+Platform assembly: C:\Users\Duarte Ferreira\Dropbox\IST_Geral\1_Mestrado_1_Sem\Inteligência Artificial para Jogos\Memes\FAtiMA Two Characters Demo\FAtiMA Two Characters Demo_Data\Managed\KnowledgeBase.dll (this message is harmless)
+Loading C:\Users\Duarte Ferreira\Dropbox\IST_Geral\1_Mestrado_1_Sem\Inteligência Artificial para Jogos\Memes\FAtiMA Two Characters Demo\FAtiMA Two Characters Demo_Data\Managed\KnowledgeBase.dll into Unity Child Domain
+Platform assembly: C:\Users\Duarte Ferreira\Dropbox\IST_Geral\1_Mestrado_1_Sem\Inteligência Artificial para Jogos\Memes\FAtiMA Two Characters Demo\FAtiMA Two Characters Demo_Data\Managed\RageAssetManager.dll (this message is harmless)
+Loading C:\Users\Duarte Ferreira\Dropbox\IST_Geral\1_Mestrado_1_Sem\Inteligência Artificial para Jogos\Memes\FAtiMA Two Characters Demo\FAtiMA Two Characters Demo_Data\Managed\RageAssetManager.dll into Unity Child Domain
+Platform assembly: C:\Users\Duarte Ferreira\Dropbox\IST_Geral\1_Mestrado_1_Sem\Inteligência Artificial para Jogos\Memes\FAtiMA Two Characters Demo\FAtiMA Two Characters Demo_Data\Managed\RolePlayCharacter.dll (this message is harmless)
+Loading C:\Users\Duarte Ferreira\Dropbox\IST_Geral\1_Mestrado_1_Sem\Inteligência Artificial para Jogos\Memes\FAtiMA Two Characters Demo\FAtiMA Two Characters Demo_Data\Managed\RolePlayCharacter.dll into Unity Child Domain
+Platform assembly: C:\Users\Duarte Ferreira\Dropbox\IST_Geral\1_Mestrado_1_Sem\Inteligência Artificial para Jogos\Memes\FAtiMA Two Characters Demo\FAtiMA Two Characters Demo_Data\Managed\SocialImportanceAsset.dll (this message is harmless)
+Loading C:\Users\Duarte Ferreira\Dropbox\IST_Geral\1_Mestrado_1_Sem\Inteligência Artificial para Jogos\Memes\FAtiMA Two Characters Demo\FAtiMA Two Characters Demo_Data\Managed\SocialImportanceAsset.dll into Unity Child Domain
+Platform assembly: C:\Users\Duarte Ferreira\Dropbox\IST_Geral\1_Mestrado_1_Sem\Inteligência Artificial para Jogos\Memes\FAtiMA Two Characters Demo\FAtiMA Two Characters Demo_Data\Managed\Utilities.dll (this message is harmless)
+Loading C:\Users\Duarte Ferreira\Dropbox\IST_Geral\1_Mestrado_1_Sem\Inteligência Artificial para Jogos\Memes\FAtiMA Two Characters Demo\FAtiMA Two Characters Demo_Data\Managed\Utilities.dll into Unity Child Domain
+Platform assembly: C:\Users\Duarte Ferreira\Dropbox\IST_Geral\1_Mestrado_1_Sem\Inteligência Artificial para Jogos\Memes\FAtiMA Two Characters Demo\FAtiMA Two Characters Demo_Data\Managed\WellFormedNames.dll (this message is harmless)
+Loading C:\Users\Duarte Ferreira\Dropbox\IST_Geral\1_Mestrado_1_Sem\Inteligência Artificial para Jogos\Memes\FAtiMA Two Characters Demo\FAtiMA Two Characters Demo_Data\Managed\WellFormedNames.dll into Unity Child Domain
+Platform assembly: C:\Users\Duarte Ferreira\Dropbox\IST_Geral\1_Mestrado_1_Sem\Inteligência Artificial para Jogos\Memes\FAtiMA Two Characters Demo\FAtiMA Two Characters Demo_Data\Managed\ICSharpCode.SharpZipLib.dll (this message is harmless)
+Loading C:\Users\Duarte Ferreira\Dropbox\IST_Geral\1_Mestrado_1_Sem\Inteligência Artificial para Jogos\Memes\FAtiMA Two Characters Demo\FAtiMA Two Characters Demo_Data\Managed\ICSharpCode.SharpZipLib.dll into Unity Child Domain
+Platform assembly: C:\Users\Duarte Ferreira\Dropbox\IST_Geral\1_Mestrado_1_Sem\Inteligência Artificial para Jogos\Memes\FAtiMA Two Characters Demo\FAtiMA Two Characters Demo_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\Duarte Ferreira\Dropbox\IST_Geral\1_Mestrado_1_Sem\Inteligência Artificial para Jogos\Memes\FAtiMA Two Characters Demo\FAtiMA Two Characters Demo_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.838 seconds
 <RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 1.232425 ms
-Platform assembly: D:\Desktop\FAtiMA Two Characters Demo (Win)\FAtiMA Two Characters Demo_Data\Managed\Mono.Security.dll (this message is harmless)
-Registering Asset CommeillFautAsset/CommeillFautAsset as CommeillFautAsset_0
+UnloadTime: 68.300042 ms
+Platform assembly: C:\Users\Duarte Ferreira\Dropbox\IST_Geral\1_Mestrado_1_Sem\Inteligência Artificial para Jogos\Memes\FAtiMA Two Characters Demo\FAtiMA Two Characters Demo_Data\Managed\Mono.Security.dll (this message is harmless)
+Registering Asset EmotionalAppraisalAsset/EmotionalAppraisalAsset as EmotionalAppraisalAsset_0
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
@@ -67,11 +68,11 @@ Registered 1 Asset(s)
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-CommeillFautAsset VersionInfo is missing
+EmotionalAppraisalAsset VersionInfo is missing
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-Registering Asset CommeillFautAsset/CommeillFautAsset as CommeillFautAsset_1
+Registering Asset SocialImportanceAsset/SocialImportanceAsset as SocialImportanceAsset_1
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
@@ -79,7 +80,7 @@ Registered 2 Asset(s)
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-CommeillFautAsset VersionInfo is missing
+SocialImportanceAsset VersionInfo is missing
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
@@ -95,613 +96,7 @@ CommeillFautAsset VersionInfo is missing
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-Player DecidedSpeak(Start, S2, Greeting(Sarah), Neutral)
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: Sarah is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Setting up 2 worker threads for Enlighten.
-  Thread -> id: 3f54 -> priority: 1 
-  Thread -> id: cdc -> priority: 1 
-RPC: John is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: Sarah is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: John is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: Sarah is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: John is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: Sarah is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: John is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: Sarah is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: John is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: Sarah is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: John is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: Sarah is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: John is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: Sarah is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: John is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: Sarah is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: John is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: Sarah is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: John is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: John wants to Speak(S2, S3, -, -)
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Platform assembly: D:\Desktop\FAtiMA Two Characters Demo (Win)\FAtiMA Two Characters Demo_Data\Managed\System.Xml.dll (this message is harmless)
-Player DecidedSpeak(S3, SportsQuestion, -, -)
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: Sarah is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: John is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: Sarah is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: John is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: Sarah is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: John is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: Sarah is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: John is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: John wants to Speak(SportsQuestion, Movies, -, -)
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Player DecidedSpeak(Movies, S5, -, Positive)
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: Sarah is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: John is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: Sarah is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: John is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: Sarah is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: John is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: Sarah is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: John is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: Sarah is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: John is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: Sarah is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: John is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: Sarah is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: John is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: Sarah is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: John is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: Sarah is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: John is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: Sarah is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: John is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: Sarah is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: John is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: Sarah is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: John is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: Sarah is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: John is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: John wants to Speak(S5, S6, -, Neutral)
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Player DecidedSpeak(Start, S2, Greeting(Sarah), Neutral)
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: Sarah is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: John is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: Sarah is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: John is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: Sarah is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: John is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: Sarah is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: John is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: Sarah is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: John is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: Sarah is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: John is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: Sarah is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: John is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: Sarah is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: John is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: Sarah is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: Sarah wants to Speak(S2, S3, -, -)
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Player DecidedSpeak(S3, SportsQuestion, -, -)
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: John is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: Sarah is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: John is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: Sarah is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: John is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: Sarah is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: Sarah wants to Speak(SportsQuestion, Football, Likes(Football), -)
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Player DecidedSpeak(Football, S6, -, -)
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: John is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: Sarah is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: John is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: Sarah is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: John is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: Sarah is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: John is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: Sarah is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: John is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: Sarah is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: John is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: Sarah is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: John is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: Sarah is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: John is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: Sarah is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: John is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: Sarah is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: John is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: Sarah is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: John is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: Sarah is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: John is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: Sarah is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: John is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: Sarah is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: John is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: Sarah is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: John is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: Sarah is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: John is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: Sarah is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: John is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: Sarah is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: John is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: Sarah is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: John is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: Sarah is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: John is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: Sarah is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: John is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: Sarah is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: John is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: Sarah is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: John is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: Sarah is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: John is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: Sarah is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: John is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: Sarah is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: John is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: Sarah is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: John is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: Sarah is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: John is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: Sarah is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: John is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: Sarah is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: John is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: Sarah is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-RPC: John is going to decide
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 1.957478 ms
-
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 1569.
-Total: 1.456712 ms (FindLiveObjects: 0.104381 ms CreateObjectMapping: 0.029068 ms MarkObjects: 1.304104 ms  DeleteObjects: 0.018497 ms)
-
-Registering Asset CommeillFautAsset/CommeillFautAsset as CommeillFautAsset_3
+Registering Asset SocialImportanceAsset/SocialImportanceAsset as SocialImportanceAsset_3
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
@@ -709,7 +104,7 @@ Registered 4 Asset(s)
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-CommeillFautAsset VersionInfo is missing
+SocialImportanceAsset VersionInfo is missing
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
@@ -737,119 +132,572 @@ CommeillFautAsset VersionInfo is missing
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-Player DecidedSpeak(Start, S2, Greeting(John), Neutral)
+Player DecidedSpeak(Start, Genebra_Start, Greeting(Genebra), Neutral)
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-RPC: Sarah is going to decide
+RPC: Genebra is going to decide
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-RPC: John is going to decide
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1718 -> priority: 1 
+  Thread -> id: 2b0c -> priority: 1 
+RPC: Soares is going to decide
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-RPC: Sarah is going to decide
+RPC: Genebra is going to decide
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-RPC: John is going to decide
+RPC: Soares is going to decide
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-RPC: Sarah is going to decide
+RPC: Genebra is going to decide
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-RPC: John is going to decide
+RPC: Soares is going to decide
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-RPC: Sarah is going to decide
+RPC: Genebra is going to decide
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-RPC: John is going to decide
+RPC: Soares is going to decide
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-RPC: Sarah is going to decide
+RPC: Genebra is going to decide
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-RPC: John is going to decide
+RPC: Soares is going to decide
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-RPC: Sarah is going to decide
+RPC: Genebra is going to decide
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-RPC: John is going to decide
+RPC: Soares is going to decide
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-RPC: Sarah is going to decide
+RPC: Genebra is going to decide
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-RPC: John is going to decide
+RPC: Soares is going to decide
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-RPC: Sarah is going to decide
+RPC: Genebra is going to decide
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-RPC: John is going to decide
+RPC: Soares is going to decide
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-RPC: Sarah is going to decide
+RPC: Genebra is going to decide
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-RPC: John is going to decide
+RPC: Soares is going to decide
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-RPC: Sarah is going to decide
+RPC: Genebra is going to decide
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-RPC: John is going to decide
+RPC: Soares is going to decide
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-RPC: Sarah is going to decide
+RPC: Genebra is going to decide
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-RPC: John is going to decide
+RPC: Soares is going to decide
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-RPC: Sarah is going to decide
+RPC: Genebra is going to decide
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-RPC: John is going to decide
+RPC: Soares is going to decide
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-RPC: Sarah is going to decide
+RPC: Genebra is going to decide
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-RPC: John is going to decide
+RPC: Soares is going to decide
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-RPC: Sarah is going to decide
+RPC: Genebra is going to decide
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-RPC: John is going to decide
+RPC: Soares is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: Genebra is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: Soares is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: Genebra is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: Genebra wants to Speak(Genebra_Start, Player_GotIdea, Desperation, NEUTRAL)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player DecidedSpeak(Player_GotIdea, Genebra_ListenIdea, Proposal, Casual)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: Soares is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: Genebra is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: Soares is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: Genebra is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: Soares is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: Genebra is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: Soares is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: Genebra is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: Soares is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: Genebra is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: Soares is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: Genebra is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: Soares is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: Genebra is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: Soares is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: Genebra is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: Soares is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: Genebra is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: Soares is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: Genebra is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: Soares is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: Genebra is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: Soares is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: Genebra is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: Soares is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: Genebra is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: Soares is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: Genebra is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: Soares is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: Genebra is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: Soares is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: Genebra is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: Soares is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: Genebra is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: Soares is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: Genebra is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: Soares is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: Genebra is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: Genebra wants to Speak(Genebra_ListenIdea, Player_IdeaProposal, Acceptance, NEUTRAL)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player DecidedSpeak(Player_IdeaProposal, Genebra_IdeaPreResponse, Proposal, Casual)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: Soares is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: Genebra is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: Soares is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: Genebra is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: Soares is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: Genebra is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: Soares is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: Genebra is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: Soares is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: Genebra is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: Soares is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: Genebra is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: Soares is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: Genebra is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: Soares is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: Genebra is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: Soares is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: Genebra is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: Soares is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: Genebra is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: Soares is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: Genebra is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: Soares is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: Genebra is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: Soares is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: Genebra is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: Soares is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: Genebra is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: Soares is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: Genebra is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: Soares is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: Genebra is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: Soares is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: Genebra is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: Soares is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: Genebra is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: Soares is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: Genebra is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: Genebra wants to Speak(Genebra_PlayerGivesUp, End, Confort, NEUTRAL)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.632547 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 1568.
+Total: 38.090977 ms (FindLiveObjects: 0.139465 ms CreateObjectMapping: 0.033206 ms MarkObjects: 37.908042 ms  DeleteObjects: 0.009056 ms)
+
+Registering Asset EmotionalAppraisalAsset/EmotionalAppraisalAsset as EmotionalAppraisalAsset_6
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Registered 7 Asset(s)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+EmotionalAppraisalAsset VersionInfo is missing
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Registering Asset SocialImportanceAsset/SocialImportanceAsset as SocialImportanceAsset_7
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Registered 8 Asset(s)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SocialImportanceAsset VersionInfo is missing
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Registering Asset CommeillFautAsset/CommeillFautAsset as CommeillFautAsset_8
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Registered 9 Asset(s)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CommeillFautAsset VersionInfo is missing
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Registering Asset SocialImportanceAsset/SocialImportanceAsset as SocialImportanceAsset_9
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Registered 10 Asset(s)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SocialImportanceAsset VersionInfo is missing
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Registering Asset CommeillFautAsset/CommeillFautAsset as CommeillFautAsset_10
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Registered 11 Asset(s)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CommeillFautAsset VersionInfo is missing
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Registering Asset CommeillFautAsset/CommeillFautAsset as CommeillFautAsset_11
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Registered 12 Asset(s)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CommeillFautAsset VersionInfo is missing
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player DecidedSpeak(Start, Genebra_Start, Greeting(Genebra), Casual)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: Genebra is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: Soares is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: Genebra is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: Soares is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: Genebra is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: Soares is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: Genebra is going to decide
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC: Soares is going to decide
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 

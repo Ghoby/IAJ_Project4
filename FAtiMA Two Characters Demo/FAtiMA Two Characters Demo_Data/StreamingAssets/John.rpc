@@ -9,16 +9,16 @@
 						{
 							"SELF":
 								{
-									"Has(Floor)": "Genebra, 1"
+									"Has(Floor)": "Player, 1"
 								}
 						}
 				},
 			"BodyName": "Male",
 			"VoiceName": "Male",
-			"EmotionalAppraisalAssetSource": "",
-			"EmotionalDecisionMakingSource": "TwoCharConversationEDM.edm",
-			"SocialImportanceAssetSource": "",
-			"CommeillFautAssetSource": "",
+			"EmotionalAppraisalAssetSource": "MultiParty-EA.ea",
+			"EmotionalDecisionMakingSource": "MultiParty-EDM.edm",
+			"SocialImportanceAssetSource": "MultiParty-SI.si",
+			"CommeillFautAssetSource": null,
 			"EmotionalState":
 				{
 					"Mood": 0,

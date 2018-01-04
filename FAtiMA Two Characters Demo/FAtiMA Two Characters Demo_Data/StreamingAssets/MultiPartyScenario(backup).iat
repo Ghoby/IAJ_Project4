@@ -1,0 +1,95 @@
+{
+	"root":
+		{
+			"classId": 0,
+			"ScenarioName": "MultiPartyScenario",
+			"Description": "",
+			"CharacterSources": ["Player.rpc", "Sarah.rpc", "John.rpc"],
+			"Dialogues": [
+				{
+					"CurrentState": "Start",
+					"NextState": "S2",
+					"Meaning": "Greeting(Sarah)",
+					"Style": "Neutral",
+					"Utterance": "Hi Sarah! Nice to meet you!",
+					"UtteranceId": "TTS-2836CE2D46AE7894A269C0F8F8CF233A"
+				}, 
+				{
+					"CurrentState": "SportsQuestion",
+					"NextState": "Football",
+					"Meaning": "Likes(Football)",
+					"Style": "-",
+					"Utterance": "I like football a lot.",
+					"UtteranceId": "TTS-DAA2557EF489ED40A5D90F3DF2D7F176"
+				}, 
+				{
+					"CurrentState": "Start",
+					"NextState": "S2",
+					"Meaning": "Greeting(John)",
+					"Style": "Neutral",
+					"Utterance": "Hi John! Nice to meet you!",
+					"UtteranceId": "TTS-548DB630FDD302584A7AD36F526FF458"
+				}, 
+				{
+					"CurrentState": "S3",
+					"NextState": "SportsQuestion",
+					"Meaning": "-",
+					"Style": "-",
+					"Utterance": "Do you watch sports?",
+					"UtteranceId": "TTS-80B927EB83C5407BF08EDC7C492ABC86"
+				}, 
+				{
+					"CurrentState": "SportsQuestion",
+					"NextState": "Movies",
+					"Meaning": "-",
+					"Style": "-",
+					"Utterance": "Nope. Not really... I prefer watching movies. Do you like movies?",
+					"UtteranceId": "TTS-A9EE36A4F42C5863F8519FC15486722D"
+				}, 
+				{
+					"CurrentState": "Movies",
+					"NextState": "S5",
+					"Meaning": "-",
+					"Style": "Positive",
+					"Utterance": "Yeah. I am a big fan of cinema.",
+					"UtteranceId": "TTS-FED4659BE4A5D456597CCE5880FA3BB3"
+				}, 
+				{
+					"CurrentState": "S2",
+					"NextState": "S3",
+					"Meaning": "-",
+					"Style": "-",
+					"Utterance": "Nice to meet you too!",
+					"UtteranceId": "TTS-5556A889F14A9388327D4920E42388D5"
+				}, 
+				{
+					"CurrentState": "Movies",
+					"NextState": "S5",
+					"Meaning": "-",
+					"Style": "Negative",
+					"Utterance": "Movies are a total waste of time.",
+					"UtteranceId": "TTS-A65C3A388B5D5BFD63C691A4E436D437"
+				}, 
+				{
+					"CurrentState": "S5",
+					"NextState": "S6",
+					"Meaning": "-",
+					"Style": "Neutral",
+					"Utterance": "Hmm... I see...",
+					"UtteranceId": "TTS-99C83176CECBAA92F3B349E1F2444090"
+				}, 
+				{
+					"CurrentState": "Football",
+					"NextState": "S6",
+					"Meaning": "-",
+					"Style": "-",
+					"Utterance": "Me too.",
+					"UtteranceId": "TTS-30D3B589D252729146AB9598089C34C7"
+				}]
+		},
+	"types": [
+		{
+			"TypeId": 0,
+			"ClassName": "IntegratedAuthoringTool.IntegratedAuthoringToolAsset, IntegratedAuthoringTool, Version=1.7.0.0, Culture=neutral, PublicKeyToken=null"
+		}]
+}

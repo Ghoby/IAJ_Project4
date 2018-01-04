@@ -9,16 +9,19 @@
 						{
 							"SELF":
 								{
-									"Has(Floor)": "Genebra, 1"
+									"DialogueState(Genebra)": "Start, 1",
+									"DialogueState(Soares)": "Start, 1",
+									"Has(Floor)": "Player, 1",
+									"Is(Player)": "True, 1"
 								}
 						}
 				},
 			"BodyName": "Player",
-			"VoiceName": "Male",
+			"VoiceName": "Female",
 			"EmotionalAppraisalAssetSource": "",
-			"EmotionalDecisionMakingSource": "PlayerEDM.edm",
+			"EmotionalDecisionMakingSource": "Player.edm",
 			"SocialImportanceAssetSource": "",
-			"CommeillFautAssetSource": "",
+			"CommeillFautAssetSource": null,
 			"EmotionalState":
 				{
 					"Mood": 0,
