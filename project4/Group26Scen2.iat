@@ -1,0 +1,463 @@
+{
+	"root":
+		{
+			"classId": 0,
+			"ScenarioName": "MetaConversation2NPC",
+			"Description": "Neste cenário, tu irás tentar persuadir o Genebra e o Soares (os teus colegas de grupo de IAJ) a aceitarem a ideia absolutamente genial que tiveste para o diálogo do projeto 4 de IAJ.\r\nUsa os teus melhores dotes de dar graxa e lamber-botas para o conseguir.\r\nConvence o Genebra que a tua ideia é a melhor do mundo e discute os detalhes com o Soares.",
+			"CharacterSources": ["rpc (2 NPC)\\player.rpc", "rpc (2 NPC)\\Genebra.rpc", "rpc (2 NPC)\\Soares.rpc"],
+			"Dialogues": [
+				{
+					"CurrentState": "Player_IdeaProposal",
+					"NextState": "Genebra_IdeaPreResponse",
+					"Meaning": "Proposal",
+					"Style": "Casual",
+					"Utterance": "Basicamente temos dois gajos a falar e um deles quer comprar droga ao outro. Bué fixe, não achas?",
+					"UtteranceId": "TTS-DB308CE87EC60788016CCEFDFB08B684"
+				}, 
+				{
+					"CurrentState": "Player_Argument",
+					"NextState": "Genebra_FightsBack",
+					"Meaning": "Insult",
+					"Style": "Rude",
+					"Utterance": "Melhor do que qualquer ideia que possas ter!",
+					"UtteranceId": "TTS-BCEE28182AFB4E5C7F16E586086989D0"
+				}, 
+				{
+					"CurrentState": "Genebra_IdeaResponse",
+					"NextState": "Player_Argument",
+					"Meaning": "Doubt",
+					"Style": "NEUTRAL",
+					"Utterance": "Não achas que isso é um bocado arriscado para fazer no projecto?",
+					"UtteranceId": "TTS-E51409BCF73A83A7B1A315B3A467DCBB"
+				}, 
+				{
+					"CurrentState": "Genebra_IdeaPreResponse",
+					"NextState": "Player_IdeaExplanation",
+					"Meaning": "Question",
+					"Style": "NEUTRAL",
+					"Utterance": "Explica isso melhor, se faz favor.",
+					"UtteranceId": "TTS-CD3D653048C4CE11F14323EE6807CF49"
+				}, 
+				{
+					"CurrentState": "Genebra_FightsBack",
+					"NextState": "End",
+					"Meaning": "RageQuit",
+					"Style": "ANGRY",
+					"Utterance": "Mas tu queres levar ou quê? Só por causa dessa fazemos o projeto com uma ideia minha! *FAILURE*",
+					"UtteranceId": "TTS-7D2B15B62915FC05AA6B0AF49BA9B2D0"
+				}, 
+				{
+					"CurrentState": "Start",
+					"NextState": "Soares_Start",
+					"Meaning": "Greeting(Soares)",
+					"Style": "Neutral",
+					"Utterance": "Olá Soares? já pensaste em alguma coisa para IAJ?",
+					"UtteranceId": "TTS-CC9E16D3966BCE848BCD614FB308F1CF"
+				}, 
+				{
+					"CurrentState": "Player_GotIdea",
+					"NextState": "Genebra_ListenIdea",
+					"Meaning": "Proposal",
+					"Style": "Casual",
+					"Utterance": "Ouve m'esta. Tenho uma ideia do caraças!",
+					"UtteranceId": "TTS-4B1F8AF5C8D877C6305AF9A900C18274"
+				}, 
+				{
+					"CurrentState": "Player_DestroyGenebra",
+					"NextState": "Genebra_DestroyAftermath",
+					"Meaning": "Reject",
+					"Style": "Polite",
+					"Utterance": "Provavelmente já alguém teve essa ideia. Gostava de fazer algo único.",
+					"UtteranceId": "TTS-7FC9AA5602DF8070F0C2DF18261D6ADE"
+				}, 
+				{
+					"CurrentState": "Genebra_DestroyAftermath",
+					"NextState": "Player_IdeaProposal",
+					"Meaning": "Rebutal",
+					"Style": "ANGRY",
+					"Utterance": "Ah, e tu deves ter tido a melhor ideia de sempre! Anda lá génio! Conta a tua ideia!",
+					"UtteranceId": "TTS-621EEAA91A76B8992411801C72D54853"
+				}, 
+				{
+					"CurrentState": "Genebra_DestroyAftermath",
+					"NextState": "Player_IdeaProposal",
+					"Meaning": "Rebutal",
+					"Style": "NEUTRAL",
+					"Utterance": "Já que não gostas da minha ideia, tens alguma coisa melhor?",
+					"UtteranceId": "TTS-296A11A1ACFD67F831C1A9F64E337644"
+				}, 
+				{
+					"CurrentState": "Genebra_Idea",
+					"NextState": "Player_DestroyGenebra",
+					"Meaning": "Proposal",
+					"Style": "NEUTRAL",
+					"Utterance": "A minha ideia era tentar persuadir um mercador a fazer-nos um preço bom.",
+					"UtteranceId": "TTS-7D08926B642C728E3333714159A24774"
+				}, 
+				{
+					"CurrentState": "Genebra_Start",
+					"NextState": "Player_GotIdea",
+					"Meaning": "Desperation",
+					"Style": "NEUTRAL",
+					"Utterance": "Hey Duarte! Ya, precisamos de um tema para o projecto de IAJ. Alguma ideia?",
+					"UtteranceId": "TTS-D1710166088946CA8ED5A4DE65157EDF"
+				}, 
+				{
+					"CurrentState": "Player_GotIdea",
+					"NextState": "Genebra_ListenIdea",
+					"Meaning": "Proposal",
+					"Style": "Calm",
+					"Utterance": "Epá tive uma ideia, mas não sei se é demasiado arriscada.",
+					"UtteranceId": "TTS-4296A74F99D1276B31FFC33D0E019DDB"
+				}, 
+				{
+					"CurrentState": "Player_Argument",
+					"NextState": "Genebra_MakesDecision",
+					"Meaning": "Persuade",
+					"Style": "Polite",
+					"Utterance": "Genebra, por favor confia em mim. É uma ideia original e não me parece que alguém se lembre de a fazer.",
+					"UtteranceId": "TTS-30FDE2FA3A2DE186C7797748CF3B3B97"
+				}, 
+				{
+					"CurrentState": "Genebra_MakesDecision",
+					"NextState": "End",
+					"Meaning": "Acceptance",
+					"Style": "NEUTRAL",
+					"Utterance": "Hmm... okay, sendo assim fazemos com a tua ideia. Bora lá! *SUCCESS*",
+					"UtteranceId": "TTS-C7B8F973D85D99335137257DBA984080"
+				}, 
+				{
+					"CurrentState": "Soares_ListenIdea",
+					"NextState": "Player_Perplexed",
+					"Meaning": "Acceptance",
+					"Style": "NEUTRAL",
+					"Utterance": "Epá porque não?",
+					"UtteranceId": "TTS-A4B54E8D37D2E9D26090D6EC38805543"
+				}, 
+				{
+					"CurrentState": "Player_IdeaProposal2",
+					"NextState": "Soares_ListenIdea",
+					"Meaning": "Proposal",
+					"Style": "Neutral",
+					"Utterance": "Eu tinha ideia de fazer um cenário de tráfico de droga.",
+					"UtteranceId": "TTS-028736C6BCD7B58D13FC8BCA238566CF"
+				}, 
+				{
+					"CurrentState": "Soares_Start",
+					"NextState": "Player_IdeaProposal2",
+					"Meaning": "Insult",
+					"Style": "ANGRY",
+					"Utterance": "Olha, tá estúpido. Não, não pensei em nada. E tu?",
+					"UtteranceId": "TTS-C5717D100CB48C03A6722BBD8EF83C9E"
+				}, 
+				{
+					"CurrentState": "Player_GotIdea",
+					"NextState": "Genebra_Idea",
+					"Meaning": "AllowIdea",
+					"Style": "Neutral",
+					"Utterance": "Diz-me tu se tens alguma ideia.",
+					"UtteranceId": "TTS-1C80BF7D6840396268887A0E242ECCF0"
+				}, 
+				{
+					"CurrentState": "Genebra_ListenIdea",
+					"NextState": "Player_IdeaProposal",
+					"Meaning": "Acceptance",
+					"Style": "NEUTRAL",
+					"Utterance": "Conta lá a tua ideia.",
+					"UtteranceId": "TTS-E66B0B437BA38430845D348F3FB347FD"
+				}, 
+				{
+					"CurrentState": "Genebra_ListenIdea",
+					"NextState": "Player_IdeaProposal",
+					"Meaning": "Acceptance",
+					"Style": "ANGRY",
+					"Utterance": "Hmmm... deve ser grande coisa, deve.",
+					"UtteranceId": "TTS-2988256B0CE83E03B60694F4C7051D16"
+				}, 
+				{
+					"CurrentState": "Soares_ListenIdea",
+					"NextState": "Player_Perplexed",
+					"Meaning": "AllowIdea",
+					"Style": "NEUTRAL",
+					"Utterance": "É uma ideia puxada, mas também não arranjo melhor.",
+					"UtteranceId": "TTS-CBDE6E2BA0AF5BD3ABE5A6CB8E2DCD10"
+				}, 
+				{
+					"CurrentState": "Player_DestroyGenebra",
+					"NextState": "Genebra_DestroyAftermath",
+					"Meaning": "Reject",
+					"Style": "Rude",
+					"Utterance": "Isso é capaz de ser a coisa mais genérica que já ouvi na minha vida!!",
+					"UtteranceId": "TTS-156A3EFF101E2E841416793017322CB1"
+				}, 
+				{
+					"CurrentState": "Start",
+					"NextState": "Genebra_Start",
+					"Meaning": "Greeting(Genebra)",
+					"Style": "Casual",
+					"Utterance": "Boas Genebra! Então e esse projeto de IAJ?",
+					"UtteranceId": "TTS-A90D6BDCC94DF72460B2E78AE38FBBD1"
+				}, 
+				{
+					"CurrentState": "Start",
+					"NextState": "Soares_Start",
+					"Meaning": "Greeting(Soares)",
+					"Style": "Casual",
+					"Utterance": "Mekie mpt? Então e essa ideia para IAJ?",
+					"UtteranceId": "TTS-0709BE0ADCED8B22D4323BE9EEA183DA"
+				}, 
+				{
+					"CurrentState": "Genebra_DestroyAftermath",
+					"NextState": "End",
+					"Meaning": "Rebutal",
+					"Style": "RAGE",
+					"Utterance": "Ai é?! Vai-te lixar! Eu arranjo outro membro para o grupo. Não precisamos de ti! *FAILURE*",
+					"UtteranceId": "TTS-B9EAAC2C4925B3F0E4E74C3CC6E55A79"
+				}, 
+				{
+					"CurrentState": "Genebra_PlayerGivesUp",
+					"NextState": "End",
+					"Meaning": "Victory",
+					"Style": "ANGRY",
+					"Utterance": "Claro que a tua ideia é horrível. A minha é que é! Fazemos a minha e mais não se discute! *FAILURE*",
+					"UtteranceId": "TTS-E32B01E89E67316246A55E49C98E2487"
+				}, 
+				{
+					"CurrentState": "Player_IdeaProposal",
+					"NextState": "Genebra_PlayerGivesUp",
+					"Meaning": "GiveUp",
+					"Style": "Neutral",
+					"Utterance": "Hmmm... pensando bem, a minha ideia não é assim grande coisa. ",
+					"UtteranceId": "TTS-24B75AAA064F4B8F85E2319F82C406B6"
+				}, 
+				{
+					"CurrentState": "Genebra_PlayerGivesUp",
+					"NextState": "End",
+					"Meaning": "Confort",
+					"Style": "NEUTRAL",
+					"Utterance": "Não te preocupes. Sendo assim, fazemos com a minha ideia. *FAILURE*",
+					"UtteranceId": "TTS-40C6774E04E8972C493F7917E23D3FB1"
+				}, 
+				{
+					"CurrentState": "Player_IdeaProposal",
+					"NextState": "Genebra_IdeaPreResponse",
+					"Meaning": "Proposal",
+					"Style": "Neutral",
+					"Utterance": "O que achas de criar um cenário de diálogo de uma situação de venda de droga?",
+					"UtteranceId": "TTS-A498768E246165BDDD8F089AB25A349A"
+				}, 
+				{
+					"CurrentState": "Genebra_IdeaPreResponse",
+					"NextState": "Player_IdeaExplanation",
+					"Meaning": "Question",
+					"Style": "ANGRY",
+					"Utterance": "Espera lá! Diz lá isso novamente!",
+					"UtteranceId": "TTS-0FD9B8F4D4A0F18E19F3046CF7DDBEBC"
+				}, 
+				{
+					"CurrentState": "Player_IdeaExplanation",
+					"NextState": "Genebra_IdeaResponse",
+					"Meaning": "Insult",
+					"Style": "Rude",
+					"Utterance": "Mas és burro ou quê?! A ideia é tão simples e não a percebes?!",
+					"UtteranceId": "TTS-8E6DB8B7D1221447C4139BA7E7D41212"
+				}, 
+				{
+					"CurrentState": "Genebra_IdeaResponse",
+					"NextState": "Player_Argument",
+					"Meaning": "Doubt",
+					"Style": "ANGRY",
+					"Utterance": "Mas estás parvo?! Isso é muito arriscado! Estás mesmo a pedir para o stor nos dar zero!",
+					"UtteranceId": "TTS-C1F0ECC35DBE2A434014F9C8775CFAA1"
+				}, 
+				{
+					"CurrentState": "Player_IdeaExplanation",
+					"NextState": "Genebra_IdeaResponse",
+					"Meaning": "Explanation",
+					"Style": "Neutral",
+					"Utterance": "Basicamente, tu queres comprar a um homem e tens de ter cuidado com as tuas opções de diálogo para ele não desconfiar que és um policia disfarçado.",
+					"UtteranceId": "TTS-19569D3D721268C899EB7ED928A87F6D"
+				}, 
+				{
+					"CurrentState": "Player_IdeaExplanation",
+					"NextState": "Genebra_IdeaResponse",
+					"Meaning": "Explanation",
+					"Style": "Casual",
+					"Utterance": "Tipo, tens um drug dealer e queres comprar-lhe alguma droga. Nada muito complicado, né?",
+					"UtteranceId": "TTS-1815A2C88A84BE3D9185FBDC0ADD368E"
+				}, 
+				{
+					"CurrentState": "Genebra_IdeaResponse",
+					"NextState": "End",
+					"Meaning": "Rebutal",
+					"Style": "RAGE",
+					"Utterance": "Ai é?! Vai-te lixar! Eu arranjo outro membro para o grupo. Não precisamos de ti! *FAILURE*",
+					"UtteranceId": "TTS-B9EAAC2C4925B3F0E4E74C3CC6E55A79"
+				}, 
+				{
+					"CurrentState": "Player_Argument",
+					"NextState": "Genebra_MakesDecision",
+					"Meaning": "Persuade",
+					"Style": "Casual",
+					"Utterance": "Meu, a sério, a ideia é brutal e tu sabes disso! Os stores não se vão importar de certeza.",
+					"UtteranceId": "TTS-8FC983669EBEB2FC3E743F51820CFA29"
+				}, 
+				{
+					"CurrentState": "Genebra_MakesDecision",
+					"NextState": "End",
+					"Meaning": "Acceptance",
+					"Style": "ANGRY",
+					"Utterance": "Uhhh, não! Isso parece-me uma ideia absolutamente terrível. Deixa-te de coisas. Fazemos com uma ideia minha que é mais segura. *FAILURE*",
+					"UtteranceId": "TTS-D39773F4B68EB48DD3FEFFE21C8593D2"
+				}, 
+				{
+					"CurrentState": "Player_FinalDetail",
+					"NextState": "Soares_Leaves",
+					"Meaning": "BadProposal",
+					"Style": "Casual",
+					"Utterance": "Se ele começar a desconfiar muito de ti, mostra-lhe as tuas correntes todas gangster.",
+					"UtteranceId": "TTS-1F971AF1A34B1D98B8EB99241EB7B0A0"
+				}, 
+				{
+					"CurrentState": "Soares_Start",
+					"NextState": "Player_IdeaProposal2",
+					"Meaning": "Desperation",
+					"Style": "NEUTRAL",
+					"Utterance": "Boas. Está tudo ou não queres dizer? Não me lembrei de nada. E tu?",
+					"UtteranceId": "TTS-7B2BBC702A98298C4776CEC2E72EEE0A"
+				}, 
+				{
+					"CurrentState": "Player_DiscussDetails",
+					"NextState": "Soares_MakesFun",
+					"Meaning": "BadProposal",
+					"Style": "Casual",
+					"Utterance": "Imagina, chegas ao traficante e dizes \"Quero comprar material\". Realista, não?",
+					"UtteranceId": "TTS-957F19CE5732D9C4017201B0CFE7456C"
+				}, 
+				{
+					"CurrentState": "Player_Perplexed",
+					"NextState": "Soares_WantsToDevelop",
+					"Meaning": "Wow",
+					"Style": "Neutral",
+					"Utterance": "A sério? Pensava que não ias concordar com isto.",
+					"UtteranceId": "TTS-168A76AA1B0CC2C05FD27966600038FB"
+				}, 
+				{
+					"CurrentState": "Player_Perplexed",
+					"NextState": "Soares_WantsToDevelop",
+					"Meaning": "Brag",
+					"Style": "Casual",
+					"Utterance": "Fácil. Sabia que ias gostar da ideia.",
+					"UtteranceId": "TTS-59820A59109D3D5BE5A2BEE2DFDAA35E"
+				}, 
+				{
+					"CurrentState": "Genebra_Start",
+					"NextState": "Player_GotIdea",
+					"Meaning": "Desperation",
+					"Style": "ANGRY",
+					"Utterance": "Hmmmm hey, já pensaste numa ideia para o projecto?",
+					"UtteranceId": "TTS-F1FB966F5A99E4CDA37FD9DBBC908AE6"
+				}, 
+				{
+					"CurrentState": "Soares_Leaves",
+					"NextState": "End",
+					"Meaning": "Quit",
+					"Style": "ANGRY",
+					"Utterance": "Ok, desisto! Estás aqui só para gozar. *Failure*",
+					"UtteranceId": "TTS-9FD7874750332F62B161FDEDBCB8E48C"
+				}, 
+				{
+					"CurrentState": "Soares_WantsToDevelop",
+					"NextState": "Player_DiscussDetails",
+					"Meaning": "Question",
+					"Style": "NEUTRAL",
+					"Utterance": "Ya a ideia é porreira, já pensaste em detalhes?",
+					"UtteranceId": "TTS-FF79F10766FAB9681D4A45A30E820A32"
+				}, 
+				{
+					"CurrentState": "Soares_WantsToDevelop",
+					"NextState": "Player_DiscussDetails",
+					"Meaning": "Question",
+					"Style": "NEUTRAL",
+					"Utterance": "Temos é de pensar bem nos detalhes, senão não nos safamos. Já Pensaste em alguma coisa?",
+					"UtteranceId": "TTS-8380CD477590384494A4A606975D0CA9"
+				}, 
+				{
+					"CurrentState": "Player_DiscussDetails",
+					"NextState": "Soares_LikesDetail",
+					"Meaning": "GoodProposal",
+					"Style": "Neutral",
+					"Utterance": "Inicialmente, temos de arranjar forma de fazer com que o traficante confie em nós.",
+					"UtteranceId": "TTS-158A347099F03D4E4E2A1D999DFB4339"
+				}, 
+				{
+					"CurrentState": "Player_IdeaProposal2",
+					"NextState": "Soares_ListenIdea",
+					"Meaning": "Insult",
+					"Style": "Rude",
+					"Utterance": "És sempre a mesma coisa. Eu cá tive a ideia de um cenário de droga, bué street.",
+					"UtteranceId": "TTS-3A66A2562E58E45DF2F58F37348DA11E"
+				}, 
+				{
+					"CurrentState": "Soares_MakesFun",
+					"NextState": "Player_FinalDetail",
+					"Meaning": "Joke",
+					"Style": "NEUTRAL",
+					"Utterance": "... Tás todo frito, só pode.",
+					"UtteranceId": "TTS-232C18E288249AE6B02C3D42A90039E7"
+				}, 
+				{
+					"CurrentState": "Soares_MakesFun",
+					"NextState": "Player_FinalDetail",
+					"Meaning": "Warning",
+					"Style": "ANGRY",
+					"Utterance": "Ok Duarte, não brinques muito com isto senão vou-me embora.",
+					"UtteranceId": "TTS-686E9772662E0A71ADA60A41FC5A0B91"
+				}, 
+				{
+					"CurrentState": "Soares_LikesDetail",
+					"NextState": "Player_FinalDetail",
+					"Meaning": "Acceptance",
+					"Style": "POSITIVE",
+					"Utterance": "Gosto desse inicio. Se arranjar-mos mais uma coisa fica perfeito.",
+					"UtteranceId": "TTS-85326514163157F0DA3C7E557293AEFE"
+				}, 
+				{
+					"CurrentState": "Soares_LikesDetail",
+					"NextState": "Player_FinalDetail",
+					"Meaning": "Acceptance",
+					"Style": "NEUTRAL",
+					"Utterance": "Perfeito. Nada suspeito.",
+					"UtteranceId": "TTS-813EE90C246CC899E20190ADA31DD336"
+				}, 
+				{
+					"CurrentState": "Player_FinalDetail",
+					"NextState": "Soares_Agrees",
+					"Meaning": "GoodProposal",
+					"Style": "Neutral",
+					"Utterance": "Se chatear-mos muito o traficante, ele desconfia que somos da polícia e foge ou prega-nos um tiro.",
+					"UtteranceId": "TTS-50E5FC9DBD3F81D4D334941BA8977CFC"
+				}, 
+				{
+					"CurrentState": "Soares_ListenIdea",
+					"NextState": "End",
+					"Meaning": "Acceptance",
+					"Style": "ANGRY",
+					"Utterance": "Nem penses nisso. *Failure*",
+					"UtteranceId": "TTS-5FF2468769877195E9390C4684DA2DE2"
+				}, 
+				{
+					"CurrentState": "Soares_Agrees",
+					"NextState": "End",
+					"Meaning": "Wow",
+					"Style": "POSITIVE",
+					"Utterance": "Vou ser sincero. Não pensei que isto resultasse, mas estou a gostar bastante da ideia final. Bora lá fazer isto. *Success*",
+					"UtteranceId": "TTS-5291EC3890F0A732EA88FE8A7E253200"
+				}]
+		},
+	"types": [
+		{
+			"TypeId": 0,
+			"ClassName": "IntegratedAuthoringTool.IntegratedAuthoringToolAsset, IntegratedAuthoringTool, Version=1.7.0.0, Culture=neutral, PublicKeyToken=null"
+		}]
+}
