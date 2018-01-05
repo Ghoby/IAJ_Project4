@@ -17,7 +17,7 @@
 			"VoiceName": "Male",
 			"EmotionalAppraisalAssetSource": "PisedGenebra.ea",
 			"EmotionalDecisionMakingSource": "Genebra.edm",
-			"SocialImportanceAssetSource": "",
+			"SocialImportanceAssetSource": "MultiParty-SI.si",
 			"CommeillFautAssetSource": null,
 			"EmotionalState":
 				{

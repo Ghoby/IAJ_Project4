@@ -1,0 +1,1087 @@
+{
+	"root":
+		{
+			"classId": 2,
+			"KnowledgeBase":
+				{
+					"Perspective": "Soares",
+					"Knowledge":
+						{
+							"SELF":
+								{
+									"DialogueState(Player)": "Soares_ListenIdea, 1",
+									"Has(Floor)": "Soares, 1"
+								}
+						}
+				},
+			"BodyName": "Female",
+			"VoiceName": "Female",
+			"EmotionalAppraisalAssetSource": "HappySoares.ea",
+			"EmotionalDecisionMakingSource": "Genebra.edm",
+			"SocialImportanceAssetSource": "MultiParty-SI.si",
+			"CommeillFautAssetSource": "",
+			"EmotionalState":
+				{
+					"Mood": -6.597539,
+					"initialTick": 250,
+					"EmotionalPool": [
+						{
+							"Intensity": 0.1298809,
+							"Decay": 1,
+							"Threshold": 1,
+							"CauseId": 22,
+							"Direction": "Player",
+							"EventName": "Event(Action-End, Player, Speak(Player_IdeaProposal2, Soares_ListenIdea, Insult, Rude), Soares)",
+							"EmotionType": "Anger",
+							"Valence": "Negative",
+							"AppraisalVariables": ["DESIRABILITY", "PRAISEWORTHINESS"],
+							"InfluenceMood": true
+						}, 
+						{
+							"Intensity": 0.1298809,
+							"Decay": 1,
+							"Threshold": 1,
+							"CauseId": 22,
+							"EventName": "Event(Action-End, Player, Speak(Player_IdeaProposal2, Soares_ListenIdea, Insult, Rude), Soares)",
+							"EmotionType": "Distress",
+							"Valence": "Negative",
+							"AppraisalVariables": ["DESIRABILITY"],
+							"InfluenceMood": true
+						}, 
+						{
+							"Intensity": 0.1298809,
+							"Decay": 1,
+							"Threshold": 1,
+							"CauseId": 22,
+							"Direction": "Player",
+							"EventName": "Event(Action-End, Player, Speak(Player_IdeaProposal2, Soares_ListenIdea, Insult, Rude), Soares)",
+							"EmotionType": "Reproach",
+							"Valence": "Negative",
+							"AppraisalVariables": ["PRAISEWORTHINESS"],
+							"InfluenceMood": true
+						}, 
+						{
+							"Intensity": 0.7518906,
+							"Decay": 1,
+							"Threshold": 1,
+							"CauseId": 25,
+							"Direction": "Player",
+							"EventName": "Event(Action-End, Player, Speak(Player_IdeaProposal2, Soares_ListenIdea, Insult, Rude), Soares)",
+							"EmotionType": "Anger",
+							"Valence": "Negative",
+							"AppraisalVariables": ["DESIRABILITY", "PRAISEWORTHINESS"],
+							"InfluenceMood": true
+						}, 
+						{
+							"Intensity": 0.7518906,
+							"Decay": 1,
+							"Threshold": 1,
+							"CauseId": 25,
+							"EventName": "Event(Action-End, Player, Speak(Player_IdeaProposal2, Soares_ListenIdea, Insult, Rude), Soares)",
+							"EmotionType": "Distress",
+							"Valence": "Negative",
+							"AppraisalVariables": ["DESIRABILITY"],
+							"InfluenceMood": true
+						}, 
+						{
+							"Intensity": 0.7518906,
+							"Decay": 1,
+							"Threshold": 1,
+							"CauseId": 25,
+							"Direction": "Player",
+							"EventName": "Event(Action-End, Player, Speak(Player_IdeaProposal2, Soares_ListenIdea, Insult, Rude), Soares)",
+							"EmotionType": "Reproach",
+							"Valence": "Negative",
+							"AppraisalVariables": ["PRAISEWORTHINESS"],
+							"InfluenceMood": true
+						}, 
+						{
+							"Intensity": 1.088188,
+							"Decay": 1,
+							"Threshold": 1,
+							"CauseId": 28,
+							"Direction": "Player",
+							"EventName": "Event(Action-End, Player, Speak(Player_IdeaProposal2, Soares_ListenIdea, Insult, Rude), Soares)",
+							"EmotionType": "Anger",
+							"Valence": "Negative",
+							"AppraisalVariables": ["DESIRABILITY", "PRAISEWORTHINESS"],
+							"InfluenceMood": true
+						}, 
+						{
+							"Intensity": 1.088188,
+							"Decay": 1,
+							"Threshold": 1,
+							"CauseId": 28,
+							"EventName": "Event(Action-End, Player, Speak(Player_IdeaProposal2, Soares_ListenIdea, Insult, Rude), Soares)",
+							"EmotionType": "Distress",
+							"Valence": "Negative",
+							"AppraisalVariables": ["DESIRABILITY"],
+							"InfluenceMood": true
+						}, 
+						{
+							"Intensity": 1.088188,
+							"Decay": 1,
+							"Threshold": 1,
+							"CauseId": 28,
+							"Direction": "Player",
+							"EventName": "Event(Action-End, Player, Speak(Player_IdeaProposal2, Soares_ListenIdea, Insult, Rude), Soares)",
+							"EmotionType": "Reproach",
+							"Valence": "Negative",
+							"AppraisalVariables": ["PRAISEWORTHINESS"],
+							"InfluenceMood": true
+						}, 
+						{
+							"Intensity": 1.309118,
+							"Decay": 1,
+							"Threshold": 1,
+							"CauseId": 31,
+							"Direction": "Player",
+							"EventName": "Event(Action-End, Player, Speak(Player_IdeaProposal2, Soares_ListenIdea, Insult, Rude), Soares)",
+							"EmotionType": "Anger",
+							"Valence": "Negative",
+							"AppraisalVariables": ["DESIRABILITY", "PRAISEWORTHINESS"],
+							"InfluenceMood": true
+						}, 
+						{
+							"Intensity": 1.309118,
+							"Decay": 1,
+							"Threshold": 1,
+							"CauseId": 31,
+							"EventName": "Event(Action-End, Player, Speak(Player_IdeaProposal2, Soares_ListenIdea, Insult, Rude), Soares)",
+							"EmotionType": "Distress",
+							"Valence": "Negative",
+							"AppraisalVariables": ["DESIRABILITY"],
+							"InfluenceMood": true
+						}, 
+						{
+							"Intensity": 1.309118,
+							"Decay": 1,
+							"Threshold": 1,
+							"CauseId": 31,
+							"Direction": "Player",
+							"EventName": "Event(Action-End, Player, Speak(Player_IdeaProposal2, Soares_ListenIdea, Insult, Rude), Soares)",
+							"EmotionType": "Reproach",
+							"Valence": "Negative",
+							"AppraisalVariables": ["PRAISEWORTHINESS"],
+							"InfluenceMood": true
+						}, 
+						{
+							"Intensity": 1.435873,
+							"Decay": 1,
+							"Threshold": 1,
+							"CauseId": 34,
+							"Direction": "Player",
+							"EventName": "Event(Action-End, Player, Speak(Player_IdeaProposal2, Soares_ListenIdea, Insult, Rude), Soares)",
+							"EmotionType": "Anger",
+							"Valence": "Negative",
+							"AppraisalVariables": ["DESIRABILITY", "PRAISEWORTHINESS"],
+							"InfluenceMood": true
+						}, 
+						{
+							"Intensity": 1.435873,
+							"Decay": 1,
+							"Threshold": 1,
+							"CauseId": 34,
+							"EventName": "Event(Action-End, Player, Speak(Player_IdeaProposal2, Soares_ListenIdea, Insult, Rude), Soares)",
+							"EmotionType": "Distress",
+							"Valence": "Negative",
+							"AppraisalVariables": ["DESIRABILITY"],
+							"InfluenceMood": true
+						}, 
+						{
+							"Intensity": 1.435873,
+							"Decay": 1,
+							"Threshold": 1,
+							"CauseId": 34,
+							"Direction": "Player",
+							"EventName": "Event(Action-End, Player, Speak(Player_IdeaProposal2, Soares_ListenIdea, Insult, Rude), Soares)",
+							"EmotionType": "Reproach",
+							"Valence": "Negative",
+							"AppraisalVariables": ["PRAISEWORTHINESS"],
+							"InfluenceMood": true
+						}, 
+						{
+							"Intensity": 1.503781,
+							"Decay": 1,
+							"Threshold": 1,
+							"CauseId": 37,
+							"Direction": "Player",
+							"EventName": "Event(Action-End, Player, Speak(Player_IdeaProposal2, Soares_ListenIdea, Insult, Rude), Soares)",
+							"EmotionType": "Anger",
+							"Valence": "Negative",
+							"AppraisalVariables": ["DESIRABILITY", "PRAISEWORTHINESS"],
+							"InfluenceMood": true
+						}, 
+						{
+							"Intensity": 1.503781,
+							"Decay": 1,
+							"Threshold": 1,
+							"CauseId": 37,
+							"EventName": "Event(Action-End, Player, Speak(Player_IdeaProposal2, Soares_ListenIdea, Insult, Rude), Soares)",
+							"EmotionType": "Distress",
+							"Valence": "Negative",
+							"AppraisalVariables": ["DESIRABILITY"],
+							"InfluenceMood": true
+						}, 
+						{
+							"Intensity": 1.503781,
+							"Decay": 1,
+							"Threshold": 1,
+							"CauseId": 37,
+							"Direction": "Player",
+							"EventName": "Event(Action-End, Player, Speak(Player_IdeaProposal2, Soares_ListenIdea, Insult, Rude), Soares)",
+							"EmotionType": "Reproach",
+							"Valence": "Negative",
+							"AppraisalVariables": ["PRAISEWORTHINESS"],
+							"InfluenceMood": true
+						}, 
+						{
+							"Intensity": 1.574901,
+							"Decay": 1,
+							"Threshold": 1,
+							"CauseId": 40,
+							"Direction": "Player",
+							"EventName": "Event(Action-End, Player, Speak(Player_IdeaProposal2, Soares_ListenIdea, Insult, Rude), Soares)",
+							"EmotionType": "Anger",
+							"Valence": "Negative",
+							"AppraisalVariables": ["DESIRABILITY", "PRAISEWORTHINESS"],
+							"InfluenceMood": true
+						}, 
+						{
+							"Intensity": 1.574901,
+							"Decay": 1,
+							"Threshold": 1,
+							"CauseId": 40,
+							"EventName": "Event(Action-End, Player, Speak(Player_IdeaProposal2, Soares_ListenIdea, Insult, Rude), Soares)",
+							"EmotionType": "Distress",
+							"Valence": "Negative",
+							"AppraisalVariables": ["DESIRABILITY"],
+							"InfluenceMood": true
+						}, 
+						{
+							"Intensity": 1.574901,
+							"Decay": 1,
+							"Threshold": 1,
+							"CauseId": 40,
+							"Direction": "Player",
+							"EventName": "Event(Action-End, Player, Speak(Player_IdeaProposal2, Soares_ListenIdea, Insult, Rude), Soares)",
+							"EmotionType": "Reproach",
+							"Valence": "Negative",
+							"AppraisalVariables": ["PRAISEWORTHINESS"],
+							"InfluenceMood": true
+						}, 
+						{
+							"Intensity": 1.649385,
+							"Decay": 1,
+							"Threshold": 1,
+							"CauseId": 43,
+							"Direction": "Player",
+							"EventName": "Event(Action-End, Player, Speak(Player_IdeaProposal2, Soares_ListenIdea, Insult, Rude), Soares)",
+							"EmotionType": "Anger",
+							"Valence": "Negative",
+							"AppraisalVariables": ["DESIRABILITY", "PRAISEWORTHINESS"],
+							"InfluenceMood": true
+						}, 
+						{
+							"Intensity": 1.649385,
+							"Decay": 1,
+							"Threshold": 1,
+							"CauseId": 43,
+							"EventName": "Event(Action-End, Player, Speak(Player_IdeaProposal2, Soares_ListenIdea, Insult, Rude), Soares)",
+							"EmotionType": "Distress",
+							"Valence": "Negative",
+							"AppraisalVariables": ["DESIRABILITY"],
+							"InfluenceMood": true
+						}, 
+						{
+							"Intensity": 1.649385,
+							"Decay": 1,
+							"Threshold": 1,
+							"CauseId": 43,
+							"Direction": "Player",
+							"EventName": "Event(Action-End, Player, Speak(Player_IdeaProposal2, Soares_ListenIdea, Insult, Rude), Soares)",
+							"EmotionType": "Reproach",
+							"Valence": "Negative",
+							"AppraisalVariables": ["PRAISEWORTHINESS"],
+							"InfluenceMood": true
+						}, 
+						{
+							"Intensity": 1.894646,
+							"Decay": 1,
+							"Threshold": 1,
+							"CauseId": 46,
+							"Direction": "Player",
+							"EventName": "Event(Action-End, Player, Speak(Player_IdeaProposal2, Soares_ListenIdea, Insult, Rude), Soares)",
+							"EmotionType": "Anger",
+							"Valence": "Negative",
+							"AppraisalVariables": ["DESIRABILITY", "PRAISEWORTHINESS"],
+							"InfluenceMood": true
+						}, 
+						{
+							"Intensity": 1.894646,
+							"Decay": 1,
+							"Threshold": 1,
+							"CauseId": 46,
+							"EventName": "Event(Action-End, Player, Speak(Player_IdeaProposal2, Soares_ListenIdea, Insult, Rude), Soares)",
+							"EmotionType": "Distress",
+							"Valence": "Negative",
+							"AppraisalVariables": ["DESIRABILITY"],
+							"InfluenceMood": true
+						}, 
+						{
+							"Intensity": 1.894646,
+							"Decay": 1,
+							"Threshold": 1,
+							"CauseId": 46,
+							"Direction": "Player",
+							"EventName": "Event(Action-End, Player, Speak(Player_IdeaProposal2, Soares_ListenIdea, Insult, Rude), Soares)",
+							"EmotionType": "Reproach",
+							"Valence": "Negative",
+							"AppraisalVariables": ["PRAISEWORTHINESS"],
+							"InfluenceMood": true
+						}],
+					"AppraisalConfiguration":
+						{
+							"HalfLifeDecayConstant": 0.5,
+							"EmotionInfluenceOnMoodFactor": 0.3,
+							"MoodInfluenceOnEmotionFactor": 0.3,
+							"MinimumMoodValueForInfluencingEmotions": 0.5,
+							"EmotionalHalfLifeDecayTime": 15,
+							"MoodHalfLifeDecayTime": 60
+						}
+				},
+			"AutobiographicMemory":
+				{
+					"Tick": 286,
+					"records": [
+						{
+							"classId": 0,
+							"Id": 1,
+							"Type": "Action-End",
+							"Subject": "Genebra",
+							"Timestamp": 0,
+							"Action": "Enters",
+							"Target": "Room"
+						}, 
+						{
+							"classId": 0,
+							"Id": 2,
+							"Type": "Action-End",
+							"Subject": "Player",
+							"Timestamp": 0,
+							"Action": "Enters",
+							"Target": "Room"
+						}, 
+						{
+							"classId": 1,
+							"Id": 3,
+							"Type": "Property-Change",
+							"Subject": "Player",
+							"Timestamp": 56,
+							"Property": "Has(Floor)",
+							"NewValue": "Genebra"
+						}, 
+						{
+							"classId": 0,
+							"Id": 4,
+							"Type": "Action-End",
+							"Subject": "Player",
+							"Timestamp": 56,
+							"Action": "Speak(Start, Genebra_Start, Greeting(Genebra), Casual)",
+							"Target": "Genebra"
+						}, 
+						{
+							"classId": 1,
+							"Id": 5,
+							"Type": "Property-Change",
+							"Subject": "Genebra",
+							"Timestamp": 58,
+							"Property": "Has(Floor)",
+							"NewValue": "Player"
+						}, 
+						{
+							"classId": 0,
+							"Id": 6,
+							"Type": "Action-End",
+							"Subject": "Genebra",
+							"Timestamp": 58,
+							"Action": "Speak(Genebra_Start, Player_GotIdea, Desperation, ANGRY)",
+							"Target": "Player"
+						}, 
+						{
+							"classId": 1,
+							"Id": 7,
+							"Type": "Property-Change",
+							"Subject": "Player",
+							"Timestamp": 88,
+							"Property": "Has(Floor)",
+							"NewValue": "Genebra"
+						}, 
+						{
+							"classId": 0,
+							"Id": 8,
+							"Type": "Action-End",
+							"Subject": "Player",
+							"Timestamp": 88,
+							"Action": "Speak(Player_GotIdea, Genebra_ListenIdea, Proposal, Calm)",
+							"Target": "Genebra"
+						}, 
+						{
+							"classId": 1,
+							"Id": 9,
+							"Type": "Property-Change",
+							"Subject": "Genebra",
+							"Timestamp": 90,
+							"Property": "Has(Floor)",
+							"NewValue": "Player"
+						}, 
+						{
+							"classId": 0,
+							"Id": 10,
+							"Type": "Action-End",
+							"Subject": "Genebra",
+							"Timestamp": 90,
+							"Action": "Speak(Genebra_ListenIdea, Player_IdeaProposal, Acceptance, ANGRY)",
+							"Target": "Player"
+						}, 
+						{
+							"classId": 1,
+							"Id": 11,
+							"Type": "Property-Change",
+							"Subject": "Player",
+							"Timestamp": 120,
+							"Property": "Has(Floor)",
+							"NewValue": "Genebra"
+						}, 
+						{
+							"classId": 0,
+							"Id": 12,
+							"Type": "Action-End",
+							"Subject": "Player",
+							"Timestamp": 120,
+							"Action": "Speak(Player_IdeaProposal, Genebra_PlayerGivesUp, GiveUp, Neutral)",
+							"Target": "Genebra"
+						}, 
+						{
+							"classId": 1,
+							"Id": 13,
+							"Type": "Property-Change",
+							"Subject": "Genebra",
+							"Timestamp": 122,
+							"Property": "Has(Floor)",
+							"NewValue": "Player"
+						}, 
+						{
+							"classId": 0,
+							"Id": 14,
+							"Type": "Action-End",
+							"Subject": "Genebra",
+							"Timestamp": 122,
+							"Action": "Speak(Genebra_PlayerGivesUp, End, Confort, NEUTRAL)",
+							"Target": "Player"
+						}, 
+						{
+							"classId": 1,
+							"Id": 15,
+							"Type": "Property-Change",
+							"Subject": "Player",
+							"Timestamp": 156,
+							"Property": "Has(Floor)",
+							"NewValue": "Soares"
+						}, 
+						{
+							"classId": 1,
+							"Id": 16,
+							"Type": "Property-Change",
+							"Subject": "Soares",
+							"Timestamp": 156,
+							"Property": "DialogueState(Player)",
+							"NewValue": "Soares_Start"
+						}, 
+						{
+							"classId": 0,
+							"Id": 17,
+							"Type": "Action-End",
+							"Subject": "Player",
+							"Timestamp": 156,
+							"LinkedEmotions": ["Reproach"],
+							"Action": "Speak(Start, Soares_Start, Greeting(Soares), Casual)",
+							"Target": "Soares"
+						}, 
+						{
+							"classId": 1,
+							"Id": 18,
+							"Type": "Property-Change",
+							"Subject": "Soares",
+							"Timestamp": 159,
+							"Property": "Has(Floor)",
+							"NewValue": "Player"
+						}, 
+						{
+							"classId": 0,
+							"Id": 19,
+							"Type": "Action-End",
+							"Subject": "Soares",
+							"Timestamp": 159,
+							"Action": "Speak(Soares_Start, Player_IdeaProposal2, Insult, ANGRY)",
+							"Target": "Player"
+						}, 
+						{
+							"classId": 1,
+							"Id": 20,
+							"Type": "Property-Change",
+							"Subject": "Player",
+							"Timestamp": 192,
+							"Property": "Has(Floor)",
+							"NewValue": "Soares"
+						}, 
+						{
+							"classId": 1,
+							"Id": 21,
+							"Type": "Property-Change",
+							"Subject": "Soares",
+							"Timestamp": 192,
+							"Property": "DialogueState(Player)",
+							"NewValue": "Soares_ListenIdea"
+						}, 
+						{
+							"classId": 0,
+							"Id": 22,
+							"Type": "Action-End",
+							"Subject": "Player",
+							"Timestamp": 192,
+							"LinkedEmotions": ["Anger", "Distress", "Reproach"],
+							"Action": "Speak(Player_IdeaProposal2, Soares_ListenIdea, Insult, Rude)",
+							"Target": "Soares"
+						}, 
+						{
+							"classId": 1,
+							"Id": 23,
+							"Type": "Property-Change",
+							"Subject": "Player",
+							"Timestamp": 230,
+							"Property": "Has(Floor)",
+							"NewValue": "Soares"
+						}, 
+						{
+							"classId": 1,
+							"Id": 24,
+							"Type": "Property-Change",
+							"Subject": "Soares",
+							"Timestamp": 230,
+							"Property": "DialogueState(Player)",
+							"NewValue": "Soares_ListenIdea"
+						}, 
+						{
+							"classId": 0,
+							"Id": 25,
+							"Type": "Action-End",
+							"Subject": "Player",
+							"Timestamp": 230,
+							"LinkedEmotions": ["Anger", "Distress", "Reproach"],
+							"Action": "Speak(Player_IdeaProposal2, Soares_ListenIdea, Insult, Rude)",
+							"Target": "Soares"
+						}, 
+						{
+							"classId": 1,
+							"Id": 26,
+							"Type": "Property-Change",
+							"Subject": "Player",
+							"Timestamp": 238,
+							"Property": "Has(Floor)",
+							"NewValue": "Soares"
+						}, 
+						{
+							"classId": 1,
+							"Id": 27,
+							"Type": "Property-Change",
+							"Subject": "Soares",
+							"Timestamp": 238,
+							"Property": "DialogueState(Player)",
+							"NewValue": "Soares_ListenIdea"
+						}, 
+						{
+							"classId": 0,
+							"Id": 28,
+							"Type": "Action-End",
+							"Subject": "Player",
+							"Timestamp": 238,
+							"LinkedEmotions": ["Anger", "Distress", "Reproach"],
+							"Action": "Speak(Player_IdeaProposal2, Soares_ListenIdea, Insult, Rude)",
+							"Target": "Soares"
+						}, 
+						{
+							"classId": 1,
+							"Id": 29,
+							"Type": "Property-Change",
+							"Subject": "Player",
+							"Timestamp": 242,
+							"Property": "Has(Floor)",
+							"NewValue": "Soares"
+						}, 
+						{
+							"classId": 1,
+							"Id": 30,
+							"Type": "Property-Change",
+							"Subject": "Soares",
+							"Timestamp": 242,
+							"Property": "DialogueState(Player)",
+							"NewValue": "Soares_ListenIdea"
+						}, 
+						{
+							"classId": 0,
+							"Id": 31,
+							"Type": "Action-End",
+							"Subject": "Player",
+							"Timestamp": 242,
+							"LinkedEmotions": ["Anger", "Distress", "Reproach"],
+							"Action": "Speak(Player_IdeaProposal2, Soares_ListenIdea, Insult, Rude)",
+							"Target": "Soares"
+						}, 
+						{
+							"classId": 1,
+							"Id": 32,
+							"Type": "Property-Change",
+							"Subject": "Player",
+							"Timestamp": 244,
+							"Property": "Has(Floor)",
+							"NewValue": "Soares"
+						}, 
+						{
+							"classId": 1,
+							"Id": 33,
+							"Type": "Property-Change",
+							"Subject": "Soares",
+							"Timestamp": 244,
+							"Property": "DialogueState(Player)",
+							"NewValue": "Soares_ListenIdea"
+						}, 
+						{
+							"classId": 0,
+							"Id": 34,
+							"Type": "Action-End",
+							"Subject": "Player",
+							"Timestamp": 244,
+							"LinkedEmotions": ["Anger", "Distress", "Reproach"],
+							"Action": "Speak(Player_IdeaProposal2, Soares_ListenIdea, Insult, Rude)",
+							"Target": "Soares"
+						}, 
+						{
+							"classId": 1,
+							"Id": 35,
+							"Type": "Property-Change",
+							"Subject": "Player",
+							"Timestamp": 245,
+							"Property": "Has(Floor)",
+							"NewValue": "Soares"
+						}, 
+						{
+							"classId": 1,
+							"Id": 36,
+							"Type": "Property-Change",
+							"Subject": "Soares",
+							"Timestamp": 245,
+							"Property": "DialogueState(Player)",
+							"NewValue": "Soares_ListenIdea"
+						}, 
+						{
+							"classId": 0,
+							"Id": 37,
+							"Type": "Action-End",
+							"Subject": "Player",
+							"Timestamp": 245,
+							"LinkedEmotions": ["Anger", "Distress", "Reproach"],
+							"Action": "Speak(Player_IdeaProposal2, Soares_ListenIdea, Insult, Rude)",
+							"Target": "Soares"
+						}, 
+						{
+							"classId": 1,
+							"Id": 38,
+							"Type": "Property-Change",
+							"Subject": "Player",
+							"Timestamp": 246,
+							"Property": "Has(Floor)",
+							"NewValue": "Soares"
+						}, 
+						{
+							"classId": 1,
+							"Id": 39,
+							"Type": "Property-Change",
+							"Subject": "Soares",
+							"Timestamp": 246,
+							"Property": "DialogueState(Player)",
+							"NewValue": "Soares_ListenIdea"
+						}, 
+						{
+							"classId": 0,
+							"Id": 40,
+							"Type": "Action-End",
+							"Subject": "Player",
+							"Timestamp": 246,
+							"LinkedEmotions": ["Anger", "Distress", "Reproach"],
+							"Action": "Speak(Player_IdeaProposal2, Soares_ListenIdea, Insult, Rude)",
+							"Target": "Soares"
+						}, 
+						{
+							"classId": 1,
+							"Id": 41,
+							"Type": "Property-Change",
+							"Subject": "Player",
+							"Timestamp": 247,
+							"Property": "Has(Floor)",
+							"NewValue": "Soares"
+						}, 
+						{
+							"classId": 1,
+							"Id": 42,
+							"Type": "Property-Change",
+							"Subject": "Soares",
+							"Timestamp": 247,
+							"Property": "DialogueState(Player)",
+							"NewValue": "Soares_ListenIdea"
+						}, 
+						{
+							"classId": 0,
+							"Id": 43,
+							"Type": "Action-End",
+							"Subject": "Player",
+							"Timestamp": 247,
+							"LinkedEmotions": ["Anger", "Distress", "Reproach"],
+							"Action": "Speak(Player_IdeaProposal2, Soares_ListenIdea, Insult, Rude)",
+							"Target": "Soares"
+						}, 
+						{
+							"classId": 1,
+							"Id": 44,
+							"Type": "Property-Change",
+							"Subject": "Player",
+							"Timestamp": 250,
+							"Property": "Has(Floor)",
+							"NewValue": "Soares"
+						}, 
+						{
+							"classId": 1,
+							"Id": 45,
+							"Type": "Property-Change",
+							"Subject": "Soares",
+							"Timestamp": 250,
+							"Property": "DialogueState(Player)",
+							"NewValue": "Soares_ListenIdea"
+						}, 
+						{
+							"classId": 0,
+							"Id": 46,
+							"Type": "Action-End",
+							"Subject": "Player",
+							"Timestamp": 250,
+							"LinkedEmotions": ["Anger", "Distress", "Reproach"],
+							"Action": "Speak(Player_IdeaProposal2, Soares_ListenIdea, Insult, Rude)",
+							"Target": "Soares"
+						}, 
+						{
+							"classId": 1,
+							"Id": 47,
+							"Type": "Property-Change",
+							"Subject": "Player",
+							"Timestamp": 268,
+							"Property": "Has(Floor)",
+							"NewValue": "Soares"
+						}, 
+						{
+							"classId": 1,
+							"Id": 48,
+							"Type": "Property-Change",
+							"Subject": "Soares",
+							"Timestamp": 268,
+							"Property": "DialogueState(Player)",
+							"NewValue": "Soares_ListenIdea"
+						}, 
+						{
+							"classId": 0,
+							"Id": 49,
+							"Type": "Action-End",
+							"Subject": "Player",
+							"Timestamp": 268,
+							"Action": "Speak(Player_IdeaProposal2, Soares_ListenIdea, Proposal, Neutral)",
+							"Target": "Soares"
+						}, 
+						{
+							"classId": 1,
+							"Id": 50,
+							"Type": "Property-Change",
+							"Subject": "Player",
+							"Timestamp": 278,
+							"Property": "Has(Floor)",
+							"NewValue": "Soares"
+						}, 
+						{
+							"classId": 1,
+							"Id": 51,
+							"Type": "Property-Change",
+							"Subject": "Soares",
+							"Timestamp": 278,
+							"Property": "DialogueState(Player)",
+							"NewValue": "Soares_ListenIdea"
+						}, 
+						{
+							"classId": 0,
+							"Id": 52,
+							"Type": "Action-End",
+							"Subject": "Player",
+							"Timestamp": 278,
+							"Action": "Speak(Player_IdeaProposal2, Soares_ListenIdea, Proposal, Neutral)",
+							"Target": "Soares"
+						}, 
+						{
+							"classId": 1,
+							"Id": 53,
+							"Type": "Property-Change",
+							"Subject": "Player",
+							"Timestamp": 280,
+							"Property": "Has(Floor)",
+							"NewValue": "Soares"
+						}, 
+						{
+							"classId": 1,
+							"Id": 54,
+							"Type": "Property-Change",
+							"Subject": "Soares",
+							"Timestamp": 280,
+							"Property": "DialogueState(Player)",
+							"NewValue": "Soares_ListenIdea"
+						}, 
+						{
+							"classId": 0,
+							"Id": 55,
+							"Type": "Action-End",
+							"Subject": "Player",
+							"Timestamp": 280,
+							"Action": "Speak(Player_IdeaProposal2, Soares_ListenIdea, Proposal, Neutral)",
+							"Target": "Soares"
+						}, 
+						{
+							"classId": 1,
+							"Id": 56,
+							"Type": "Property-Change",
+							"Subject": "Player",
+							"Timestamp": 280,
+							"Property": "Has(Floor)",
+							"NewValue": "Soares"
+						}, 
+						{
+							"classId": 1,
+							"Id": 57,
+							"Type": "Property-Change",
+							"Subject": "Soares",
+							"Timestamp": 280,
+							"Property": "DialogueState(Player)",
+							"NewValue": "Soares_ListenIdea"
+						}, 
+						{
+							"classId": 0,
+							"Id": 58,
+							"Type": "Action-End",
+							"Subject": "Player",
+							"Timestamp": 280,
+							"Action": "Speak(Player_IdeaProposal2, Soares_ListenIdea, Proposal, Neutral)",
+							"Target": "Soares"
+						}, 
+						{
+							"classId": 1,
+							"Id": 59,
+							"Type": "Property-Change",
+							"Subject": "Player",
+							"Timestamp": 282,
+							"Property": "Has(Floor)",
+							"NewValue": "Soares"
+						}, 
+						{
+							"classId": 1,
+							"Id": 60,
+							"Type": "Property-Change",
+							"Subject": "Soares",
+							"Timestamp": 282,
+							"Property": "DialogueState(Player)",
+							"NewValue": "Soares_ListenIdea"
+						}, 
+						{
+							"classId": 0,
+							"Id": 61,
+							"Type": "Action-End",
+							"Subject": "Player",
+							"Timestamp": 282,
+							"Action": "Speak(Player_IdeaProposal2, Soares_ListenIdea, Proposal, Neutral)",
+							"Target": "Soares"
+						}, 
+						{
+							"classId": 1,
+							"Id": 62,
+							"Type": "Property-Change",
+							"Subject": "Player",
+							"Timestamp": 282,
+							"Property": "Has(Floor)",
+							"NewValue": "Soares"
+						}, 
+						{
+							"classId": 1,
+							"Id": 63,
+							"Type": "Property-Change",
+							"Subject": "Soares",
+							"Timestamp": 282,
+							"Property": "DialogueState(Player)",
+							"NewValue": "Soares_ListenIdea"
+						}, 
+						{
+							"classId": 0,
+							"Id": 64,
+							"Type": "Action-End",
+							"Subject": "Player",
+							"Timestamp": 282,
+							"Action": "Speak(Player_IdeaProposal2, Soares_ListenIdea, Proposal, Neutral)",
+							"Target": "Soares"
+						}, 
+						{
+							"classId": 1,
+							"Id": 65,
+							"Type": "Property-Change",
+							"Subject": "Player",
+							"Timestamp": 284,
+							"Property": "Has(Floor)",
+							"NewValue": "Soares"
+						}, 
+						{
+							"classId": 1,
+							"Id": 66,
+							"Type": "Property-Change",
+							"Subject": "Soares",
+							"Timestamp": 284,
+							"Property": "DialogueState(Player)",
+							"NewValue": "Soares_ListenIdea"
+						}, 
+						{
+							"classId": 0,
+							"Id": 67,
+							"Type": "Action-End",
+							"Subject": "Player",
+							"Timestamp": 284,
+							"Action": "Speak(Player_IdeaProposal2, Soares_ListenIdea, Proposal, Neutral)",
+							"Target": "Soares"
+						}, 
+						{
+							"classId": 1,
+							"Id": 68,
+							"Type": "Property-Change",
+							"Subject": "Player",
+							"Timestamp": 284,
+							"Property": "Has(Floor)",
+							"NewValue": "Soares"
+						}, 
+						{
+							"classId": 1,
+							"Id": 69,
+							"Type": "Property-Change",
+							"Subject": "Soares",
+							"Timestamp": 284,
+							"Property": "DialogueState(Player)",
+							"NewValue": "Soares_ListenIdea"
+						}, 
+						{
+							"classId": 0,
+							"Id": 70,
+							"Type": "Action-End",
+							"Subject": "Player",
+							"Timestamp": 284,
+							"Action": "Speak(Player_IdeaProposal2, Soares_ListenIdea, Proposal, Neutral)",
+							"Target": "Soares"
+						}, 
+						{
+							"classId": 1,
+							"Id": 71,
+							"Type": "Property-Change",
+							"Subject": "Player",
+							"Timestamp": 286,
+							"Property": "Has(Floor)",
+							"NewValue": "Soares"
+						}, 
+						{
+							"classId": 1,
+							"Id": 72,
+							"Type": "Property-Change",
+							"Subject": "Soares",
+							"Timestamp": 286,
+							"Property": "DialogueState(Player)",
+							"NewValue": "Soares_ListenIdea"
+						}, 
+						{
+							"classId": 0,
+							"Id": 73,
+							"Type": "Action-End",
+							"Subject": "Player",
+							"Timestamp": 286,
+							"Action": "Speak(Player_IdeaProposal2, Soares_ListenIdea, Proposal, Neutral)",
+							"Target": "Soares"
+						}]
+				},
+			"OtherAgents":
+				{
+					"dictionary": [
+						{
+							"key": "Genebra",
+							"value":
+								{
+									"Name": "Genebra",
+									"EmotionalState":
+										{
+											"Mood": 0,
+											"initialTick": 0,
+											"EmotionalPool": [],
+											"AppraisalConfiguration":
+												{
+													"HalfLifeDecayConstant": 0.5,
+													"EmotionInfluenceOnMoodFactor": 0.3,
+													"MoodInfluenceOnEmotionFactor": 0.3,
+													"MinimumMoodValueForInfluencingEmotions": 0.5,
+													"EmotionalHalfLifeDecayTime": 15,
+													"MoodHalfLifeDecayTime": 60
+												}
+										}
+								}
+						}, 
+						{
+							"key": "Player",
+							"value":
+								{
+									"Name": "Player",
+									"EmotionalState":
+										{
+											"Mood": 0,
+											"initialTick": 0,
+											"EmotionalPool": [],
+											"AppraisalConfiguration":
+												{
+													"HalfLifeDecayConstant": 0.5,
+													"EmotionInfluenceOnMoodFactor": 0.3,
+													"MoodInfluenceOnEmotionFactor": 0.3,
+													"MinimumMoodValueForInfluencingEmotions": 0.5,
+													"EmotionalHalfLifeDecayTime": 15,
+													"MoodHalfLifeDecayTime": 60
+												}
+										}
+								}
+						}]
+				}
+		},
+	"types": [
+		{
+			"TypeId": 0,
+			"ClassName": "AutobiographicMemory.AM+ActionEvent, AutobiographicMemory, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+		}, 
+		{
+			"TypeId": 1,
+			"ClassName": "AutobiographicMemory.AM+PropertyChangeEvent, AutobiographicMemory, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+		}, 
+		{
+			"TypeId": 2,
+			"ClassName": "RolePlayCharacter.RolePlayCharacterAsset, RolePlayCharacter, Version=1.5.0.0, Culture=neutral, PublicKeyToken=null"
+		}]
+}

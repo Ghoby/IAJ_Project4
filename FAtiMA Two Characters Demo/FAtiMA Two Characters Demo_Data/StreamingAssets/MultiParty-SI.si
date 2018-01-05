@@ -11,6 +11,15 @@
 						{
 							"Set": ["EventId(Action-End, [x], Speak([cs], [ns], Likes([topic]), [s]), SELF) = [id]"]
 						}
+				}, 
+				{
+					"RuleName": "Friendship",
+					"Target": "[x]",
+					"Value": 10,
+					"Conditions":
+						{
+							"Set": ["isFriend(SELF, [x]) = True"]
+						}
 				}],
 			"Claims": []
 		},

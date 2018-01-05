@@ -9,16 +9,17 @@
 						{
 							"SELF":
 								{
-									"Has(Floor)": "Player, 1"
+									"Has(Floor)": "Player, 1",
+									"IsFriend(Soares, Player)": "True, 1"
 								}
 						}
 				},
-			"BodyName": "Male",
-			"VoiceName": "Male",
-			"EmotionalAppraisalAssetSource": "MultiParty-EA.ea",
-			"EmotionalDecisionMakingSource": "MultiParty-EDM.edm",
+			"BodyName": "Female",
+			"VoiceName": "Female",
+			"EmotionalAppraisalAssetSource": "HappySoares.ea",
+			"EmotionalDecisionMakingSource": "Soares.edm",
 			"SocialImportanceAssetSource": "MultiParty-SI.si",
-			"CommeillFautAssetSource": null,
+			"CommeillFautAssetSource": "",
 			"EmotionalState":
 				{
 					"Mood": 0,

@@ -1,0 +1,654 @@
+{
+	"root":
+		{
+			"classId": 2,
+			"KnowledgeBase":
+				{
+					"Perspective": "Soares",
+					"Knowledge":
+						{
+							"SELF":
+								{
+									"DialogueState(Player)": "Soares_Leaves, 1",
+									"Has(Floor)": "Soares, 1"
+								}
+						}
+				},
+			"BodyName": "Female",
+			"VoiceName": "Female",
+			"EmotionalAppraisalAssetSource": "MultiParty-EA.ea",
+			"EmotionalDecisionMakingSource": "Genebra.edm",
+			"SocialImportanceAssetSource": "",
+			"CommeillFautAssetSource": null,
+			"EmotionalState":
+				{
+					"Mood": 0,
+					"initialTick": 0,
+					"EmotionalPool": [],
+					"AppraisalConfiguration":
+						{
+							"HalfLifeDecayConstant": 0.5,
+							"EmotionInfluenceOnMoodFactor": 0.3,
+							"MoodInfluenceOnEmotionFactor": 0.3,
+							"MinimumMoodValueForInfluencingEmotions": 0.5,
+							"EmotionalHalfLifeDecayTime": 15,
+							"MoodHalfLifeDecayTime": 60
+						}
+				},
+			"AutobiographicMemory":
+				{
+					"Tick": 354,
+					"records": [
+						{
+							"classId": 0,
+							"Id": 1,
+							"Type": "Action-End",
+							"Subject": "Genebra",
+							"Timestamp": 0,
+							"Action": "Enters",
+							"Target": "Room"
+						}, 
+						{
+							"classId": 0,
+							"Id": 2,
+							"Type": "Action-End",
+							"Subject": "Player",
+							"Timestamp": 0,
+							"Action": "Enters",
+							"Target": "Room"
+						}, 
+						{
+							"classId": 1,
+							"Id": 3,
+							"Type": "Property-Change",
+							"Subject": "Player",
+							"Timestamp": 58,
+							"Property": "Has(Floor)",
+							"NewValue": "Soares"
+						}, 
+						{
+							"classId": 1,
+							"Id": 4,
+							"Type": "Property-Change",
+							"Subject": "Soares",
+							"Timestamp": 58,
+							"Property": "DialogueState(Player)",
+							"NewValue": "Soares_Start"
+						}, 
+						{
+							"classId": 0,
+							"Id": 5,
+							"Type": "Action-End",
+							"Subject": "Player",
+							"Timestamp": 58,
+							"Action": "Speak(Start, Soares_Start, Greeting(Soares), Casual)",
+							"Target": "Soares"
+						}, 
+						{
+							"classId": 1,
+							"Id": 6,
+							"Type": "Property-Change",
+							"Subject": "Soares",
+							"Timestamp": 61,
+							"Property": "Has(Floor)",
+							"NewValue": "Player"
+						}, 
+						{
+							"classId": 0,
+							"Id": 7,
+							"Type": "Action-End",
+							"Subject": "Soares",
+							"Timestamp": 61,
+							"Action": "Speak(Soares_Start, Player_IdeaProposal2, Desperation, NEUTRAL)",
+							"Target": "Player"
+						}, 
+						{
+							"classId": 1,
+							"Id": 8,
+							"Type": "Property-Change",
+							"Subject": "Player",
+							"Timestamp": 102,
+							"Property": "Has(Floor)",
+							"NewValue": "Soares"
+						}, 
+						{
+							"classId": 1,
+							"Id": 9,
+							"Type": "Property-Change",
+							"Subject": "Soares",
+							"Timestamp": 102,
+							"Property": "DialogueState(Player)",
+							"NewValue": "Soares_ListenIdea"
+						}, 
+						{
+							"classId": 0,
+							"Id": 10,
+							"Type": "Action-End",
+							"Subject": "Player",
+							"Timestamp": 102,
+							"Action": "Speak(Player_IdeaProposal2, Soares_ListenIdea, Proposal, Neutral)",
+							"Target": "Soares"
+						}, 
+						{
+							"classId": 1,
+							"Id": 11,
+							"Type": "Property-Change",
+							"Subject": "Soares",
+							"Timestamp": 103,
+							"Property": "Has(Floor)",
+							"NewValue": "Player"
+						}, 
+						{
+							"classId": 0,
+							"Id": 12,
+							"Type": "Action-End",
+							"Subject": "Soares",
+							"Timestamp": 103,
+							"Action": "Speak(Soares_ListenIdea, Player_Perplexed, Acceptance, NEUTRAL)",
+							"Target": "Player"
+						}, 
+						{
+							"classId": 1,
+							"Id": 13,
+							"Type": "Property-Change",
+							"Subject": "Player",
+							"Timestamp": 122,
+							"Property": "Has(Floor)",
+							"NewValue": "Soares"
+						}, 
+						{
+							"classId": 1,
+							"Id": 14,
+							"Type": "Property-Change",
+							"Subject": "Soares",
+							"Timestamp": 122,
+							"Property": "DialogueState(Player)",
+							"NewValue": "Soares_WantsToDevelop"
+						}, 
+						{
+							"classId": 0,
+							"Id": 15,
+							"Type": "Action-End",
+							"Subject": "Player",
+							"Timestamp": 122,
+							"Action": "Speak(Player_Perplexed, Soares_WantsToDevelop, Brag, Casual)",
+							"Target": "Soares"
+						}, 
+						{
+							"classId": 1,
+							"Id": 16,
+							"Type": "Property-Change",
+							"Subject": "Soares",
+							"Timestamp": 125,
+							"Property": "Has(Floor)",
+							"NewValue": "Player"
+						}, 
+						{
+							"classId": 0,
+							"Id": 17,
+							"Type": "Action-End",
+							"Subject": "Soares",
+							"Timestamp": 125,
+							"Action": "Speak(Soares_WantsToDevelop, Player_DiscussDetails, Question, NEUTRAL)",
+							"Target": "Player"
+						}, 
+						{
+							"classId": 1,
+							"Id": 18,
+							"Type": "Property-Change",
+							"Subject": "Player",
+							"Timestamp": 170,
+							"Property": "Has(Floor)",
+							"NewValue": "Soares"
+						}, 
+						{
+							"classId": 1,
+							"Id": 19,
+							"Type": "Property-Change",
+							"Subject": "Soares",
+							"Timestamp": 170,
+							"Property": "DialogueState(Player)",
+							"NewValue": "Soares_MakesFun"
+						}, 
+						{
+							"classId": 0,
+							"Id": 20,
+							"Type": "Action-End",
+							"Subject": "Player",
+							"Timestamp": 170,
+							"Action": "Speak(Player_DiscussDetails, Soares_MakesFun, Proposal, Casual)",
+							"Target": "Soares"
+						}, 
+						{
+							"classId": 1,
+							"Id": 21,
+							"Type": "Property-Change",
+							"Subject": "Soares",
+							"Timestamp": 173,
+							"Property": "Has(Floor)",
+							"NewValue": "Player"
+						}, 
+						{
+							"classId": 0,
+							"Id": 22,
+							"Type": "Action-End",
+							"Subject": "Soares",
+							"Timestamp": 173,
+							"Action": "Speak(Soares_MakesFun, Player_FinalDetail, Joke, NEUTRAL)",
+							"Target": "Player"
+						}, 
+						{
+							"classId": 1,
+							"Id": 23,
+							"Type": "Property-Change",
+							"Subject": "Player",
+							"Timestamp": 224,
+							"Property": "Has(Floor)",
+							"NewValue": "Soares"
+						}, 
+						{
+							"classId": 1,
+							"Id": 24,
+							"Type": "Property-Change",
+							"Subject": "Soares",
+							"Timestamp": 224,
+							"Property": "DialogueState(Player)",
+							"NewValue": "Soares_Leaves"
+						}, 
+						{
+							"classId": 0,
+							"Id": 25,
+							"Type": "Action-End",
+							"Subject": "Player",
+							"Timestamp": 224,
+							"Action": "Speak(Player_FinalDetail, Soares_Leaves, Proposal, Casual)",
+							"Target": "Soares"
+						}, 
+						{
+							"classId": 1,
+							"Id": 26,
+							"Type": "Property-Change",
+							"Subject": "Player",
+							"Timestamp": 246,
+							"Property": "Has(Floor)",
+							"NewValue": "Soares"
+						}, 
+						{
+							"classId": 1,
+							"Id": 27,
+							"Type": "Property-Change",
+							"Subject": "Soares",
+							"Timestamp": 246,
+							"Property": "DialogueState(Player)",
+							"NewValue": "Soares_Leaves"
+						}, 
+						{
+							"classId": 0,
+							"Id": 28,
+							"Type": "Action-End",
+							"Subject": "Player",
+							"Timestamp": 246,
+							"Action": "Speak(Player_FinalDetail, Soares_Leaves, Proposal, Casual)",
+							"Target": "Soares"
+						}, 
+						{
+							"classId": 1,
+							"Id": 29,
+							"Type": "Property-Change",
+							"Subject": "Player",
+							"Timestamp": 250,
+							"Property": "Has(Floor)",
+							"NewValue": "Soares"
+						}, 
+						{
+							"classId": 1,
+							"Id": 30,
+							"Type": "Property-Change",
+							"Subject": "Soares",
+							"Timestamp": 250,
+							"Property": "DialogueState(Player)",
+							"NewValue": "Soares_Leaves"
+						}, 
+						{
+							"classId": 0,
+							"Id": 31,
+							"Type": "Action-End",
+							"Subject": "Player",
+							"Timestamp": 250,
+							"Action": "Speak(Player_FinalDetail, Soares_Leaves, Proposal, Casual)",
+							"Target": "Soares"
+						}, 
+						{
+							"classId": 1,
+							"Id": 32,
+							"Type": "Property-Change",
+							"Subject": "Player",
+							"Timestamp": 252,
+							"Property": "Has(Floor)",
+							"NewValue": "Soares"
+						}, 
+						{
+							"classId": 1,
+							"Id": 33,
+							"Type": "Property-Change",
+							"Subject": "Soares",
+							"Timestamp": 252,
+							"Property": "DialogueState(Player)",
+							"NewValue": "Soares_Leaves"
+						}, 
+						{
+							"classId": 0,
+							"Id": 34,
+							"Type": "Action-End",
+							"Subject": "Player",
+							"Timestamp": 252,
+							"Action": "Speak(Player_FinalDetail, Soares_Leaves, Proposal, Casual)",
+							"Target": "Soares"
+						}, 
+						{
+							"classId": 1,
+							"Id": 35,
+							"Type": "Property-Change",
+							"Subject": "Player",
+							"Timestamp": 254,
+							"Property": "Has(Floor)",
+							"NewValue": "Soares"
+						}, 
+						{
+							"classId": 1,
+							"Id": 36,
+							"Type": "Property-Change",
+							"Subject": "Soares",
+							"Timestamp": 254,
+							"Property": "DialogueState(Player)",
+							"NewValue": "Soares_Leaves"
+						}, 
+						{
+							"classId": 0,
+							"Id": 37,
+							"Type": "Action-End",
+							"Subject": "Player",
+							"Timestamp": 254,
+							"Action": "Speak(Player_FinalDetail, Soares_Leaves, Proposal, Casual)",
+							"Target": "Soares"
+						}, 
+						{
+							"classId": 1,
+							"Id": 38,
+							"Type": "Property-Change",
+							"Subject": "Player",
+							"Timestamp": 256,
+							"Property": "Has(Floor)",
+							"NewValue": "Soares"
+						}, 
+						{
+							"classId": 1,
+							"Id": 39,
+							"Type": "Property-Change",
+							"Subject": "Soares",
+							"Timestamp": 256,
+							"Property": "DialogueState(Player)",
+							"NewValue": "Soares_Leaves"
+						}, 
+						{
+							"classId": 0,
+							"Id": 40,
+							"Type": "Action-End",
+							"Subject": "Player",
+							"Timestamp": 256,
+							"Action": "Speak(Player_FinalDetail, Soares_Leaves, Proposal, Casual)",
+							"Target": "Soares"
+						}, 
+						{
+							"classId": 1,
+							"Id": 41,
+							"Type": "Property-Change",
+							"Subject": "Player",
+							"Timestamp": 265,
+							"Property": "Has(Floor)",
+							"NewValue": "Soares"
+						}, 
+						{
+							"classId": 1,
+							"Id": 42,
+							"Type": "Property-Change",
+							"Subject": "Soares",
+							"Timestamp": 265,
+							"Property": "DialogueState(Player)",
+							"NewValue": "Soares_Agrees"
+						}, 
+						{
+							"classId": 0,
+							"Id": 43,
+							"Type": "Action-End",
+							"Subject": "Player",
+							"Timestamp": 265,
+							"Action": "Speak(Player_FinalDetail, Soares_Agrees, Proposal, Neutral)",
+							"Target": "Soares"
+						}, 
+						{
+							"classId": 1,
+							"Id": 44,
+							"Type": "Property-Change",
+							"Subject": "Player",
+							"Timestamp": 326,
+							"Property": "Has(Floor)",
+							"NewValue": "Soares"
+						}, 
+						{
+							"classId": 1,
+							"Id": 45,
+							"Type": "Property-Change",
+							"Subject": "Soares",
+							"Timestamp": 326,
+							"Property": "DialogueState(Player)",
+							"NewValue": "Soares_Agrees"
+						}, 
+						{
+							"classId": 0,
+							"Id": 46,
+							"Type": "Action-End",
+							"Subject": "Player",
+							"Timestamp": 326,
+							"Action": "Speak(Player_FinalDetail, Soares_Agrees, Proposal, Neutral)",
+							"Target": "Soares"
+						}, 
+						{
+							"classId": 1,
+							"Id": 47,
+							"Type": "Property-Change",
+							"Subject": "Player",
+							"Timestamp": 334,
+							"Property": "Has(Floor)",
+							"NewValue": "Soares"
+						}, 
+						{
+							"classId": 1,
+							"Id": 48,
+							"Type": "Property-Change",
+							"Subject": "Soares",
+							"Timestamp": 334,
+							"Property": "DialogueState(Player)",
+							"NewValue": "Soares_Leaves"
+						}, 
+						{
+							"classId": 0,
+							"Id": 49,
+							"Type": "Action-End",
+							"Subject": "Player",
+							"Timestamp": 334,
+							"Action": "Speak(Player_FinalDetail, Soares_Leaves, Proposal, Casual)",
+							"Target": "Soares"
+						}, 
+						{
+							"classId": 1,
+							"Id": 50,
+							"Type": "Property-Change",
+							"Subject": "Player",
+							"Timestamp": 342,
+							"Property": "Has(Floor)",
+							"NewValue": "Soares"
+						}, 
+						{
+							"classId": 1,
+							"Id": 51,
+							"Type": "Property-Change",
+							"Subject": "Soares",
+							"Timestamp": 342,
+							"Property": "DialogueState(Player)",
+							"NewValue": "Soares_Agrees"
+						}, 
+						{
+							"classId": 0,
+							"Id": 52,
+							"Type": "Action-End",
+							"Subject": "Player",
+							"Timestamp": 342,
+							"Action": "Speak(Player_FinalDetail, Soares_Agrees, Proposal, Neutral)",
+							"Target": "Soares"
+						}, 
+						{
+							"classId": 1,
+							"Id": 53,
+							"Type": "Property-Change",
+							"Subject": "Player",
+							"Timestamp": 350,
+							"Property": "Has(Floor)",
+							"NewValue": "Soares"
+						}, 
+						{
+							"classId": 1,
+							"Id": 54,
+							"Type": "Property-Change",
+							"Subject": "Soares",
+							"Timestamp": 350,
+							"Property": "DialogueState(Player)",
+							"NewValue": "Soares_Leaves"
+						}, 
+						{
+							"classId": 0,
+							"Id": 55,
+							"Type": "Action-End",
+							"Subject": "Player",
+							"Timestamp": 350,
+							"Action": "Speak(Player_FinalDetail, Soares_Leaves, Proposal, Casual)",
+							"Target": "Soares"
+						}, 
+						{
+							"classId": 1,
+							"Id": 56,
+							"Type": "Property-Change",
+							"Subject": "Player",
+							"Timestamp": 352,
+							"Property": "Has(Floor)",
+							"NewValue": "Soares"
+						}, 
+						{
+							"classId": 1,
+							"Id": 57,
+							"Type": "Property-Change",
+							"Subject": "Soares",
+							"Timestamp": 352,
+							"Property": "DialogueState(Player)",
+							"NewValue": "Soares_Leaves"
+						}, 
+						{
+							"classId": 0,
+							"Id": 58,
+							"Type": "Action-End",
+							"Subject": "Player",
+							"Timestamp": 352,
+							"Action": "Speak(Player_FinalDetail, Soares_Leaves, Proposal, Casual)",
+							"Target": "Soares"
+						}, 
+						{
+							"classId": 1,
+							"Id": 59,
+							"Type": "Property-Change",
+							"Subject": "Player",
+							"Timestamp": 354,
+							"Property": "Has(Floor)",
+							"NewValue": "Soares"
+						}, 
+						{
+							"classId": 1,
+							"Id": 60,
+							"Type": "Property-Change",
+							"Subject": "Soares",
+							"Timestamp": 354,
+							"Property": "DialogueState(Player)",
+							"NewValue": "Soares_Leaves"
+						}, 
+						{
+							"classId": 0,
+							"Id": 61,
+							"Type": "Action-End",
+							"Subject": "Player",
+							"Timestamp": 354,
+							"Action": "Speak(Player_FinalDetail, Soares_Leaves, Proposal, Casual)",
+							"Target": "Soares"
+						}]
+				},
+			"OtherAgents":
+				{
+					"dictionary": [
+						{
+							"key": "Genebra",
+							"value":
+								{
+									"Name": "Genebra",
+									"EmotionalState":
+										{
+											"Mood": 0,
+											"initialTick": 0,
+											"EmotionalPool": [],
+											"AppraisalConfiguration":
+												{
+													"HalfLifeDecayConstant": 0.5,
+													"EmotionInfluenceOnMoodFactor": 0.3,
+													"MoodInfluenceOnEmotionFactor": 0.3,
+													"MinimumMoodValueForInfluencingEmotions": 0.5,
+													"EmotionalHalfLifeDecayTime": 15,
+													"MoodHalfLifeDecayTime": 60
+												}
+										}
+								}
+						}, 
+						{
+							"key": "Player",
+							"value":
+								{
+									"Name": "Player",
+									"EmotionalState":
+										{
+											"Mood": 0,
+											"initialTick": 0,
+											"EmotionalPool": [],
+											"AppraisalConfiguration":
+												{
+													"HalfLifeDecayConstant": 0.5,
+													"EmotionInfluenceOnMoodFactor": 0.3,
+													"MoodInfluenceOnEmotionFactor": 0.3,
+													"MinimumMoodValueForInfluencingEmotions": 0.5,
+													"EmotionalHalfLifeDecayTime": 15,
+													"MoodHalfLifeDecayTime": 60
+												}
+										}
+								}
+						}]
+				}
+		},
+	"types": [
+		{
+			"TypeId": 0,
+			"ClassName": "AutobiographicMemory.AM+ActionEvent, AutobiographicMemory, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+		}, 
+		{
+			"TypeId": 1,
+			"ClassName": "AutobiographicMemory.AM+PropertyChangeEvent, AutobiographicMemory, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+		}, 
+		{
+			"TypeId": 2,
+			"ClassName": "RolePlayCharacter.RolePlayCharacterAsset, RolePlayCharacter, Version=1.5.0.0, Culture=neutral, PublicKeyToken=null"
+		}]
+}

@@ -1,0 +1,278 @@
+{
+	"root":
+		{
+			"classId": 2,
+			"KnowledgeBase":
+				{
+					"Perspective": "Player",
+					"Knowledge":
+						{
+							"SELF":
+								{
+									"DialogueState(Genebra)": "Start, 1",
+									"DialogueState(Soares)": "Player_DiscussDetails, 1",
+									"Has(Floor)": "Soares, 1",
+									"Is(Player)": "True, 1"
+								}
+						}
+				},
+			"BodyName": "Player",
+			"VoiceName": "Female",
+			"EmotionalAppraisalAssetSource": "",
+			"EmotionalDecisionMakingSource": "Player.edm",
+			"SocialImportanceAssetSource": "",
+			"CommeillFautAssetSource": null,
+			"EmotionalState":
+				{
+					"Mood": 0,
+					"initialTick": 0,
+					"EmotionalPool": [],
+					"AppraisalConfiguration":
+						{
+							"HalfLifeDecayConstant": 0.5,
+							"EmotionInfluenceOnMoodFactor": 0.3,
+							"MoodInfluenceOnEmotionFactor": 0.3,
+							"MinimumMoodValueForInfluencingEmotions": 0.5,
+							"EmotionalHalfLifeDecayTime": 15,
+							"MoodHalfLifeDecayTime": 60
+						}
+				},
+			"AutobiographicMemory":
+				{
+					"Tick": 0,
+					"records": [
+						{
+							"classId": 0,
+							"Id": 1,
+							"Type": "Action-End",
+							"Subject": "Genebra",
+							"Timestamp": 0,
+							"Action": "Enters",
+							"Target": "Room"
+						}, 
+						{
+							"classId": 0,
+							"Id": 2,
+							"Type": "Action-End",
+							"Subject": "Soares",
+							"Timestamp": 0,
+							"Action": "Enters",
+							"Target": "Room"
+						}, 
+						{
+							"classId": 1,
+							"Id": 3,
+							"Type": "Property-Change",
+							"Subject": "Player",
+							"Timestamp": 0,
+							"Property": "Has(Floor)",
+							"NewValue": "Soares"
+						}, 
+						{
+							"classId": 0,
+							"Id": 4,
+							"Type": "Action-End",
+							"Subject": "Player",
+							"Timestamp": 0,
+							"Action": "Speak(Start, Soares_Start, Greeting(Soares), Casual)",
+							"Target": "Soares"
+						}, 
+						{
+							"classId": 1,
+							"Id": 5,
+							"Type": "Property-Change",
+							"Subject": "Soares",
+							"Timestamp": 0,
+							"Property": "Has(Floor)",
+							"NewValue": "Player"
+						}, 
+						{
+							"classId": 1,
+							"Id": 6,
+							"Type": "Property-Change",
+							"Subject": "Player",
+							"Timestamp": 0,
+							"Property": "DialogueState(Soares)",
+							"NewValue": "Player_IdeaProposal2"
+						}, 
+						{
+							"classId": 0,
+							"Id": 7,
+							"Type": "Action-End",
+							"Subject": "Soares",
+							"Timestamp": 0,
+							"Action": "Speak(Soares_Start, Player_IdeaProposal2, Desperation, NEUTRAL)",
+							"Target": "Player"
+						}, 
+						{
+							"classId": 1,
+							"Id": 8,
+							"Type": "Property-Change",
+							"Subject": "Player",
+							"Timestamp": 0,
+							"Property": "Has(Floor)",
+							"NewValue": "Soares"
+						}, 
+						{
+							"classId": 0,
+							"Id": 9,
+							"Type": "Action-End",
+							"Subject": "Player",
+							"Timestamp": 0,
+							"Action": "Speak(Player_IdeaProposal2, Soares_ListenIdea, Insult, Rude)",
+							"Target": "Soares"
+						}, 
+						{
+							"classId": 1,
+							"Id": 10,
+							"Type": "Property-Change",
+							"Subject": "Soares",
+							"Timestamp": 0,
+							"Property": "Has(Floor)",
+							"NewValue": "Player"
+						}, 
+						{
+							"classId": 1,
+							"Id": 11,
+							"Type": "Property-Change",
+							"Subject": "Player",
+							"Timestamp": 0,
+							"Property": "DialogueState(Soares)",
+							"NewValue": "Player_Perplexed"
+						}, 
+						{
+							"classId": 0,
+							"Id": 12,
+							"Type": "Action-End",
+							"Subject": "Soares",
+							"Timestamp": 0,
+							"Action": "Speak(Soares_ListenIdea, Player_Perplexed, Acceptance, NEUTRAL)",
+							"Target": "Player"
+						}, 
+						{
+							"classId": 1,
+							"Id": 13,
+							"Type": "Property-Change",
+							"Subject": "Player",
+							"Timestamp": 0,
+							"Property": "Has(Floor)",
+							"NewValue": "Soares"
+						}, 
+						{
+							"classId": 0,
+							"Id": 14,
+							"Type": "Action-End",
+							"Subject": "Player",
+							"Timestamp": 0,
+							"Action": "Speak(Player_Perplexed, Soares_WantsToDevelop, Wow, Neutral)",
+							"Target": "Soares"
+						}, 
+						{
+							"classId": 1,
+							"Id": 15,
+							"Type": "Property-Change",
+							"Subject": "Soares",
+							"Timestamp": 0,
+							"Property": "Has(Floor)",
+							"NewValue": "Player"
+						}, 
+						{
+							"classId": 1,
+							"Id": 16,
+							"Type": "Property-Change",
+							"Subject": "Player",
+							"Timestamp": 0,
+							"Property": "DialogueState(Soares)",
+							"NewValue": "Player_DiscussDetails"
+						}, 
+						{
+							"classId": 0,
+							"Id": 17,
+							"Type": "Action-End",
+							"Subject": "Soares",
+							"Timestamp": 0,
+							"Action": "Speak(Soares_WantsToDevelop, Player_DiscussDetails, Question, NEUTRAL)",
+							"Target": "Player"
+						}, 
+						{
+							"classId": 1,
+							"Id": 18,
+							"Type": "Property-Change",
+							"Subject": "Player",
+							"Timestamp": 0,
+							"Property": "Has(Floor)",
+							"NewValue": "Soares"
+						}, 
+						{
+							"classId": 0,
+							"Id": 19,
+							"Type": "Action-End",
+							"Subject": "Player",
+							"Timestamp": 0,
+							"Action": "Speak(Player_DiscussDetails, Soares_MakesFun, Proposal, Casual)",
+							"Target": "Soares"
+						}]
+				},
+			"OtherAgents":
+				{
+					"dictionary": [
+						{
+							"key": "Genebra",
+							"value":
+								{
+									"Name": "Genebra",
+									"EmotionalState":
+										{
+											"Mood": 0,
+											"initialTick": 0,
+											"EmotionalPool": [],
+											"AppraisalConfiguration":
+												{
+													"HalfLifeDecayConstant": 0.5,
+													"EmotionInfluenceOnMoodFactor": 0.3,
+													"MoodInfluenceOnEmotionFactor": 0.3,
+													"MinimumMoodValueForInfluencingEmotions": 0.5,
+													"EmotionalHalfLifeDecayTime": 15,
+													"MoodHalfLifeDecayTime": 60
+												}
+										}
+								}
+						}, 
+						{
+							"key": "Soares",
+							"value":
+								{
+									"Name": "Soares",
+									"EmotionalState":
+										{
+											"Mood": 0,
+											"initialTick": 0,
+											"EmotionalPool": [],
+											"AppraisalConfiguration":
+												{
+													"HalfLifeDecayConstant": 0.5,
+													"EmotionInfluenceOnMoodFactor": 0.3,
+													"MoodInfluenceOnEmotionFactor": 0.3,
+													"MinimumMoodValueForInfluencingEmotions": 0.5,
+													"EmotionalHalfLifeDecayTime": 15,
+													"MoodHalfLifeDecayTime": 60
+												}
+										}
+								}
+						}]
+				}
+		},
+	"types": [
+		{
+			"TypeId": 0,
+			"ClassName": "AutobiographicMemory.AM+ActionEvent, AutobiographicMemory, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+		}, 
+		{
+			"TypeId": 1,
+			"ClassName": "AutobiographicMemory.AM+PropertyChangeEvent, AutobiographicMemory, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+		}, 
+		{
+			"TypeId": 2,
+			"ClassName": "RolePlayCharacter.RolePlayCharacterAsset, RolePlayCharacter, Version=1.5.0.0, Culture=neutral, PublicKeyToken=null"
+		}]
+}
